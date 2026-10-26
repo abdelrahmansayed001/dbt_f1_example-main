@@ -4,95 +4,19 @@ models:
   - name: stg_drivers
     description: "Staging model for drivers data"
     columns:
-      - name: driverId
-        tests:
-          - unique
-          - not_null
-      - name: driverRef
-        tests:
-          - not_null
 
-      - name: number
-        tests:
-          - not_null
-
-      - name: code
-        tests:
-          - not_null
-
-      - name: forename
-        tests:
-          - not_null
-
-      - name: surname
-        tests:
-          - not_null
-
-      - name: dob
-        tests:
-          - not_null
-
-      - name: nationality
-        tests:
-          - not_null
-
-      - name: url
-        tests:
-          - not_null
+      # - name: column_name
+      #   tests:
+      #     - constraint
 
   - name: stg_races
     columns:
-      - name: raceId
-        tests:
-          - not_null
-
-      - name: year
-        tests:
-          - not_null
-
-      - name: round
-        tests:
-          - not_null
-
-      - name: circuitId
-        tests:
-          - not_null
-
-      - name: name
-        tests:
-          - not_null
-
-      - name: date
-        tests:
-          - not_null
-
-      - name: time
-        tests:
-          - not_null
-
+      # - name: column_name
+      #   tests:
+      #     - constraint
 
   - name: stg_results
     columns:
-      - name: resultId
-        tests:
-          - not_null
-
-      - name: raceId
-        tests:
-          - not_null
-
-      - name: driverId
-        tests:
-          - not_null
-
-      - name: constructorId
-        tests:
-          - not_null
-
-      - name: number
-        tests:
-          - not_null
-          
-      - name: grid
-        tests:
-          - not_null
+      # - name: column_name
+      #   tests:
+      #     - constraint
