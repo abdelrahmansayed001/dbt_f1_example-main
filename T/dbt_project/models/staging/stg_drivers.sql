@@ -1,5 +1,5 @@
 
-{{config(materialized= 'table')}}
+{{config(materialized= 'view')}}
 
 select * 
 from {{ source('raw_data', 'raw_drivers') }}
