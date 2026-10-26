@@ -1,0 +1,14 @@
+version: 1
+
+sources:
+  - name: raw_data
+    description: "Raw data source for the project extracted from the f1 website"
+    database: dbt_project
+    schema: public
+    tables:
+      - name: raw_races
+        description: "Table containing race information"
+      - name: raw_drivers
+        description: "Table containing driver information"
+      - name: raw_results
+        description: "Table containing race results"
