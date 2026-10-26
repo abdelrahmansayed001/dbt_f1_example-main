@@ -1,7 +1,7 @@
 DB_CONFIG = {
     "host": 'localhost',
     "port": 5432,
-    "dbname": 'f1',
+    "dbname": 'dbt_project',
     "user": 'postgres',
-    "password": 'hanna'
+    "password": '0000'
 }
