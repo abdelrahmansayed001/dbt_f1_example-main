@@ -1,7 +1,8 @@
 <!-- This README file is generated for the dbt F1 Example project. -->
 <!-- It contains setup instructions, workflow details, and documentation guidance. -->
 
-# dbt F1 Example
+# dbt F1 Project
+### this is my first dbt project
 
 A dbt project for transforming Formula 1 data into analytics-ready models. This README covers the standard setup and workflow; the warehouse, sources, and available models are determined by the files in this repository.
 
