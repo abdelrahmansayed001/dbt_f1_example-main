@@ -1,5 +1,0 @@
-pandas
-tqdm
-bs4
-requests
-dbt-postgres
