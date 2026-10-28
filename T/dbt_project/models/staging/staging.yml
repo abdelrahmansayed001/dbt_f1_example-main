@@ -1,22 +1,43 @@
-version: 1
+version: 2
 
 models:
   - name: stg_drivers
     description: "Staging model for drivers data"
     columns:
 
-      # - name: column_name
-      #   tests:
-      #     - constraint
+      - name: driver_first_name
+        description: "First name of the driver"
+        tests:
+          - not_null
+      - name: driver_last_name
+        description: "Last name of the driver"
+        tests:
+          - not_null
 
   - name: stg_races
     columns:
-      # - name: column_name
-      #   tests:
-      #     - constraint
+      - name: race_url
+        tests:
+          - not_null
 
   - name: stg_results
     columns:
-      # - name: column_name
-      #   tests:
-      #     - constraint
+      - name: driver_short_name
+        description: "Short name of the driver"
+        tests:
+          - not_null
+
+      - name: team
+        description: "Team of the driver"
+        tests:
+          - not_null
+
+      - name: pos
+        description: "Position of the driver"
+        tests:
+          - not_null
+          
+      - name: pts
+        description: "Points scored by the driver"
+        tests:
+          - not_null
