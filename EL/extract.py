@@ -99,7 +99,7 @@ class F1Scraper:
 
 if __name__ == '__main__':
     scraper = F1Scraper()
-    years = list(range(1950, 1960))
+    years = list(range(1950, 2026))
     races, drivers, results = scraper.scrape_all(years)
 
     pd.DataFrame(races).to_csv('./sample/races.csv', index=False)
