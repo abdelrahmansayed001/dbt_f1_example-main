@@ -1,11 +1,4 @@
 year,grand_prix,url,date,winner_driver_first_name,winner_driver_last_name,winner_driver_short_name,winner_team,winner_laps,winner_time
-1950,Great Britain,https://www.formula1.com/en/results/1950/races/94/great-britain/race-result,13 May,Nino,Farina,FAR,Alfa Romeo,70,2:13:23.600
-1950,Monaco,https://www.formula1.com/en/results/1950/races/95/monaco/race-result,21 May,Juan Manuel,Fangio,FAN,Alfa Romeo,100,3:13:18.700
-1950,Indianapolis,https://www.formula1.com/en/results/1950/races/96/indianapolis/race-result,30 May,Johnnie,Parsons,PAR,Kurtis Kraft Offenhauser,138,2:46:55.970
-1950,Switzerland,https://www.formula1.com/en/results/1950/races/97/switzerland/race-result,04 Jun,Nino,Farina,FAR,Alfa Romeo,42,2:02:53.700
-1950,Belgium,https://www.formula1.com/en/results/1950/races/98/belgium/race-result,18 Jun,Juan Manuel,Fangio,FAN,Alfa Romeo,35,2:47:26.000
-1950,France,https://www.formula1.com/en/results/1950/races/99/france/race-result,02 Jul,Juan Manuel,Fangio,FAN,Alfa Romeo,64,2:57:52.800
-1950,Italy,https://www.formula1.com/en/results/1950/races/100/italy/race-result,03 Sep,Nino,Farina,FAR,Alfa Romeo,80,2:51:17.400
 1958,Argentina,https://www.formula1.com/en/results/1958/races/158/argentina/race-result,19 Jan,Stirling,Moss,MOS,Cooper Climax,80,2:19:33.700
 1958,Monaco,https://www.formula1.com/en/results/1958/races/159/monaco/race-result,18 May,Maurice,Trintignant,TRI,Cooper Climax,100,2:52:27.900
 1958,Netherlands,https://www.formula1.com/en/results/1958/races/160/netherlands/race-result,26 May,Stirling,Moss,MOS,Vanwall,75,2:04:49.200
@@ -17,33 +10,6 @@ year,grand_prix,url,date,winner_driver_first_name,winner_driver_last_name,winner
 1958,Portugal,https://www.formula1.com/en/results/1958/races/166/portugal/race-result,24 Aug,Stirling,Moss,MOS,Vanwall,50,2:11:27.800
 1958,Italy,https://www.formula1.com/en/results/1958/races/167/italy/race-result,07 Sep,Tony,Brooks,BRO,Vanwall,70,2:03:47.800
 1958,Morocco,https://www.formula1.com/en/results/1958/races/168/morocco/race-result,19 Oct,Stirling,Moss,MOS,Vanwall,53,2:09:15.100
-1959,Monaco,https://www.formula1.com/en/results/1959/races/169/monaco/race-result,10 May,Jack,Brabham,BRA,Cooper Climax,100,2:55:51.300
-1959,Indianapolis,https://www.formula1.com/en/results/1959/races/170/indianapolis/race-result,30 May,Rodger,Ward,WAR,Watson Offenhauser,200,3:40:49.200
-1959,Netherlands,https://www.formula1.com/en/results/1959/races/171/netherlands/race-result,31 May,Jo,Bonnier,BON,BRM,75,2:05:26.800
-1959,France,https://www.formula1.com/en/results/1959/races/172/france/race-result,05 Jul,Tony,Brooks,BRO,Ferrari,50,2:01:26.500
-1959,Great Britain,https://www.formula1.com/en/results/1959/races/173/great-britain/race-result,18 Jul,Jack,Brabham,BRA,Cooper Climax,75,2:30:11.600
-1959,Germany,https://www.formula1.com/en/results/1959/races/174/germany/race-result,02 Aug,Tony,Brooks,BRO,Ferrari,60,2:09:31.600
-1959,Portugal,https://www.formula1.com/en/results/1959/races/175/portugal/race-result,23 Aug,Stirling,Moss,MOS,Cooper Climax,62,2:11:55.410
-1959,Italy,https://www.formula1.com/en/results/1959/races/176/italy/race-result,13 Sep,Stirling,Moss,MOS,Cooper Climax,72,2:04:05.400
-1959,United States,https://www.formula1.com/en/results/1959/races/177/united-states/race-result,12 Dec,Bruce,McLaren,MCL,Cooper Climax,42,2:12:35.700
-1951,Switzerland,https://www.formula1.com/en/results/1951/races/101/switzerland/race-result,27 May,Juan Manuel,Fangio,FAN,Alfa Romeo,42,2:07:53.640
-1951,Indianapolis,https://www.formula1.com/en/results/1951/races/102/indianapolis/race-result,30 May,Lee,Wallard,WAL,Kurtis Kraft Offenhauser,200,3:57:38.050
-1951,Belgium,https://www.formula1.com/en/results/1951/races/103/belgium/race-result,17 Jun,Nino,Farina,FAR,Alfa Romeo,36,2:45:46.200
-1951,France,https://www.formula1.com/en/results/1951/races/104/france/race-result,01 Jul,Juan Manuel,Fangio,FAN,Alfa Romeo,77,3:22:11.000
-1951,France,https://www.formula1.com/en/results/1951/races/104/france/race-result,01 Jul,Luigi,Fagioli,FAG,Alfa Romeo,,
-1951,Great Britain,https://www.formula1.com/en/results/1951/races/105/great-britain/race-result,14 Jul,Jose Froilan,Gonzalez,GON,Ferrari,90,2:42:18.200
-1951,Germany,https://www.formula1.com/en/results/1951/races/106/germany/race-result,29 Jul,Alberto,Ascari,ASC,Ferrari,20,3:23:03.300
-1951,Italy,https://www.formula1.com/en/results/1951/races/107/italy/race-result,16 Sep,Alberto,Ascari,ASC,Ferrari,80,2:42:39.300
-1951,Spain,https://www.formula1.com/en/results/1951/races/108/spain/race-result,28 Oct,Juan Manuel,Fangio,FAN,Alfa Romeo,70,2:46:54.100
-1953,Argentina,https://www.formula1.com/en/results/1953/races/117/argentina/race-result,18 Jan,Alberto,Ascari,ASC,Ferrari,97,3:01:04.600
-1953,Indianapolis,https://www.formula1.com/en/results/1953/races/118/indianapolis/race-result,30 May,Bill,Vukovich,VUK,Kurtis Kraft Offenhauser,200,3:53:01.690
-1953,Netherlands,https://www.formula1.com/en/results/1953/races/119/netherlands/race-result,07 Jun,Alberto,Ascari,ASC,Ferrari,90,2:53:35.800
-1953,Belgium,https://www.formula1.com/en/results/1953/races/120/belgium/race-result,21 Jun,Alberto,Ascari,ASC,Ferrari,36,2:48:30.300
-1953,France,https://www.formula1.com/en/results/1953/races/121/france/race-result,05 Jul,Mike,Hawthorn,HAW,Ferrari,60,2:44:18.600
-1953,Great Britain,https://www.formula1.com/en/results/1953/races/122/great-britain/race-result,18 Jul,Alberto,Ascari,ASC,Ferrari,90,2:50:00.000
-1953,Germany,https://www.formula1.com/en/results/1953/races/123/germany/race-result,02 Aug,Nino,Farina,FAR,Ferrari,18,3:02:25.000
-1953,Switzerland,https://www.formula1.com/en/results/1953/races/124/switzerland/race-result,23 Aug,Alberto,Ascari,ASC,Ferrari,65,3:01:34.400
-1953,Italy,https://www.formula1.com/en/results/1953/races/125/italy/race-result,13 Sep,Juan Manuel,Fangio,FAN,Maserati,80,2:49:45.900
 1957,Argentina,https://www.formula1.com/en/results/1957/races/150/argentina/race-result,13 Jan,Juan Manuel,Fangio,FAN,Maserati,100,3:00:55.900
 1957,Monaco,https://www.formula1.com/en/results/1957/races/151/monaco/race-result,19 May,Juan Manuel,Fangio,FAN,Maserati,105,3:10:12.800
 1957,Indianapolis,https://www.formula1.com/en/results/1957/races/152/indianapolis/race-result,30 May,Sam,Hanks,HAN,Epperly Offenhauser,200,3:41:14.250
@@ -53,6 +19,15 @@ year,grand_prix,url,date,winner_driver_first_name,winner_driver_last_name,winner
 1957,Germany,https://www.formula1.com/en/results/1957/races/155/germany/race-result,04 Aug,Juan Manuel,Fangio,FAN,Maserati,22,3:30:38.300
 1957,Pescara,https://www.formula1.com/en/results/1957/races/156/pescara/race-result,18 Aug,Stirling,Moss,MOS,Vanwall,18,2:59:22.700
 1957,Italy,https://www.formula1.com/en/results/1957/races/157/italy/race-result,08 Sep,Stirling,Moss,MOS,Vanwall,87,2:35:03.900
+1959,Monaco,https://www.formula1.com/en/results/1959/races/169/monaco/race-result,10 May,Jack,Brabham,BRA,Cooper Climax,100,2:55:51.300
+1959,Indianapolis,https://www.formula1.com/en/results/1959/races/170/indianapolis/race-result,30 May,Rodger,Ward,WAR,Watson Offenhauser,200,3:40:49.200
+1959,Netherlands,https://www.formula1.com/en/results/1959/races/171/netherlands/race-result,31 May,Jo,Bonnier,BON,BRM,75,2:05:26.800
+1959,France,https://www.formula1.com/en/results/1959/races/172/france/race-result,05 Jul,Tony,Brooks,BRO,Ferrari,50,2:01:26.500
+1959,Great Britain,https://www.formula1.com/en/results/1959/races/173/great-britain/race-result,18 Jul,Jack,Brabham,BRA,Cooper Climax,75,2:30:11.600
+1959,Germany,https://www.formula1.com/en/results/1959/races/174/germany/race-result,02 Aug,Tony,Brooks,BRO,Ferrari,60,2:09:31.600
+1959,Portugal,https://www.formula1.com/en/results/1959/races/175/portugal/race-result,23 Aug,Stirling,Moss,MOS,Cooper Climax,62,2:11:55.410
+1959,Italy,https://www.formula1.com/en/results/1959/races/176/italy/race-result,13 Sep,Stirling,Moss,MOS,Cooper Climax,72,2:04:05.400
+1959,United States,https://www.formula1.com/en/results/1959/races/177/united-states/race-result,12 Dec,Bruce,McLaren,MCL,Cooper Climax,42,2:12:35.700
 1956,Argentina,https://www.formula1.com/en/results/1956/races/142/argentina/race-result,22 Jan,Luigi,Musso,MUS,Ferrari,,
 1956,Argentina,https://www.formula1.com/en/results/1956/races/142/argentina/race-result,22 Jan,Juan Manuel,Fangio,FAN,Ferrari,98,3:00:03.700
 1956,Monaco,https://www.formula1.com/en/results/1956/races/143/monaco/race-result,13 May,Stirling,Moss,MOS,Maserati,100,3:00:32.900
@@ -69,14 +44,59 @@ year,grand_prix,url,date,winner_driver_first_name,winner_driver_last_name,winner
 1955,Netherlands,https://www.formula1.com/en/results/1955/races/139/netherlands/race-result,19 Jun,Juan Manuel,Fangio,FAN,Mercedes-Benz,100,2:54:23.800
 1955,Great Britain,https://www.formula1.com/en/results/1955/races/140/great-britain/race-result,16 Jul,Stirling,Moss,MOS,Mercedes-Benz,90,3:07:21.200
 1955,Italy,https://www.formula1.com/en/results/1955/races/141/italy/race-result,11 Sep,Juan Manuel,Fangio,FAN,Mercedes-Benz,50,2:25:04.400
-1952,Switzerland,https://www.formula1.com/en/results/1952/races/109/switzerland/race-result,18 May,Piero,Taruffi,TAR,Ferrari,62,3:01:46.100
-1952,Indianapolis,https://www.formula1.com/en/results/1952/races/110/indianapolis/race-result,30 May,Troy,Ruttman,RUT,Kuzma Offenhauser,200,3:52:41.880
-1952,Belgium,https://www.formula1.com/en/results/1952/races/111/belgium/race-result,22 Jun,Alberto,Ascari,ASC,Ferrari,36,3:03:46.300
-1952,France,https://www.formula1.com/en/results/1952/races/112/france/race-result,06 Jul,Alberto,Ascari,ASC,Ferrari,77,3:00:00.000
-1952,Great Britain,https://www.formula1.com/en/results/1952/races/113/great-britain/race-result,19 Jul,Alberto,Ascari,ASC,Ferrari,85,2:44:11.000
-1952,Germany,https://www.formula1.com/en/results/1952/races/114/germany/race-result,03 Aug,Alberto,Ascari,ASC,Ferrari,18,3:06:13.300
-1952,Netherlands,https://www.formula1.com/en/results/1952/races/115/netherlands/race-result,17 Aug,Alberto,Ascari,ASC,Ferrari,90,2:53:28.500
-1952,Italy,https://www.formula1.com/en/results/1952/races/116/italy/race-result,07 Sep,Alberto,Ascari,ASC,Ferrari,80,2:50:45.600
+1950,Great Britain,https://www.formula1.com/en/results/1950/races/94/great-britain/race-result,13 May,Nino,Farina,FAR,Alfa Romeo,70,2:13:23.600
+1950,Monaco,https://www.formula1.com/en/results/1950/races/95/monaco/race-result,21 May,Juan Manuel,Fangio,FAN,Alfa Romeo,100,3:13:18.700
+1950,Indianapolis,https://www.formula1.com/en/results/1950/races/96/indianapolis/race-result,30 May,Johnnie,Parsons,PAR,Kurtis Kraft Offenhauser,138,2:46:55.970
+1950,Switzerland,https://www.formula1.com/en/results/1950/races/97/switzerland/race-result,04 Jun,Nino,Farina,FAR,Alfa Romeo,42,2:02:53.700
+1950,Belgium,https://www.formula1.com/en/results/1950/races/98/belgium/race-result,18 Jun,Juan Manuel,Fangio,FAN,Alfa Romeo,35,2:47:26.000
+1950,France,https://www.formula1.com/en/results/1950/races/99/france/race-result,02 Jul,Juan Manuel,Fangio,FAN,Alfa Romeo,64,2:57:52.800
+1950,Italy,https://www.formula1.com/en/results/1950/races/100/italy/race-result,03 Sep,Nino,Farina,FAR,Alfa Romeo,80,2:51:17.400
+1961,Monaco,https://www.formula1.com/en/results/1961/races/188/monaco/race-result,14 May,Stirling,Moss,MOS,Lotus Climax,100,2:45:50.100
+1961,Netherlands,https://www.formula1.com/en/results/1961/races/189/netherlands/race-result,22 May,Wolfgang,von Trips,VON,Ferrari,75,2:01:52.100
+1961,Belgium,https://www.formula1.com/en/results/1961/races/190/belgium/race-result,18 Jun,Phil,Hill,HIL,Ferrari,30,2:03:03.800
+1961,France,https://www.formula1.com/en/results/1961/races/191/france/race-result,02 Jul,Giancarlo,Baghetti,BAG,Ferrari,52,2:14:17.500
+1961,Great Britain,https://www.formula1.com/en/results/1961/races/192/great-britain/race-result,15 Jul,Wolfgang,von Trips,VON,Ferrari,75,2:40:53.600
+1961,Germany,https://www.formula1.com/en/results/1961/races/193/germany/race-result,06 Aug,Stirling,Moss,MOS,Lotus Climax,15,2:18:12.400
+1961,Italy,https://www.formula1.com/en/results/1961/races/194/italy/race-result,10 Sep,Phil,Hill,HIL,Ferrari,43,2:03:13.000
+1961,United States,https://www.formula1.com/en/results/1961/races/195/united-states/race-result,08 Oct,Innes,Ireland,IRE,Lotus Climax,100,2:13:45.800
+1962,Netherlands,https://www.formula1.com/en/results/1962/races/196/netherlands/race-result,20 May,Graham,Hill,HIL,BRM,80,2:11:02.100
+1962,Monaco,https://www.formula1.com/en/results/1962/races/197/monaco/race-result,03 Jun,Bruce,McLaren,MCL,Cooper Climax,100,2:46:29.700
+1962,Belgium,https://www.formula1.com/en/results/1962/races/198/belgium/race-result,17 Jun,Jim,Clark,CLA,Lotus Climax,32,2:07:32.300
+1962,France,https://www.formula1.com/en/results/1962/races/199/france/race-result,08 Jul,Dan,Gurney,GUR,Porsche,54,2:07:35.500
+1962,Great Britain,https://www.formula1.com/en/results/1962/races/200/great-britain/race-result,21 Jul,Jim,Clark,CLA,Lotus Climax,75,2:26:20.800
+1962,Germany,https://www.formula1.com/en/results/1962/races/201/germany/race-result,05 Aug,Graham,Hill,HIL,BRM,15,2:38:45.300
+1962,Italy,https://www.formula1.com/en/results/1962/races/202/italy/race-result,16 Sep,Graham,Hill,HIL,BRM,86,2:29:08.400
+1962,United States,https://www.formula1.com/en/results/1962/races/203/united-states/race-result,07 Oct,Jim,Clark,CLA,Lotus Climax,100,2:07:13.000
+1962,South Africa,https://www.formula1.com/en/results/1962/races/204/south-africa/race-result,29 Dec,Graham,Hill,HIL,BRM,82,2:08:03.300
+1960,Argentina,https://www.formula1.com/en/results/1960/races/178/argentina/race-result,07 Feb,Bruce,McLaren,MCL,Cooper Climax,80,2:17:49.500
+1960,Monaco,https://www.formula1.com/en/results/1960/races/179/monaco/race-result,29 May,Stirling,Moss,MOS,Lotus Climax,100,2:53:45.500
+1960,Indianapolis,https://www.formula1.com/en/results/1960/races/180/indianapolis/race-result,30 May,Jim,Rathmann,RAT,Watson Offenhauser,200,3:36:11.360
+1960,Netherlands,https://www.formula1.com/en/results/1960/races/181/netherlands/race-result,06 Jun,Jack,Brabham,BRA,Cooper Climax,75,2:01:47.200
+1960,Belgium,https://www.formula1.com/en/results/1960/races/182/belgium/race-result,19 Jun,Jack,Brabham,BRA,Cooper Climax,36,2:21:37.300
+1960,France,https://www.formula1.com/en/results/1960/races/183/france/race-result,03 Jul,Jack,Brabham,BRA,Cooper Climax,50,1:57:24.900
+1960,Great Britain,https://www.formula1.com/en/results/1960/races/184/great-britain/race-result,16 Jul,Jack,Brabham,BRA,Cooper Climax,77,2:04:24.600
+1960,Portugal,https://www.formula1.com/en/results/1960/races/185/portugal/race-result,14 Aug,Jack,Brabham,BRA,Cooper Climax,55,2:19:00.030
+1960,Italy,https://www.formula1.com/en/results/1960/races/186/italy/race-result,04 Sep,Phil,Hill,HIL,Ferrari,50,2:21:09.200
+1960,United States,https://www.formula1.com/en/results/1960/races/187/united-states/race-result,20 Nov,Stirling,Moss,MOS,Lotus Climax,75,2:28:52.200
+1951,Switzerland,https://www.formula1.com/en/results/1951/races/101/switzerland/race-result,27 May,Juan Manuel,Fangio,FAN,Alfa Romeo,42,2:07:53.640
+1951,Indianapolis,https://www.formula1.com/en/results/1951/races/102/indianapolis/race-result,30 May,Lee,Wallard,WAL,Kurtis Kraft Offenhauser,200,3:57:38.050
+1951,Belgium,https://www.formula1.com/en/results/1951/races/103/belgium/race-result,17 Jun,Nino,Farina,FAR,Alfa Romeo,36,2:45:46.200
+1951,France,https://www.formula1.com/en/results/1951/races/104/france/race-result,01 Jul,Juan Manuel,Fangio,FAN,Alfa Romeo,77,3:22:11.000
+1951,France,https://www.formula1.com/en/results/1951/races/104/france/race-result,01 Jul,Luigi,Fagioli,FAG,Alfa Romeo,,
+1951,Great Britain,https://www.formula1.com/en/results/1951/races/105/great-britain/race-result,14 Jul,Jose Froilan,Gonzalez,GON,Ferrari,90,2:42:18.200
+1951,Germany,https://www.formula1.com/en/results/1951/races/106/germany/race-result,29 Jul,Alberto,Ascari,ASC,Ferrari,20,3:23:03.300
+1951,Italy,https://www.formula1.com/en/results/1951/races/107/italy/race-result,16 Sep,Alberto,Ascari,ASC,Ferrari,80,2:42:39.300
+1951,Spain,https://www.formula1.com/en/results/1951/races/108/spain/race-result,28 Oct,Juan Manuel,Fangio,FAN,Alfa Romeo,70,2:46:54.100
+1963,Monaco,https://www.formula1.com/en/results/1963/races/205/monaco/race-result,26 May,Graham,Hill,HIL,BRM,100,2:41:49.700
+1963,Belgium,https://www.formula1.com/en/results/1963/races/206/belgium/race-result,09 Jun,Jim,Clark,CLA,Lotus Climax,32,2:27:47.600
+1963,Netherlands,https://www.formula1.com/en/results/1963/races/207/netherlands/race-result,23 Jun,Jim,Clark,CLA,Lotus Climax,80,2:08:13.700
+1963,France,https://www.formula1.com/en/results/1963/races/208/france/race-result,30 Jun,Jim,Clark,CLA,Lotus Climax,53,2:10:54.300
+1963,Great Britain,https://www.formula1.com/en/results/1963/races/209/great-britain/race-result,20 Jul,Jim,Clark,CLA,Lotus Climax,82,2:14:09.600
+1963,Germany,https://www.formula1.com/en/results/1963/races/210/germany/race-result,04 Aug,John,Surtees,SUR,Ferrari,15,2:13:06.800
+1963,Italy,https://www.formula1.com/en/results/1963/races/211/italy/race-result,08 Sep,Jim,Clark,CLA,Lotus Climax,86,2:24:19.600
+1963,United States,https://www.formula1.com/en/results/1963/races/212/united-states/race-result,06 Oct,Graham,Hill,HIL,BRM,110,2:19:22.100
+1963,Mexico,https://www.formula1.com/en/results/1963/races/213/mexico/race-result,27 Oct,Jim,Clark,CLA,Lotus Climax,65,2:09:52.100
+1963,South Africa,https://www.formula1.com/en/results/1963/races/214/south-africa/race-result,28 Dec,Jim,Clark,CLA,Lotus Climax,85,2:10:36.900
 1954,Argentina,https://www.formula1.com/en/results/1954/races/126/argentina/race-result,17 Jan,Juan Manuel,Fangio,FAN,Maserati,87,3:00:55.800
 1954,Indianapolis,https://www.formula1.com/en/results/1954/races/127/indianapolis/race-result,31 May,Bill,Vukovich,VUK,Kurtis Kraft Offenhauser,200,3:49:17.270
 1954,Belgium,https://www.formula1.com/en/results/1954/races/128/belgium/race-result,20 Jun,Juan Manuel,Fangio,FAN,Maserati,36,2:44:42.400
@@ -86,3 +106,1048 @@ year,grand_prix,url,date,winner_driver_first_name,winner_driver_last_name,winner
 1954,Switzerland,https://www.formula1.com/en/results/1954/races/132/switzerland/race-result,22 Aug,Juan Manuel,Fangio,FAN,Mercedes-Benz,66,3:00:34.500
 1954,Italy,https://www.formula1.com/en/results/1954/races/133/italy/race-result,05 Sep,Juan Manuel,Fangio,FAN,Mercedes-Benz,80,2:47:47.900
 1954,Spain,https://www.formula1.com/en/results/1954/races/134/spain/race-result,24 Oct,Mike,Hawthorn,HAW,Ferrari,80,3:13:52.100
+1953,Argentina,https://www.formula1.com/en/results/1953/races/117/argentina/race-result,18 Jan,Alberto,Ascari,ASC,Ferrari,97,3:01:04.600
+1953,Indianapolis,https://www.formula1.com/en/results/1953/races/118/indianapolis/race-result,30 May,Bill,Vukovich,VUK,Kurtis Kraft Offenhauser,200,3:53:01.690
+1953,Netherlands,https://www.formula1.com/en/results/1953/races/119/netherlands/race-result,07 Jun,Alberto,Ascari,ASC,Ferrari,90,2:53:35.800
+1953,Belgium,https://www.formula1.com/en/results/1953/races/120/belgium/race-result,21 Jun,Alberto,Ascari,ASC,Ferrari,36,2:48:30.300
+1953,France,https://www.formula1.com/en/results/1953/races/121/france/race-result,05 Jul,Mike,Hawthorn,HAW,Ferrari,60,2:44:18.600
+1953,Great Britain,https://www.formula1.com/en/results/1953/races/122/great-britain/race-result,18 Jul,Alberto,Ascari,ASC,Ferrari,90,2:50:00.000
+1953,Germany,https://www.formula1.com/en/results/1953/races/123/germany/race-result,02 Aug,Nino,Farina,FAR,Ferrari,18,3:02:25.000
+1953,Switzerland,https://www.formula1.com/en/results/1953/races/124/switzerland/race-result,23 Aug,Alberto,Ascari,ASC,Ferrari,65,3:01:34.400
+1953,Italy,https://www.formula1.com/en/results/1953/races/125/italy/race-result,13 Sep,Juan Manuel,Fangio,FAN,Maserati,80,2:49:45.900
+1964,Monaco,https://www.formula1.com/en/results/1964/races/215/monaco/race-result,10 May,Graham,Hill,HIL,BRM,100,2:41:19.500
+1964,Netherlands,https://www.formula1.com/en/results/1964/races/216/netherlands/race-result,24 May,Jim,Clark,CLA,Lotus Climax,80,2:07:35.400
+1964,Belgium,https://www.formula1.com/en/results/1964/races/217/belgium/race-result,14 Jun,Jim,Clark,CLA,Lotus Climax,32,2:06:40.500
+1964,France,https://www.formula1.com/en/results/1964/races/218/france/race-result,28 Jun,Dan,Gurney,GUR,Brabham Climax,57,2:07:49.100
+1964,Great Britain,https://www.formula1.com/en/results/1964/races/219/great-britain/race-result,11 Jul,Jim,Clark,CLA,Lotus Climax,80,2:15:07.000
+1964,Germany,https://www.formula1.com/en/results/1964/races/220/germany/race-result,02 Aug,John,Surtees,SUR,Ferrari,15,2:12:04.800
+1964,Austria,https://www.formula1.com/en/results/1964/races/221/austria/race-result,23 Aug,Lorenzo,Bandini,BAN,Ferrari,105,2:06:18.230
+1964,Italy,https://www.formula1.com/en/results/1964/races/222/italy/race-result,06 Sep,John,Surtees,SUR,Ferrari,78,2:10:51.800
+1964,United States,https://www.formula1.com/en/results/1964/races/223/united-states/race-result,04 Oct,Graham,Hill,HIL,BRM,110,2:16:38.000
+1964,Mexico,https://www.formula1.com/en/results/1964/races/224/mexico/race-result,25 Oct,Dan,Gurney,GUR,Brabham Climax,65,2:09:50.320
+1966,Monaco,https://www.formula1.com/en/results/1966/races/235/monaco/race-result,22 May,Jackie,Stewart,STE,BRM,100,2:33:10.500
+1965,South Africa,https://www.formula1.com/en/results/1965/races/225/south-africa/race-result,01 Jan,Jim,Clark,CLA,Lotus Climax,85,2:06:46.000
+1965,Monaco,https://www.formula1.com/en/results/1965/races/226/monaco/race-result,30 May,Graham,Hill,HIL,BRM,100,2:37:39.600
+1965,Belgium,https://www.formula1.com/en/results/1965/races/227/belgium/race-result,13 Jun,Jim,Clark,CLA,Lotus Climax,32,2:23:34.800
+1965,France,https://www.formula1.com/en/results/1965/races/228/france/race-result,27 Jun,Jim,Clark,CLA,Lotus Climax,40,2:14:38.400
+1965,Great Britain,https://www.formula1.com/en/results/1965/races/229/great-britain/race-result,10 Jul,Jim,Clark,CLA,Lotus Climax,80,2:05:25.400
+1965,Netherlands,https://www.formula1.com/en/results/1965/races/230/netherlands/race-result,18 Jul,Jim,Clark,CLA,Lotus Climax,80,2:03:59.100
+1965,Germany,https://www.formula1.com/en/results/1965/races/231/germany/race-result,01 Aug,Jim,Clark,CLA,Lotus Climax,15,2:07:52.400
+1965,Italy,https://www.formula1.com/en/results/1965/races/232/italy/race-result,12 Sep,Jackie,Stewart,STE,BRM,76,2:04:52.800
+1965,United States,https://www.formula1.com/en/results/1965/races/233/united-states/race-result,03 Oct,Graham,Hill,HIL,BRM,110,2:20:36.100
+1965,Mexico,https://www.formula1.com/en/results/1965/races/234/mexico/race-result,24 Oct,Richie,Ginther,GIN,Honda,65,2:08:32.100
+1952,Switzerland,https://www.formula1.com/en/results/1952/races/109/switzerland/race-result,18 May,Piero,Taruffi,TAR,Ferrari,62,3:01:46.100
+1952,Indianapolis,https://www.formula1.com/en/results/1952/races/110/indianapolis/race-result,30 May,Troy,Ruttman,RUT,Kuzma Offenhauser,200,3:52:41.880
+1952,Belgium,https://www.formula1.com/en/results/1952/races/111/belgium/race-result,22 Jun,Alberto,Ascari,ASC,Ferrari,36,3:03:46.300
+1952,France,https://www.formula1.com/en/results/1952/races/112/france/race-result,06 Jul,Alberto,Ascari,ASC,Ferrari,77,3:00:00.000
+1952,Great Britain,https://www.formula1.com/en/results/1952/races/113/great-britain/race-result,19 Jul,Alberto,Ascari,ASC,Ferrari,85,2:44:11.000
+1952,Germany,https://www.formula1.com/en/results/1952/races/114/germany/race-result,03 Aug,Alberto,Ascari,ASC,Ferrari,18,3:06:13.300
+1952,Netherlands,https://www.formula1.com/en/results/1952/races/115/netherlands/race-result,17 Aug,Alberto,Ascari,ASC,Ferrari,90,2:53:28.500
+1952,Italy,https://www.formula1.com/en/results/1952/races/116/italy/race-result,07 Sep,Alberto,Ascari,ASC,Ferrari,80,2:50:45.600
+1966,Belgium,https://www.formula1.com/en/results/1966/races/236/belgium/race-result,12 Jun,John,Surtees,SUR,Ferrari,28,2:09:11.300
+1966,France,https://www.formula1.com/en/results/1966/races/237/france/race-result,03 Jul,Jack,Brabham,BRA,Brabham Repco,48,1:48:31.300
+1966,Great Britain,https://www.formula1.com/en/results/1966/races/238/great-britain/race-result,16 Jul,Jack,Brabham,BRA,Brabham Repco,80,2:13:13.400
+1966,Netherlands,https://www.formula1.com/en/results/1966/races/239/netherlands/race-result,24 Jul,Jack,Brabham,BRA,Brabham Repco,90,2:20:32.500
+1966,Germany,https://www.formula1.com/en/results/1966/races/240/germany/race-result,07 Aug,Jack,Brabham,BRA,Brabham Repco,15,2:27:03.000
+1966,Italy,https://www.formula1.com/en/results/1966/races/241/italy/race-result,04 Sep,Ludovico,Scarfiotti,SCA,Ferrari,68,1:47:14.800
+1966,United States,https://www.formula1.com/en/results/1966/races/242/united-states/race-result,02 Oct,Jim,Clark,CLA,Lotus BRM,108,2:09:40.100
+1966,Mexico,https://www.formula1.com/en/results/1966/races/243/mexico/race-result,23 Oct,John,Surtees,SUR,Cooper Maserati,65,2:06:35.340
+1967,South Africa,https://www.formula1.com/en/results/1967/races/244/south-africa/race-result,02 Jan,Pedro,Rodriguez,ROD,Cooper Maserati,80,2:05:45.900
+1967,Monaco,https://www.formula1.com/en/results/1967/races/245/monaco/race-result,07 May,Denny,Hulme,HUL,Brabham Repco,100,2:34:34.300
+1967,Netherlands,https://www.formula1.com/en/results/1967/races/246/netherlands/race-result,04 Jun,Jim,Clark,CLA,Lotus Ford,90,2:14:45.100
+1967,Belgium,https://www.formula1.com/en/results/1967/races/247/belgium/race-result,18 Jun,Dan,Gurney,GUR,Eagle Weslake,28,1:40:49.400
+1967,France,https://www.formula1.com/en/results/1967/races/248/france/race-result,02 Jul,Jack,Brabham,BRA,Brabham Repco,80,2:13:21.300
+1967,Great Britain,https://www.formula1.com/en/results/1967/races/249/great-britain/race-result,15 Jul,Jim,Clark,CLA,Lotus Ford,80,1:59:25.600
+1967,Germany,https://www.formula1.com/en/results/1967/races/250/germany/race-result,06 Aug,Denny,Hulme,HUL,Brabham Repco,15,2:05:55.700
+1967,Canada,https://www.formula1.com/en/results/1967/races/251/canada/race-result,27 Aug,Jack,Brabham,BRA,Brabham Repco,90,2:40:40.000
+1967,Italy,https://www.formula1.com/en/results/1967/races/252/italy/race-result,10 Sep,John,Surtees,SUR,Honda,68,1:43:45.000
+1967,United States,https://www.formula1.com/en/results/1967/races/253/united-states/race-result,01 Oct,Jim,Clark,CLA,Lotus Ford,108,2:03:13.200
+1967,Mexico,https://www.formula1.com/en/results/1967/races/254/mexico/race-result,22 Oct,Jim,Clark,CLA,Lotus Ford,65,1:59:28.700
+1970,South Africa,https://www.formula1.com/en/results/1970/races/278/south-africa/race-result,07 Mar,Jack,Brabham,BRA,Brabham Ford,80,1:49:34.600
+1970,Spain,https://www.formula1.com/en/results/1970/races/279/spain/race-result,19 Apr,Jackie,Stewart,STE,March Ford,90,2:10:58.200
+1970,Monaco,https://www.formula1.com/en/results/1970/races/280/monaco/race-result,10 May,Jochen,Rindt,RIN,Lotus Ford,80,1:54:36.600
+1970,Belgium,https://www.formula1.com/en/results/1970/races/281/belgium/race-result,07 Jun,Pedro,Rodriguez,ROD,BRM,28,1:38:09.900
+1970,Netherlands,https://www.formula1.com/en/results/1970/races/282/netherlands/race-result,21 Jun,Jochen,Rindt,RIN,Lotus Ford,80,1:50:43.410
+1970,France,https://www.formula1.com/en/results/1970/races/283/france/race-result,05 Jul,Jochen,Rindt,RIN,Lotus Ford,38,1:55:57.000
+1970,Great Britain,https://www.formula1.com/en/results/1970/races/284/great-britain/race-result,18 Jul,Jochen,Rindt,RIN,Lotus Ford,80,1:57:02.000
+1970,Germany,https://www.formula1.com/en/results/1970/races/285/germany/race-result,02 Aug,Jochen,Rindt,RIN,Lotus Ford,50,1:42:00.300
+1970,Austria,https://www.formula1.com/en/results/1970/races/286/austria/race-result,16 Aug,Jacky,Ickx,ICK,Ferrari,60,1:42:17.320
+1970,Italy,https://www.formula1.com/en/results/1970/races/287/italy/race-result,06 Sep,Clay,Regazzoni,REG,Ferrari,68,1:39:06.880
+1970,Canada,https://www.formula1.com/en/results/1970/races/288/canada/race-result,20 Sep,Jacky,Ickx,ICK,Ferrari,90,2:21:18.400
+1970,United States,https://www.formula1.com/en/results/1970/races/289/united-states/race-result,04 Oct,Emerson,Fittipaldi,FIT,Lotus Ford,108,1:57:32.790
+1970,Mexico,https://www.formula1.com/en/results/1970/races/290/mexico/race-result,25 Oct,Jacky,Ickx,ICK,Ferrari,65,1:53:28.360
+1969,South Africa,https://www.formula1.com/en/results/1969/races/267/south-africa/race-result,01 Mar,Jackie,Stewart,STE,Matra Ford,80,1:50:39.100
+1969,Spain,https://www.formula1.com/en/results/1969/races/268/spain/race-result,04 May,Jackie,Stewart,STE,Matra Ford,90,2:16:53.990
+1969,Monaco,https://www.formula1.com/en/results/1969/races/269/monaco/race-result,18 May,Graham,Hill,HIL,Lotus Ford,80,1:56:59.400
+1969,Netherlands,https://www.formula1.com/en/results/1969/races/270/netherlands/race-result,21 Jun,Jackie,Stewart,STE,Matra Ford,90,2:06:42.080
+1969,France,https://www.formula1.com/en/results/1969/races/271/france/race-result,06 Jul,Jackie,Stewart,STE,Matra Ford,38,1:56:47.400
+1969,Great Britain,https://www.formula1.com/en/results/1969/races/272/great-britain/race-result,19 Jul,Jackie,Stewart,STE,Matra Ford,84,1:55:55.600
+1969,Germany,https://www.formula1.com/en/results/1969/races/273/germany/race-result,03 Aug,Jacky,Ickx,ICK,Brabham Ford,14,1:49:55.400
+1969,Italy,https://www.formula1.com/en/results/1969/races/274/italy/race-result,07 Sep,Jackie,Stewart,STE,Matra Ford,68,1:39:11.260
+1969,Canada,https://www.formula1.com/en/results/1969/races/275/canada/race-result,20 Sep,Jacky,Ickx,ICK,Brabham Ford,90,1:59:25.700
+1969,United States,https://www.formula1.com/en/results/1969/races/276/united-states/race-result,05 Oct,Jochen,Rindt,RIN,Lotus Ford,108,1:57:56.840
+1969,Mexico,https://www.formula1.com/en/results/1969/races/277/mexico/race-result,19 Oct,Denny,Hulme,HUL,McLaren Ford,65,1:54:08.800
+1971,South Africa,https://www.formula1.com/en/results/1971/races/291/south-africa/race-result,06 Mar,Mario,Andretti,AND,Ferrari,79,1:47:35.500
+1971,Spain,https://www.formula1.com/en/results/1971/races/292/spain/race-result,18 Apr,Jackie,Stewart,STE,Tyrrell Ford,75,1:49:03.400
+1971,Monaco,https://www.formula1.com/en/results/1971/races/293/monaco/race-result,23 May,Jackie,Stewart,STE,Tyrrell Ford,80,1:52:21.300
+1971,Netherlands,https://www.formula1.com/en/results/1971/races/294/netherlands/race-result,20 Jun,Jacky,Ickx,ICK,Ferrari,70,1:56:20.090
+1971,France,https://www.formula1.com/en/results/1971/races/295/france/race-result,04 Jul,Jackie,Stewart,STE,Tyrrell Ford,55,1:46:41.680
+1971,Great Britain,https://www.formula1.com/en/results/1971/races/296/great-britain/race-result,17 Jul,Jackie,Stewart,STE,Tyrrell Ford,68,1:31:31.500
+1971,Germany,https://www.formula1.com/en/results/1971/races/297/germany/race-result,01 Aug,Jackie,Stewart,STE,Tyrrell Ford,12,1:29:15.700
+1971,Austria,https://www.formula1.com/en/results/1971/races/298/austria/race-result,15 Aug,Jo,Siffert,SIF,BRM,54,1:30:23.910
+1971,Italy,https://www.formula1.com/en/results/1971/races/299/italy/race-result,05 Sep,Peter,Gethin,GET,BRM,55,1:18:12.600
+1971,Canada,https://www.formula1.com/en/results/1971/races/300/canada/race-result,19 Sep,Jackie,Stewart,STE,Tyrrell Ford,64,1:55:12.900
+1971,United States,https://www.formula1.com/en/results/1971/races/301/united-states/race-result,03 Oct,Francois,Cevert,CEV,Tyrrell Ford,59,1:43:51.991
+1968,South Africa,https://www.formula1.com/en/results/1968/races/255/south-africa/race-result,01 Jan,Jim,Clark,CLA,Lotus Ford,80,1:53:56.600
+1968,Spain,https://www.formula1.com/en/results/1968/races/256/spain/race-result,12 May,Graham,Hill,HIL,Lotus Ford,90,2:15:20.100
+1968,Monaco,https://www.formula1.com/en/results/1968/races/257/monaco/race-result,26 May,Graham,Hill,HIL,Lotus Ford,80,2:00:32.300
+1968,Belgium,https://www.formula1.com/en/results/1968/races/258/belgium/race-result,09 Jun,Bruce,McLaren,MCL,McLaren Ford,28,1:40:02.100
+1968,Netherlands,https://www.formula1.com/en/results/1968/races/259/netherlands/race-result,23 Jun,Jackie,Stewart,STE,Matra Ford,90,2:46:11.260
+1968,France,https://www.formula1.com/en/results/1968/races/260/france/race-result,07 Jul,Jacky,Ickx,ICK,Ferrari,60,2:25:40.900
+1968,Great Britain,https://www.formula1.com/en/results/1968/races/261/great-britain/race-result,20 Jul,Jo,Siffert,SIF,Lotus Ford,80,2:01:20.300
+1968,Germany,https://www.formula1.com/en/results/1968/races/262/germany/race-result,04 Aug,Jackie,Stewart,STE,Matra Ford,14,2:19:03.200
+1968,Italy,https://www.formula1.com/en/results/1968/races/263/italy/race-result,08 Sep,Denny,Hulme,HUL,McLaren Ford,68,1:40:14.800
+1968,Canada,https://www.formula1.com/en/results/1968/races/264/canada/race-result,22 Sep,Denny,Hulme,HUL,McLaren Ford,90,2:27:11.200
+1968,United States,https://www.formula1.com/en/results/1968/races/265/united-states/race-result,06 Oct,Jackie,Stewart,STE,Matra Ford,108,1:59:20.290
+1968,Mexico,https://www.formula1.com/en/results/1968/races/266/mexico/race-result,03 Nov,Graham,Hill,HIL,Lotus Ford,65,1:56:43.950
+1972,Argentina,https://www.formula1.com/en/results/1972/races/302/argentina/race-result,23 Jan,Jackie,Stewart,STE,Tyrrell Ford,95,1:57:58.820
+1972,South Africa,https://www.formula1.com/en/results/1972/races/303/south-africa/race-result,04 Mar,Denny,Hulme,HUL,McLaren Ford,79,1:45:49.100
+1972,Spain,https://www.formula1.com/en/results/1972/races/304/spain/race-result,01 May,Emerson,Fittipaldi,FIT,Lotus Ford,90,2:03:41.230
+1972,Monaco,https://www.formula1.com/en/results/1972/races/305/monaco/race-result,14 May,Jean-Pierre,Beltoise,BEL,BRM,80,2:26:54.700
+1972,Belgium,https://www.formula1.com/en/results/1972/races/306/belgium/race-result,04 Jun,Emerson,Fittipaldi,FIT,Lotus Ford,85,1:44:06.700
+1972,France,https://www.formula1.com/en/results/1972/races/307/france/race-result,02 Jul,Jackie,Stewart,STE,Tyrrell Ford,38,1:52:21.500
+1972,Great Britain,https://www.formula1.com/en/results/1972/races/308/great-britain/race-result,15 Jul,Emerson,Fittipaldi,FIT,Lotus Ford,76,1:47:50.200
+1972,Germany,https://www.formula1.com/en/results/1972/races/309/germany/race-result,30 Jul,Jacky,Ickx,ICK,Ferrari,14,1:42:12.300
+1972,Austria,https://www.formula1.com/en/results/1972/races/310/austria/race-result,13 Aug,Emerson,Fittipaldi,FIT,Lotus Ford,54,1:29:16.660
+1972,Italy,https://www.formula1.com/en/results/1972/races/311/italy/race-result,10 Sep,Emerson,Fittipaldi,FIT,Lotus Ford,55,1:29:58.400
+1972,Canada,https://www.formula1.com/en/results/1972/races/312/canada/race-result,24 Sep,Jackie,Stewart,STE,Tyrrell Ford,80,1:43:16.900
+1972,United States,https://www.formula1.com/en/results/1972/races/313/united-states/race-result,08 Oct,Jackie,Stewart,STE,Tyrrell Ford,59,1:41:45.354
+1975,Argentina,https://www.formula1.com/en/results/1975/races/344/argentina/race-result,12 Jan,Emerson,Fittipaldi,FIT,McLaren Ford,53,1:39:26.290
+1975,Brazil,https://www.formula1.com/en/results/1975/races/345/brazil/race-result,26 Jan,Carlos,Pace,PAC,Brabham Ford,40,1:44:41.170
+1975,South Africa,https://www.formula1.com/en/results/1975/races/346/south-africa/race-result,01 Mar,Jody,Scheckter,SCH,Tyrrell Ford,78,1:43:16.900
+1975,Spain,https://www.formula1.com/en/results/1975/races/347/spain/race-result,27 Apr,Jochen,Mass,MAS,McLaren Ford,29,42:53.700
+1975,Monaco,https://www.formula1.com/en/results/1975/races/348/monaco/race-result,11 May,Niki,Lauda,LAU,Ferrari,75,2:01:21.310
+1975,Belgium,https://www.formula1.com/en/results/1975/races/349/belgium/race-result,25 May,Niki,Lauda,LAU,Ferrari,70,1:43:53.980
+1975,Sweden,https://www.formula1.com/en/results/1975/races/350/sweden/race-result,08 Jun,Niki,Lauda,LAU,Ferrari,80,1:59:18.319
+1975,Netherlands,https://www.formula1.com/en/results/1975/races/351/netherlands/race-result,22 Jun,James,Hunt,HUN,Hesketh Ford,75,1:46:57.400
+1975,France,https://www.formula1.com/en/results/1975/races/352/france/race-result,06 Jul,Niki,Lauda,LAU,Ferrari,54,1:40:18.840
+1975,Great Britain,https://www.formula1.com/en/results/1975/races/353/great-britain/race-result,19 Jul,Emerson,Fittipaldi,FIT,McLaren Ford,56,1:22:05.000
+1975,Germany,https://www.formula1.com/en/results/1975/races/354/germany/race-result,03 Aug,Carlos,Reutemann,REU,Brabham Ford,14,1:41:14.100
+1975,Austria,https://www.formula1.com/en/results/1975/races/355/austria/race-result,17 Aug,Vittorio,Brambilla,BRA,March Ford,29,57:56.690
+1975,Italy,https://www.formula1.com/en/results/1975/races/356/italy/race-result,07 Sep,Clay,Regazzoni,REG,Ferrari,52,1:22:42.600
+1975,United States,https://www.formula1.com/en/results/1975/races/357/united-states/race-result,05 Oct,Niki,Lauda,LAU,Ferrari,59,1:42:58.175
+1974,Argentina,https://www.formula1.com/en/results/1974/races/329/argentina/race-result,13 Jan,Denny,Hulme,HUL,McLaren Ford,53,1:41:02.010
+1974,Brazil,https://www.formula1.com/en/results/1974/races/330/brazil/race-result,27 Jan,Emerson,Fittipaldi,FIT,McLaren Ford,32,1:24:37.060
+1974,South Africa,https://www.formula1.com/en/results/1974/races/331/south-africa/race-result,30 Mar,Carlos,Reutemann,REU,Brabham Ford,78,1:42:40.960
+1974,Spain,https://www.formula1.com/en/results/1974/races/332/spain/race-result,28 Apr,Niki,Lauda,LAU,Ferrari,84,2:00:29.560
+1974,Belgium,https://www.formula1.com/en/results/1974/races/333/belgium/race-result,12 May,Emerson,Fittipaldi,FIT,McLaren Ford,85,1:44:20.570
+1974,Monaco,https://www.formula1.com/en/results/1974/races/334/monaco/race-result,26 May,Ronnie,Peterson,PET,Lotus Ford,78,1:58:03.700
+1974,Sweden,https://www.formula1.com/en/results/1974/races/335/sweden/race-result,09 Jun,Jody,Scheckter,SCH,Tyrrell Ford,80,1:58:31.391
+1974,Netherlands,https://www.formula1.com/en/results/1974/races/336/netherlands/race-result,23 Jun,Niki,Lauda,LAU,Ferrari,75,1:43:00.350
+1974,France,https://www.formula1.com/en/results/1974/races/337/france/race-result,07 Jul,Ronnie,Peterson,PET,Lotus Ford,80,1:21:55.020
+1974,Great Britain,https://www.formula1.com/en/results/1974/races/338/great-britain/race-result,20 Jul,Jody,Scheckter,SCH,Tyrrell Ford,75,1:43:02.200
+1974,Germany,https://www.formula1.com/en/results/1974/races/339/germany/race-result,04 Aug,Clay,Regazzoni,REG,Ferrari,14,1:41:35.000
+1974,Austria,https://www.formula1.com/en/results/1974/races/340/austria/race-result,18 Aug,Carlos,Reutemann,REU,Brabham Ford,54,1:28:44.720
+1974,Italy,https://www.formula1.com/en/results/1974/races/341/italy/race-result,08 Sep,Ronnie,Peterson,PET,Lotus Ford,52,1:22:56.600
+1974,Canada,https://www.formula1.com/en/results/1974/races/342/canada/race-result,22 Sep,Emerson,Fittipaldi,FIT,McLaren Ford,80,1:40:26.136
+1974,United States,https://www.formula1.com/en/results/1974/races/343/united-states/race-result,06 Oct,Carlos,Reutemann,REU,Brabham Ford,59,1:40:21.439
+1979,Argentina,https://www.formula1.com/en/results/1979/races/407/argentina/race-result,21 Jan,Jacques,Laffite,LAF,Ligier Ford,53,1:36:03.210
+1979,Brazil,https://www.formula1.com/en/results/1979/races/408/brazil/race-result,04 Feb,Jacques,Laffite,LAF,Ligier Ford,40,1:40:09.640
+1979,South Africa,https://www.formula1.com/en/results/1979/races/409/south-africa/race-result,03 Mar,Gilles,Villeneuve,VIL,Ferrari,78,1:41:49.960
+1979,USA West,https://www.formula1.com/en/results/1979/races/410/usa-west/race-result,08 Apr,Gilles,Villeneuve,VIL,Ferrari,80,1:50:25.400
+1979,Spain,https://www.formula1.com/en/results/1979/races/411/spain/race-result,29 Apr,Patrick,Depailler,DEP,Ligier Ford,75,1:39:11.840
+1979,Belgium,https://www.formula1.com/en/results/1979/races/412/belgium/race-result,13 May,Jody,Scheckter,SCH,Ferrari,70,1:39:59.530
+1979,Monaco,https://www.formula1.com/en/results/1979/races/413/monaco/race-result,27 May,Jody,Scheckter,SCH,Ferrari,76,1:55:22.480
+1979,France,https://www.formula1.com/en/results/1979/races/414/france/race-result,01 Jul,Jean-Pierre,Jabouille,JAB,Renault,80,1:35:20.420
+1979,Great Britain,https://www.formula1.com/en/results/1979/races/415/great-britain/race-result,14 Jul,Clay,Regazzoni,REG,Williams Ford,68,1:26:11.170
+1979,Germany,https://www.formula1.com/en/results/1979/races/416/germany/race-result,29 Jul,Alan,Jones,JON,Williams Ford,45,1:24:48.830
+1979,Austria,https://www.formula1.com/en/results/1979/races/417/austria/race-result,12 Aug,Alan,Jones,JON,Williams Ford,54,1:27:38.010
+1979,Netherlands,https://www.formula1.com/en/results/1979/races/418/netherlands/race-result,26 Aug,Alan,Jones,JON,Williams Ford,75,1:41:19.775
+1979,Italy,https://www.formula1.com/en/results/1979/races/419/italy/race-result,09 Sep,Jody,Scheckter,SCH,Ferrari,50,1:22:00.220
+1979,Canada,https://www.formula1.com/en/results/1979/races/420/canada/race-result,30 Sep,Alan,Jones,JON,Williams Ford,72,1:52:06.892
+1979,USA East,https://www.formula1.com/en/results/1979/races/421/usa-east/race-result,07 Oct,Gilles,Villeneuve,VIL,Ferrari,59,1:52:17.734
+1973,Argentina,https://www.formula1.com/en/results/1973/races/314/argentina/race-result,28 Jan,Emerson,Fittipaldi,FIT,Lotus Ford,96,1:56:18.220
+1973,Brazil,https://www.formula1.com/en/results/1973/races/315/brazil/race-result,11 Feb,Emerson,Fittipaldi,FIT,Lotus Ford,40,1:43:55.600
+1973,South Africa,https://www.formula1.com/en/results/1973/races/316/south-africa/race-result,03 Mar,Jackie,Stewart,STE,Tyrrell Ford,79,1:43:11.070
+1973,Spain,https://www.formula1.com/en/results/1973/races/317/spain/race-result,29 Apr,Emerson,Fittipaldi,FIT,Lotus Ford,75,1:48:18.700
+1973,Belgium,https://www.formula1.com/en/results/1973/races/318/belgium/race-result,20 May,Jackie,Stewart,STE,Tyrrell Ford,70,1:42:13.430
+1973,Monaco,https://www.formula1.com/en/results/1973/races/319/monaco/race-result,03 Jun,Jackie,Stewart,STE,Tyrrell Ford,78,1:57:44.300
+1973,Sweden,https://www.formula1.com/en/results/1973/races/320/sweden/race-result,17 Jun,Denny,Hulme,HUL,McLaren Ford,80,1:56:46.049
+1973,France,https://www.formula1.com/en/results/1973/races/321/france/race-result,01 Jul,Ronnie,Peterson,PET,Lotus Ford,54,1:41:36.520
+1973,Great Britain,https://www.formula1.com/en/results/1973/races/322/great-britain/race-result,14 Jul,Peter,Revson,REV,McLaren Ford,67,1:29:18.500
+1973,Netherlands,https://www.formula1.com/en/results/1973/races/323/netherlands/race-result,29 Jul,Jackie,Stewart,STE,Tyrrell Ford,72,1:39:12.450
+1973,Germany,https://www.formula1.com/en/results/1973/races/324/germany/race-result,05 Aug,Jackie,Stewart,STE,Tyrrell Ford,14,1:42:03.000
+1973,Austria,https://www.formula1.com/en/results/1973/races/325/austria/race-result,19 Aug,Ronnie,Peterson,PET,Lotus Ford,54,1:28:48.780
+1973,Italy,https://www.formula1.com/en/results/1973/races/326/italy/race-result,09 Sep,Ronnie,Peterson,PET,Lotus Ford,55,1:29:17.000
+1973,Canada,https://www.formula1.com/en/results/1973/races/327/canada/race-result,23 Sep,Peter,Revson,REV,McLaren Ford,80,1:59:04.083
+1973,United States,https://www.formula1.com/en/results/1973/races/328/united-states/race-result,07 Oct,Ronnie,Peterson,PET,Lotus Ford,59,1:41:15.799
+1977,Argentina,https://www.formula1.com/en/results/1977/races/374/argentina/race-result,09 Jan,Jody,Scheckter,SCH,Wolf Ford,53,1:40:11.190
+1977,Brazil,https://www.formula1.com/en/results/1977/races/375/brazil/race-result,23 Jan,Carlos,Reutemann,REU,Ferrari,40,1:45:07.720
+1977,South Africa,https://www.formula1.com/en/results/1977/races/376/south-africa/race-result,05 Mar,Niki,Lauda,LAU,Ferrari,78,1:42:21.600
+1977,USA West,https://www.formula1.com/en/results/1977/races/377/usa-west/race-result,03 Apr,Mario,Andretti,AND,Lotus Ford,80,1:51:35.470
+1977,Spain,https://www.formula1.com/en/results/1977/races/378/spain/race-result,08 May,Mario,Andretti,AND,Lotus Ford,75,1:42:52.220
+1977,Monaco,https://www.formula1.com/en/results/1977/races/379/monaco/race-result,22 May,Jody,Scheckter,SCH,Wolf Ford,76,1:57:52.770
+1977,Belgium,https://www.formula1.com/en/results/1977/races/380/belgium/race-result,05 Jun,Gunnar,Nilsson,NIL,Lotus Ford,70,1:55:05.710
+1977,Sweden,https://www.formula1.com/en/results/1977/races/381/sweden/race-result,19 Jun,Jacques,Laffite,LAF,Ligier Matra,72,1:46:55.520
+1977,France,https://www.formula1.com/en/results/1977/races/382/france/race-result,03 Jul,Mario,Andretti,AND,Lotus Ford,80,1:39:40.130
+1977,Great Britain,https://www.formula1.com/en/results/1977/races/383/great-britain/race-result,16 Jul,James,Hunt,HUN,McLaren Ford,68,1:31:46.060
+1977,Germany,https://www.formula1.com/en/results/1977/races/384/germany/race-result,31 Jul,Niki,Lauda,LAU,Ferrari,47,1:31:48.620
+1977,Austria,https://www.formula1.com/en/results/1977/races/385/austria/race-result,14 Aug,Alan,Jones,JON,Shadow Ford,54,1:37:16.490
+1977,Netherlands,https://www.formula1.com/en/results/1977/races/386/netherlands/race-result,28 Aug,Niki,Lauda,LAU,Ferrari,75,1:41:45.930
+1977,Italy,https://www.formula1.com/en/results/1977/races/387/italy/race-result,11 Sep,Mario,Andretti,AND,Lotus Ford,52,1:27:50.300
+1977,USA East,https://www.formula1.com/en/results/1977/races/388/usa-east/race-result,02 Oct,James,Hunt,HUN,McLaren Ford,59,1:58:23.267
+1977,Canada,https://www.formula1.com/en/results/1977/races/389/canada/race-result,09 Oct,Jody,Scheckter,SCH,Wolf Ford,80,1:40:00.000
+1977,Japan,https://www.formula1.com/en/results/1977/races/390/japan/race-result,23 Oct,James,Hunt,HUN,McLaren Ford,73,1:31:51.680
+1976,Brazil,https://www.formula1.com/en/results/1976/races/358/brazil/race-result,25 Jan,Niki,Lauda,LAU,Ferrari,40,1:45:16.780
+1976,South Africa,https://www.formula1.com/en/results/1976/races/359/south-africa/race-result,06 Mar,Niki,Lauda,LAU,Ferrari,78,1:42:18.400
+1976,USA West,https://www.formula1.com/en/results/1976/races/360/usa-west/race-result,28 Mar,Clay,Regazzoni,REG,Ferrari,80,1:53:18.471
+1982,South Africa,https://www.formula1.com/en/results/1982/races/437/south-africa/race-result,23 Jan,Alain,Prost,PRO,Renault,77,1:32:08.401
+1982,Brazil,https://www.formula1.com/en/results/1982/races/438/brazil/race-result,21 Mar,Alain,Prost,PRO,Renault,63,1:44:33.134
+1982,USA West,https://www.formula1.com/en/results/1982/races/439/usa-west/race-result,04 Apr,Niki,Lauda,LAU,McLaren Ford,75,1:58:25.318
+1982,San Marino,https://www.formula1.com/en/results/1982/races/440/san-marino/race-result,25 Apr,Didier,Pironi,PIR,Ferrari,60,1:36:38.887
+1982,Belgium,https://www.formula1.com/en/results/1982/races/441/belgium/race-result,09 May,John,Watson,WAT,McLaren Ford,70,1:35:41.995
+1982,Monaco,https://www.formula1.com/en/results/1982/races/442/monaco/race-result,23 May,Riccardo,Patrese,PAT,Brabham Ford,76,1:54:11.259
+1982,Detroit,https://www.formula1.com/en/results/1982/races/443/detroit/race-result,06 Jun,John,Watson,WAT,McLaren Ford,62,1:58:41.043
+1982,Canada,https://www.formula1.com/en/results/1982/races/444/canada/race-result,13 Jun,Nelson,Piquet,PIQ,Brabham BMW,70,1:46:39.577
+1982,Netherlands,https://www.formula1.com/en/results/1982/races/445/netherlands/race-result,03 Jul,Didier,Pironi,PIR,Ferrari,72,1:38:03.254
+1982,Great Britain,https://www.formula1.com/en/results/1982/races/446/great-britain/race-result,18 Jul,Niki,Lauda,LAU,McLaren Ford,76,1:35:33.812
+1982,France,https://www.formula1.com/en/results/1982/races/447/france/race-result,25 Jul,Rene,Arnoux,ARN,Renault,54,1:33:33.217
+1982,Germany,https://www.formula1.com/en/results/1982/races/448/germany/race-result,08 Aug,Patrick,Tambay,TAM,Ferrari,45,1:27:25.178
+1982,Austria,https://www.formula1.com/en/results/1982/races/449/austria/race-result,15 Aug,Elio,de Angelis,DEA,Lotus Ford,53,1:25:02.212
+1982,Switzerland,https://www.formula1.com/en/results/1982/races/450/switzerland/race-result,29 Aug,Keke,Rosberg,ROS,Williams Ford,80,1:32:41.087
+1982,Italy,https://www.formula1.com/en/results/1982/races/451/italy/race-result,12 Sep,Rene,Arnoux,ARN,Renault,52,1:22:25.734
+1982,Caesar's Palace,https://www.formula1.com/en/results/1982/races/452/caesar-s-palace/race-result,25 Sep,Michele,Alboreto,ALB,Tyrrell Ford,75,1:41:56.888
+1976,Spain,https://www.formula1.com/en/results/1976/races/361/spain/race-result,02 May,James,Hunt,HUN,McLaren Ford,75,1:42:20.430
+1976,Belgium,https://www.formula1.com/en/results/1976/races/362/belgium/race-result,16 May,Niki,Lauda,LAU,Ferrari,70,1:42:53.230
+1976,Monaco,https://www.formula1.com/en/results/1976/races/363/monaco/race-result,30 May,Niki,Lauda,LAU,Ferrari,78,1:59:51.470
+1976,Sweden,https://www.formula1.com/en/results/1976/races/364/sweden/race-result,13 Jun,Jody,Scheckter,SCH,Tyrrell Ford,72,1:46:53.729
+1976,France,https://www.formula1.com/en/results/1976/races/365/france/race-result,04 Jul,James,Hunt,HUN,McLaren Ford,54,1:40:58.600
+1976,Great Britain,https://www.formula1.com/en/results/1976/races/366/great-britain/race-result,18 Jul,Niki,Lauda,LAU,Ferrari,76,1:44:19.660
+1976,Germany,https://www.formula1.com/en/results/1976/races/367/germany/race-result,01 Aug,James,Hunt,HUN,McLaren Ford,14,1:41:42.700
+1976,Austria,https://www.formula1.com/en/results/1976/races/368/austria/race-result,15 Aug,John,Watson,WAT,Penske Ford,54,1:30:07.860
+1976,Netherlands,https://www.formula1.com/en/results/1976/races/369/netherlands/race-result,29 Aug,James,Hunt,HUN,McLaren Ford,75,1:44:52.090
+1976,Italy,https://www.formula1.com/en/results/1976/races/370/italy/race-result,12 Sep,Ronnie,Peterson,PET,March Ford,52,1:30:35.600
+1976,Canada,https://www.formula1.com/en/results/1976/races/371/canada/race-result,03 Oct,James,Hunt,HUN,McLaren Ford,80,1:40:09.626
+1976,USA East,https://www.formula1.com/en/results/1976/races/372/usa-east/race-result,10 Oct,James,Hunt,HUN,McLaren Ford,59,1:42:40.741
+1976,Japan,https://www.formula1.com/en/results/1976/races/373/japan/race-result,24 Oct,Mario,Andretti,AND,Lotus Ford,73,1:43:58.860
+1980,Argentina,https://www.formula1.com/en/results/1980/races/80/argentina/race-result,13 Jan,Alan,Jones,JON,Williams Ford,53,1:43:24.380
+1980,Brazil,https://www.formula1.com/en/results/1980/races/81/brazil/race-result,27 Jan,Rene,Arnoux,ARN,Renault,40,1:40:01.330
+1980,South Africa,https://www.formula1.com/en/results/1980/races/82/south-africa/race-result,01 Mar,Rene,Arnoux,ARN,Renault,78,1:36:52.540
+1980,USA West,https://www.formula1.com/en/results/1980/races/83/usa-west/race-result,30 Mar,Nelson,Piquet,PIQ,Brabham Ford,80,1:50:18.550
+1980,Belgium,https://www.formula1.com/en/results/1980/races/84/belgium/race-result,04 May,Didier,Pironi,PIR,Ligier Ford,72,1:38:46.510
+1980,Monaco,https://www.formula1.com/en/results/1980/races/85/monaco/race-result,18 May,Carlos,Reutemann,REU,Williams Ford,76,1:55:34.365
+1980,France,https://www.formula1.com/en/results/1980/races/86/france/race-result,29 Jun,Alan,Jones,JON,Williams Ford,54,1:32:43.420
+1980,Great Britain,https://www.formula1.com/en/results/1980/races/87/great-britain/race-result,13 Jul,Alan,Jones,JON,Williams Ford,76,1:34:49.228
+1980,Germany,https://www.formula1.com/en/results/1980/races/88/germany/race-result,10 Aug,Jacques,Laffite,LAF,Ligier Ford,45,1:22:59.730
+1980,Austria,https://www.formula1.com/en/results/1980/races/89/austria/race-result,17 Aug,Jean-Pierre,Jabouille,JAB,Renault,54,1:26:15.730
+1980,Netherlands,https://www.formula1.com/en/results/1980/races/90/netherlands/race-result,31 Aug,Nelson,Piquet,PIQ,Brabham Ford,72,1:38:13.830
+1980,Italy,https://www.formula1.com/en/results/1980/races/91/italy/race-result,14 Sep,Nelson,Piquet,PIQ,Brabham Ford,60,1:38:07.520
+1980,Canada,https://www.formula1.com/en/results/1980/races/92/canada/race-result,28 Sep,Alan,Jones,JON,Williams Ford,70,1:46:45.530
+1980,USA East,https://www.formula1.com/en/results/1980/races/93/usa-east/race-result,05 Oct,Alan,Jones,JON,Williams Ford,59,1:34:36.050
+1978,Argentina,https://www.formula1.com/en/results/1978/races/391/argentina/race-result,15 Jan,Mario,Andretti,AND,Lotus Ford,52,1:37:04.470
+1978,Brazil,https://www.formula1.com/en/results/1978/races/392/brazil/race-result,29 Jan,Carlos,Reutemann,REU,Ferrari,63,1:49:59.860
+1978,South Africa,https://www.formula1.com/en/results/1978/races/393/south-africa/race-result,04 Mar,Ronnie,Peterson,PET,Lotus Ford,78,1:42:15.767
+1978,USA West,https://www.formula1.com/en/results/1978/races/394/usa-west/race-result,02 Apr,Carlos,Reutemann,REU,Ferrari,80,1:52:01.301
+1978,Monaco,https://www.formula1.com/en/results/1978/races/395/monaco/race-result,07 May,Patrick,Depailler,DEP,Tyrrell Ford,75,1:55:14.660
+1978,Belgium,https://www.formula1.com/en/results/1978/races/396/belgium/race-result,21 May,Mario,Andretti,AND,Lotus Ford,70,1:39:52.020
+1978,Spain,https://www.formula1.com/en/results/1978/races/397/spain/race-result,04 Jun,Mario,Andretti,AND,Lotus Ford,75,1:41:47.060
+1978,Sweden,https://www.formula1.com/en/results/1978/races/398/sweden/race-result,17 Jun,Niki,Lauda,LAU,Brabham Alfa Romeo,70,1:41:00.606
+1978,France,https://www.formula1.com/en/results/1978/races/399/france/race-result,02 Jul,Mario,Andretti,AND,Lotus Ford,54,1:38:51.920
+1984,Brazil,https://www.formula1.com/en/results/1984/races/466/brazil/race-result,25 Mar,Alain,Prost,PRO,McLaren TAG,61,1:42:34.492
+1984,South Africa,https://www.formula1.com/en/results/1984/races/467/south-africa/race-result,07 Apr,Niki,Lauda,LAU,McLaren TAG,75,1:29:23.430
+1984,Belgium,https://www.formula1.com/en/results/1984/races/468/belgium/race-result,29 Apr,Michele,Alboreto,ALB,Ferrari,70,1:36:32.048
+1984,San Marino,https://www.formula1.com/en/results/1984/races/469/san-marino/race-result,06 May,Alain,Prost,PRO,McLaren TAG,60,1:36:53.679
+1984,France,https://www.formula1.com/en/results/1984/races/470/france/race-result,20 May,Niki,Lauda,LAU,McLaren TAG,79,1:31:11.951
+1984,Monaco,https://www.formula1.com/en/results/1984/races/471/monaco/race-result,03 Jun,Alain,Prost,PRO,McLaren TAG,31,1:01:07.740
+1984,Canada,https://www.formula1.com/en/results/1984/races/472/canada/race-result,17 Jun,Nelson,Piquet,PIQ,Brabham BMW,70,1:46:23.748
+1984,Detroit,https://www.formula1.com/en/results/1984/races/473/detroit/race-result,24 Jun,Nelson,Piquet,PIQ,Brabham BMW,63,1:55:41.842
+1984,Dallas,https://www.formula1.com/en/results/1984/races/474/dallas/race-result,08 Jul,Keke,Rosberg,ROS,Williams Honda,67,2:01:22.617
+1984,Great Britain,https://www.formula1.com/en/results/1984/races/475/great-britain/race-result,22 Jul,Niki,Lauda,LAU,McLaren TAG,71,1:29:28.532
+1984,Germany,https://www.formula1.com/en/results/1984/races/476/germany/race-result,05 Aug,Alain,Prost,PRO,McLaren TAG,44,1:24:43.210
+1984,Austria,https://www.formula1.com/en/results/1984/races/477/austria/race-result,19 Aug,Niki,Lauda,LAU,McLaren TAG,51,1:21:12.851
+1984,Netherlands,https://www.formula1.com/en/results/1984/races/478/netherlands/race-result,26 Aug,Alain,Prost,PRO,McLaren TAG,71,1:37:21.468
+1984,Italy,https://www.formula1.com/en/results/1984/races/479/italy/race-result,09 Sep,Niki,Lauda,LAU,McLaren TAG,51,1:20:29.065
+1984,Europe,https://www.formula1.com/en/results/1984/races/480/europe/race-result,07 Oct,Alain,Prost,PRO,McLaren TAG,67,1:35:13.284
+1984,Portugal,https://www.formula1.com/en/results/1984/races/481/portugal/race-result,21 Oct,Alain,Prost,PRO,McLaren TAG,70,1:41:11.753
+1978,Great Britain,https://www.formula1.com/en/results/1978/races/400/great-britain/race-result,16 Jul,Carlos,Reutemann,REU,Ferrari,76,1:42:12.390
+1978,Germany,https://www.formula1.com/en/results/1978/races/401/germany/race-result,30 Jul,Mario,Andretti,AND,Lotus Ford,45,1:28:00.900
+1978,Austria,https://www.formula1.com/en/results/1978/races/402/austria/race-result,13 Aug,Ronnie,Peterson,PET,Lotus Ford,54,1:41:21.570
+1978,Netherlands,https://www.formula1.com/en/results/1978/races/403/netherlands/race-result,27 Aug,Mario,Andretti,AND,Lotus Ford,75,1:41:04.230
+1978,Italy,https://www.formula1.com/en/results/1978/races/404/italy/race-result,10 Sep,Niki,Lauda,LAU,Brabham Alfa Romeo,40,1:07:04.540
+1978,USA East,https://www.formula1.com/en/results/1978/races/405/usa-east/race-result,01 Oct,Carlos,Reutemann,REU,Ferrari,59,1:40:48.800
+1978,Canada,https://www.formula1.com/en/results/1978/races/406/canada/race-result,08 Oct,Gilles,Villeneuve,VIL,Ferrari,70,1:57:49.196
+1981,USA West,https://www.formula1.com/en/results/1981/races/422/usa-west/race-result,15 Mar,Alan,Jones,JON,Williams Ford,80,1:50:41.330
+1981,Brazil,https://www.formula1.com/en/results/1981/races/423/brazil/race-result,29 Mar,Carlos,Reutemann,REU,Williams Ford,62,2:00:23.660
+1981,Argentina,https://www.formula1.com/en/results/1981/races/424/argentina/race-result,12 Apr,Nelson,Piquet,PIQ,Brabham Ford,53,1:34:32.740
+1981,San Marino,https://www.formula1.com/en/results/1981/races/425/san-marino/race-result,03 May,Nelson,Piquet,PIQ,Brabham Ford,60,1:51:23.970
+1981,Belgium,https://www.formula1.com/en/results/1981/races/426/belgium/race-result,17 May,Carlos,Reutemann,REU,Williams Ford,54,1:16:31.610
+1981,Monaco,https://www.formula1.com/en/results/1981/races/427/monaco/race-result,31 May,Gilles,Villeneuve,VIL,Ferrari,76,1:54:23.380
+1981,Spain,https://www.formula1.com/en/results/1981/races/428/spain/race-result,21 Jun,Gilles,Villeneuve,VIL,Ferrari,80,1:46:35.010
+1981,France,https://www.formula1.com/en/results/1981/races/429/france/race-result,05 Jul,Alain,Prost,PRO,Renault,80,1:35:48.130
+1981,Great Britain,https://www.formula1.com/en/results/1981/races/430/great-britain/race-result,18 Jul,John,Watson,WAT,McLaren Ford,68,1:26:54.800
+1981,Germany,https://www.formula1.com/en/results/1981/races/431/germany/race-result,02 Aug,Nelson,Piquet,PIQ,Brabham Ford,45,1:25:55.600
+1981,Austria,https://www.formula1.com/en/results/1981/races/432/austria/race-result,16 Aug,Jacques,Laffite,LAF,Ligier Matra,53,1:27:36.470
+1981,Netherlands,https://www.formula1.com/en/results/1981/races/433/netherlands/race-result,30 Aug,Alain,Prost,PRO,Renault,72,1:40:22.430
+1981,Italy,https://www.formula1.com/en/results/1981/races/434/italy/race-result,13 Sep,Alain,Prost,PRO,Renault,52,1:26:33.897
+1981,Canada,https://www.formula1.com/en/results/1981/races/435/canada/race-result,27 Sep,Jacques,Laffite,LAF,Ligier Matra,63,2:01:25.205
+1981,Caesar's Palace,https://www.formula1.com/en/results/1981/races/436/caesar-s-palace/race-result,17 Oct,Alan,Jones,JON,Williams Ford,75,1:44:09.077
+1985,Brazil,https://www.formula1.com/en/results/1985/races/482/brazil/race-result,07 Apr,Alain,Prost,PRO,McLaren TAG,61,1:41:26.115
+1985,Portugal,https://www.formula1.com/en/results/1985/races/483/portugal/race-result,21 Apr,Ayrton,Senna,SEN,Lotus Renault,67,2:00:28.006
+1985,San Marino,https://www.formula1.com/en/results/1985/races/484/san-marino/race-result,05 May,Elio,de Angelis,DEA,Lotus Renault,60,1:34:35.955
+1985,Monaco,https://www.formula1.com/en/results/1985/races/485/monaco/race-result,19 May,Alain,Prost,PRO,McLaren TAG,78,1:51:58.034
+1985,Canada,https://www.formula1.com/en/results/1985/races/486/canada/race-result,16 Jun,Michele,Alboreto,ALB,Ferrari,70,1:46:01.813
+1985,Detroit,https://www.formula1.com/en/results/1985/races/487/detroit/race-result,23 Jun,Keke,Rosberg,ROS,Williams Honda,63,1:55:39.851
+1985,France,https://www.formula1.com/en/results/1985/races/488/france/race-result,07 Jul,Nelson,Piquet,PIQ,Brabham BMW,53,1:31:46.266
+1985,Great Britain,https://www.formula1.com/en/results/1985/races/489/great-britain/race-result,21 Jul,Alain,Prost,PRO,McLaren TAG,65,1:18:10.436
+1985,Germany,https://www.formula1.com/en/results/1985/races/490/germany/race-result,04 Aug,Michele,Alboreto,ALB,Ferrari,67,1:35:31.337
+1985,Austria,https://www.formula1.com/en/results/1985/races/491/austria/race-result,18 Aug,Alain,Prost,PRO,McLaren TAG,52,1:20:12.583
+1985,Netherlands,https://www.formula1.com/en/results/1985/races/492/netherlands/race-result,25 Aug,Niki,Lauda,LAU,McLaren TAG,70,1:32:29.263
+1985,Italy,https://www.formula1.com/en/results/1985/races/493/italy/race-result,08 Sep,Alain,Prost,PRO,McLaren TAG,51,1:17:59.451
+1985,Belgium,https://www.formula1.com/en/results/1985/races/494/belgium/race-result,15 Sep,Ayrton,Senna,SEN,Lotus Renault,43,1:34:19.893
+1985,Europe,https://www.formula1.com/en/results/1985/races/495/europe/race-result,06 Oct,Nigel,Mansell,MAN,Williams Honda,75,1:32:58.109
+1985,South Africa,https://www.formula1.com/en/results/1985/races/496/south-africa/race-result,19 Oct,Nigel,Mansell,MAN,Williams Honda,75,1:28:22.866
+1985,Australia,https://www.formula1.com/en/results/1985/races/497/australia/race-result,03 Nov,Keke,Rosberg,ROS,Williams Honda,82,2:00:40.473
+1988,Brazil,https://www.formula1.com/en/results/1988/races/527/brazil/race-result,03 Apr,Alain,Prost,PRO,McLaren Honda,60,1:36:06.857
+1988,San Marino,https://www.formula1.com/en/results/1988/races/528/san-marino/race-result,01 May,Ayrton,Senna,SEN,McLaren Honda,60,1:32:41.264
+1988,Monaco,https://www.formula1.com/en/results/1988/races/529/monaco/race-result,15 May,Alain,Prost,PRO,McLaren Honda,78,1:57:17.077
+1988,Mexico,https://www.formula1.com/en/results/1988/races/530/mexico/race-result,29 May,Alain,Prost,PRO,McLaren Honda,67,1:30:15.737
+1988,Canada,https://www.formula1.com/en/results/1988/races/531/canada/race-result,12 Jun,Ayrton,Senna,SEN,McLaren Honda,69,1:39:46.618
+1988,Detroit,https://www.formula1.com/en/results/1988/races/532/detroit/race-result,19 Jun,Ayrton,Senna,SEN,McLaren Honda,63,1:54:56.035
+1988,France,https://www.formula1.com/en/results/1988/races/533/france/race-result,03 Jul,Alain,Prost,PRO,McLaren Honda,80,1:37:37.328
+1988,Great Britain,https://www.formula1.com/en/results/1988/races/534/great-britain/race-result,10 Jul,Ayrton,Senna,SEN,McLaren Honda,65,1:33:16.367
+1988,Germany,https://www.formula1.com/en/results/1988/races/535/germany/race-result,24 Jul,Ayrton,Senna,SEN,McLaren Honda,44,1:32:54.188
+1988,Hungary,https://www.formula1.com/en/results/1988/races/536/hungary/race-result,07 Aug,Ayrton,Senna,SEN,McLaren Honda,76,1:57:47.081
+1988,Belgium,https://www.formula1.com/en/results/1988/races/537/belgium/race-result,28 Aug,Ayrton,Senna,SEN,McLaren Honda,43,1:28:00.549
+1988,Italy,https://www.formula1.com/en/results/1988/races/538/italy/race-result,11 Sep,Gerhard,Berger,BER,Ferrari,51,1:17:39.744
+1988,Portugal,https://www.formula1.com/en/results/1988/races/539/portugal/race-result,25 Sep,Alain,Prost,PRO,McLaren Honda,70,1:37:40.958
+1988,Spain,https://www.formula1.com/en/results/1988/races/540/spain/race-result,02 Oct,Alain,Prost,PRO,McLaren Honda,72,1:48:43.851
+1988,Japan,https://www.formula1.com/en/results/1988/races/541/japan/race-result,30 Oct,Ayrton,Senna,SEN,McLaren Honda,51,1:33:26.173
+1988,Australia,https://www.formula1.com/en/results/1988/races/542/australia/race-result,13 Nov,Alain,Prost,PRO,McLaren Honda,82,1:53:14.676
+1986,Brazil,https://www.formula1.com/en/results/1986/races/498/brazil/race-result,23 Mar,Nelson,Piquet,PIQ,Williams Honda,61,1:39:32.583
+1986,Spain,https://www.formula1.com/en/results/1986/races/499/spain/race-result,13 Apr,Ayrton,Senna,SEN,Lotus Renault,72,1:48:47.735
+1986,San Marino,https://www.formula1.com/en/results/1986/races/500/san-marino/race-result,27 Apr,Alain,Prost,PRO,McLaren TAG,60,1:32:28.408
+1986,Monaco,https://www.formula1.com/en/results/1986/races/501/monaco/race-result,11 May,Alain,Prost,PRO,McLaren TAG,78,1:55:41.060
+1986,Belgium,https://www.formula1.com/en/results/1986/races/502/belgium/race-result,25 May,Nigel,Mansell,MAN,Williams Honda,43,1:27:57.925
+1986,Canada,https://www.formula1.com/en/results/1986/races/503/canada/race-result,15 Jun,Nigel,Mansell,MAN,Williams Honda,69,1:42:26.415
+1986,Detroit,https://www.formula1.com/en/results/1986/races/504/detroit/race-result,22 Jun,Ayrton,Senna,SEN,Lotus Renault,63,1:51:12.847
+1986,France,https://www.formula1.com/en/results/1986/races/505/france/race-result,06 Jul,Nigel,Mansell,MAN,Williams Honda,80,1:37:19.272
+1986,Great Britain,https://www.formula1.com/en/results/1986/races/506/great-britain/race-result,13 Jul,Nigel,Mansell,MAN,Williams Honda,75,1:30:38.471
+1987,Brazil,https://www.formula1.com/en/results/1987/races/5/brazil/race-result,12 Apr,Alain,Prost,PRO,McLaren TAG,61,1:39:45.141
+1987,San Marino,https://www.formula1.com/en/results/1987/races/6/san-marino/race-result,03 May,Nigel,Mansell,MAN,Williams Honda,59,1:31:24.076
+1987,Belgium,https://www.formula1.com/en/results/1987/races/7/belgium/race-result,17 May,Alain,Prost,PRO,McLaren TAG,43,1:27:03.217
+1987,Monaco,https://www.formula1.com/en/results/1987/races/514/monaco/race-result,31 May,Ayrton,Senna,SEN,Lotus Honda,78,1:57:54.085
+1987,Detroit,https://www.formula1.com/en/results/1987/races/515/detroit/race-result,21 Jun,Ayrton,Senna,SEN,Lotus Honda,63,1:50:16.358
+1987,France,https://www.formula1.com/en/results/1987/races/516/france/race-result,05 Jul,Nigel,Mansell,MAN,Williams Honda,80,1:37:03.839
+1987,Great Britain,https://www.formula1.com/en/results/1987/races/517/great-britain/race-result,12 Jul,Nigel,Mansell,MAN,Williams Honda,65,1:19:11.780
+1987,Germany,https://www.formula1.com/en/results/1987/races/518/germany/race-result,26 Jul,Nelson,Piquet,PIQ,Williams Honda,44,1:21:25.091
+1987,Hungary,https://www.formula1.com/en/results/1987/races/519/hungary/race-result,09 Aug,Nelson,Piquet,PIQ,Williams Honda,76,1:59:26.793
+1987,Austria,https://www.formula1.com/en/results/1987/races/520/austria/race-result,16 Aug,Nigel,Mansell,MAN,Williams Honda,52,1:18:44.898
+1987,Italy,https://www.formula1.com/en/results/1987/races/521/italy/race-result,06 Sep,Nelson,Piquet,PIQ,Williams Honda,50,1:14:47.707
+1987,Portugal,https://www.formula1.com/en/results/1987/races/522/portugal/race-result,20 Sep,Alain,Prost,PRO,McLaren TAG,70,1:37:03.906
+1987,Spain,https://www.formula1.com/en/results/1987/races/523/spain/race-result,27 Sep,Nigel,Mansell,MAN,Williams Honda,72,1:49:12.692
+1987,Mexico,https://www.formula1.com/en/results/1987/races/524/mexico/race-result,18 Oct,Nigel,Mansell,MAN,Williams Honda,63,1:26:24.207
+1986,Germany,https://www.formula1.com/en/results/1986/races/507/germany/race-result,27 Jul,Nelson,Piquet,PIQ,Williams Honda,44,1:22:08.263
+1986,Hungary,https://www.formula1.com/en/results/1986/races/508/hungary/race-result,10 Aug,Nelson,Piquet,PIQ,Williams Honda,76,2:00:34.508
+1986,Austria,https://www.formula1.com/en/results/1986/races/509/austria/race-result,17 Aug,Alain,Prost,PRO,McLaren TAG,52,1:21:22.531
+1986,Italy,https://www.formula1.com/en/results/1986/races/510/italy/race-result,07 Sep,Nelson,Piquet,PIQ,Williams Honda,51,1:17:42.889
+1986,Portugal,https://www.formula1.com/en/results/1986/races/511/portugal/race-result,21 Sep,Nigel,Mansell,MAN,Williams Honda,70,1:37:21.900
+1986,Mexico,https://www.formula1.com/en/results/1986/races/512/mexico/race-result,12 Oct,Gerhard,Berger,BER,Benetton BMW,68,1:33:18.700
+1986,Australia,https://www.formula1.com/en/results/1986/races/513/australia/race-result,26 Oct,Alain,Prost,PRO,McLaren TAG,82,1:54:20.388
+1987,Japan,https://www.formula1.com/en/results/1987/races/525/japan/race-result,01 Nov,Gerhard,Berger,BER,Ferrari,51,1:32:58.072
+1987,Australia,https://www.formula1.com/en/results/1987/races/526/australia/race-result,15 Nov,Gerhard,Berger,BER,Ferrari,82,1:52:56.144
+1990,United States,https://www.formula1.com/en/results/1990/races/64/united-states/race-result,11 Mar,Ayrton,Senna,SEN,McLaren Honda,72,1:52:32.829
+1990,Brazil,https://www.formula1.com/en/results/1990/races/65/brazil/race-result,25 Mar,Alain,Prost,PRO,Ferrari,71,1:37:21.258
+1990,San Marino,https://www.formula1.com/en/results/1990/races/66/san-marino/race-result,13 May,Riccardo,Patrese,PAT,Williams Renault,61,1:30:55.478
+1990,Monaco,https://www.formula1.com/en/results/1990/races/67/monaco/race-result,27 May,Ayrton,Senna,SEN,McLaren Honda,78,1:52:46.982
+1990,Canada,https://www.formula1.com/en/results/1990/races/68/canada/race-result,10 Jun,Ayrton,Senna,SEN,McLaren Honda,70,1:42:56.400
+1990,Mexico,https://www.formula1.com/en/results/1990/races/69/mexico/race-result,24 Jun,Alain,Prost,PRO,Ferrari,69,1:32:35.783
+1990,France,https://www.formula1.com/en/results/1990/races/70/france/race-result,08 Jul,Alain,Prost,PRO,Ferrari,80,1:33:29.606
+1990,Great Britain,https://www.formula1.com/en/results/1990/races/71/great-britain/race-result,15 Jul,Alain,Prost,PRO,Ferrari,64,1:18:30.999
+1990,Germany,https://www.formula1.com/en/results/1990/races/72/germany/race-result,29 Jul,Ayrton,Senna,SEN,McLaren Honda,45,1:20:47.164
+1983,Brazil,https://www.formula1.com/en/results/1983/races/9/brazil/race-result,13 Mar,Nelson,Piquet,PIQ,Brabham BMW,63,1:48:27.731
+1983,USA West,https://www.formula1.com/en/results/1983/races/453/usa-west/race-result,27 Mar,John,Watson,WAT,McLaren Ford,75,1:53:34.889
+1983,France,https://www.formula1.com/en/results/1983/races/454/france/race-result,17 Apr,Alain,Prost,PRO,Renault,54,1:34:13.913
+1983,San Marino,https://www.formula1.com/en/results/1983/races/455/san-marino/race-result,01 May,Patrick,Tambay,TAM,Ferrari,60,1:37:52.460
+1983,Monaco,https://www.formula1.com/en/results/1983/races/456/monaco/race-result,15 May,Keke,Rosberg,ROS,Williams Ford,76,1:56:38.121
+1983,Belgium,https://www.formula1.com/en/results/1983/races/457/belgium/race-result,22 May,Alain,Prost,PRO,Renault,40,1:27:11.502
+1983,Detroit,https://www.formula1.com/en/results/1983/races/8/detroit/race-result,05 Jun,Michele,Alboreto,ALB,Tyrrell Ford,60,1:50:53.669
+1983,Canada,https://www.formula1.com/en/results/1983/races/458/canada/race-result,12 Jun,Rene,Arnoux,ARN,Ferrari,70,1:48:31.838
+1983,Great Britain,https://www.formula1.com/en/results/1983/races/459/great-britain/race-result,16 Jul,Alain,Prost,PRO,Renault,67,1:24:39.780
+1983,Germany,https://www.formula1.com/en/results/1983/races/460/germany/race-result,07 Aug,Rene,Arnoux,ARN,Ferrari,45,1:27:10.319
+1983,Austria,https://www.formula1.com/en/results/1983/races/461/austria/race-result,14 Aug,Alain,Prost,PRO,Renault,53,1:24:32.745
+1983,Netherlands,https://www.formula1.com/en/results/1983/races/462/netherlands/race-result,28 Aug,Rene,Arnoux,ARN,Ferrari,72,1:38:41.950
+1983,Italy,https://www.formula1.com/en/results/1983/races/463/italy/race-result,11 Sep,Nelson,Piquet,PIQ,Brabham BMW,52,1:23:10.880
+1983,Europe,https://www.formula1.com/en/results/1983/races/464/europe/race-result,25 Sep,Nelson,Piquet,PIQ,Brabham BMW,76,1:36:45.865
+1983,South Africa,https://www.formula1.com/en/results/1983/races/465/south-africa/race-result,15 Oct,Riccardo,Patrese,PAT,Brabham BMW,77,1:33:25.708
+1990,Hungary,https://www.formula1.com/en/results/1990/races/73/hungary/race-result,12 Aug,Thierry,Boutsen,BOU,Williams Renault,77,1:49:30.597
+1990,Belgium,https://www.formula1.com/en/results/1990/races/74/belgium/race-result,26 Aug,Ayrton,Senna,SEN,McLaren Honda,44,1:26:31.997
+1990,Italy,https://www.formula1.com/en/results/1990/races/75/italy/race-result,09 Sep,Ayrton,Senna,SEN,McLaren Honda,53,1:17:57.878
+1990,Portugal,https://www.formula1.com/en/results/1990/races/76/portugal/race-result,23 Sep,Nigel,Mansell,MAN,Ferrari,61,1:22:11.014
+1990,Spain,https://www.formula1.com/en/results/1990/races/77/spain/race-result,30 Sep,Alain,Prost,PRO,Ferrari,73,1:48:01.461
+1990,Japan,https://www.formula1.com/en/results/1990/races/78/japan/race-result,21 Oct,Nelson,Piquet,PIQ,Benetton Ford,53,1:34:36.824
+1990,Australia,https://www.formula1.com/en/results/1990/races/79/australia/race-result,04 Nov,Nelson,Piquet,PIQ,Benetton Ford,81,1:49:44.570
+1989,Brazil,https://www.formula1.com/en/results/1989/races/543/brazil/race-result,26 Mar,Nigel,Mansell,MAN,Ferrari,61,1:38:58.744
+1989,San Marino,https://www.formula1.com/en/results/1989/races/544/san-marino/race-result,23 Apr,Ayrton,Senna,SEN,McLaren Honda,58,1:26:51.245
+1989,Monaco,https://www.formula1.com/en/results/1989/races/545/monaco/race-result,07 May,Ayrton,Senna,SEN,McLaren Honda,77,1:53:33.251
+1989,Mexico,https://www.formula1.com/en/results/1989/races/546/mexico/race-result,28 May,Ayrton,Senna,SEN,McLaren Honda,69,1:35:21.431
+1989,United States,https://www.formula1.com/en/results/1989/races/547/united-states/race-result,04 Jun,Alain,Prost,PRO,McLaren Honda,75,2:01:33.133
+1989,Canada,https://www.formula1.com/en/results/1989/races/548/canada/race-result,18 Jun,Thierry,Boutsen,BOU,Williams Renault,69,2:01:24.073
+1989,France,https://www.formula1.com/en/results/1989/races/549/france/race-result,09 Jul,Alain,Prost,PRO,McLaren Honda,80,1:38:29.411
+1989,Great Britain,https://www.formula1.com/en/results/1989/races/550/great-britain/race-result,16 Jul,Alain,Prost,PRO,McLaren Honda,64,1:19:22.131
+1989,Germany,https://www.formula1.com/en/results/1989/races/551/germany/race-result,30 Jul,Ayrton,Senna,SEN,McLaren Honda,45,1:21:43.302
+1989,Hungary,https://www.formula1.com/en/results/1989/races/552/hungary/race-result,13 Aug,Nigel,Mansell,MAN,Ferrari,77,1:49:38.650
+1989,Belgium,https://www.formula1.com/en/results/1989/races/553/belgium/race-result,27 Aug,Ayrton,Senna,SEN,McLaren Honda,44,1:40:54.196
+1989,Italy,https://www.formula1.com/en/results/1989/races/554/italy/race-result,10 Sep,Alain,Prost,PRO,McLaren Honda,53,1:19:27.550
+1989,Portugal,https://www.formula1.com/en/results/1989/races/555/portugal/race-result,24 Sep,Gerhard,Berger,BER,Ferrari,71,1:36:48.546
+1989,Spain,https://www.formula1.com/en/results/1989/races/556/spain/race-result,01 Oct,Ayrton,Senna,SEN,McLaren Honda,72,1:47:48.264
+1989,Japan,https://www.formula1.com/en/results/1989/races/557/japan/race-result,22 Oct,Alessandro,Nannini,NAN,Benetton Ford,53,1:35:06.277
+1989,Australia,https://www.formula1.com/en/results/1989/races/558/australia/race-result,05 Nov,Thierry,Boutsen,BOU,Williams Renault,70,2:00:17.421
+1992,South Africa,https://www.formula1.com/en/results/1992/races/2/south-africa/race-result,01 Mar,Nigel,Mansell,MAN,Williams Renault,72,1:36:45.320
+1992,Mexico,https://www.formula1.com/en/results/1992/races/575/mexico/race-result,22 Mar,Nigel,Mansell,MAN,Williams Renault,69,1:31:53.587
+1992,Brazil,https://www.formula1.com/en/results/1992/races/576/brazil/race-result,05 Apr,Nigel,Mansell,MAN,Williams Renault,71,1:36:51.856
+1992,Spain,https://www.formula1.com/en/results/1992/races/577/spain/race-result,03 May,Nigel,Mansell,MAN,Williams Renault,65,1:56:10.674
+1992,San Marino,https://www.formula1.com/en/results/1992/races/578/san-marino/race-result,17 May,Nigel,Mansell,MAN,Williams Renault,60,1:28:40.927
+1992,Monaco,https://www.formula1.com/en/results/1992/races/579/monaco/race-result,31 May,Ayrton,Senna,SEN,McLaren Honda,78,1:50:59.372
+1992,Canada,https://www.formula1.com/en/results/1992/races/580/canada/race-result,14 Jun,Gerhard,Berger,BER,McLaren Honda,69,1:37:08.299
+1992,France,https://www.formula1.com/en/results/1992/races/581/france/race-result,05 Jul,Nigel,Mansell,MAN,Williams Renault,69,1:38:08.459
+1992,Great Britain,https://www.formula1.com/en/results/1992/races/582/great-britain/race-result,12 Jul,Nigel,Mansell,MAN,Williams Renault,59,1:25:42.991
+1992,Germany,https://www.formula1.com/en/results/1992/races/583/germany/race-result,26 Jul,Nigel,Mansell,MAN,Williams Renault,45,1:18:22.032
+1992,Hungary,https://www.formula1.com/en/results/1992/races/584/hungary/race-result,16 Aug,Ayrton,Senna,SEN,McLaren Honda,77,1:46:19.216
+1992,Belgium,https://www.formula1.com/en/results/1992/races/585/belgium/race-result,30 Aug,Michael,Schumacher,MSC,Benetton Ford,44,1:36:10.721
+1992,Italy,https://www.formula1.com/en/results/1992/races/586/italy/race-result,13 Sep,Ayrton,Senna,SEN,McLaren Honda,53,1:18:15.349
+1992,Portugal,https://www.formula1.com/en/results/1992/races/587/portugal/race-result,27 Sep,Nigel,Mansell,MAN,Williams Renault,71,1:34:46.659
+1992,Japan,https://www.formula1.com/en/results/1992/races/588/japan/race-result,25 Oct,Riccardo,Patrese,PAT,Williams Renault,53,1:33:09.553
+1992,Australia,https://www.formula1.com/en/results/1992/races/589/australia/race-result,08 Nov,Gerhard,Berger,BER,McLaren Honda,82,1:46:54.786
+1993,South Africa,https://www.formula1.com/en/results/1993/races/590/south-africa/race-result,14 Mar,Alain,Prost,PRO,Williams Renault,72,1:38:45.082
+1993,Brazil,https://www.formula1.com/en/results/1993/races/591/brazil/race-result,28 Mar,Ayrton,Senna,SEN,McLaren Ford,71,1:51:15.485
+1993,Europe,https://www.formula1.com/en/results/1993/races/592/europe/race-result,11 Apr,Ayrton,Senna,SEN,McLaren Ford,76,1:50:46.570
+1993,San Marino,https://www.formula1.com/en/results/1993/races/593/san-marino/race-result,25 Apr,Alain,Prost,PRO,Williams Renault,61,1:33:20.413
+1993,Spain,https://www.formula1.com/en/results/1993/races/594/spain/race-result,09 May,Alain,Prost,PRO,Williams Renault,65,1:32:27.685
+1993,Monaco,https://www.formula1.com/en/results/1993/races/595/monaco/race-result,23 May,Ayrton,Senna,SEN,McLaren Ford,78,1:52:10.947
+1993,Canada,https://www.formula1.com/en/results/1993/races/596/canada/race-result,13 Jun,Alain,Prost,PRO,Williams Renault,69,1:36:41.822
+1993,France,https://www.formula1.com/en/results/1993/races/597/france/race-result,04 Jul,Alain,Prost,PRO,Williams Renault,72,1:38:35.241
+1993,Great Britain,https://www.formula1.com/en/results/1993/races/3/great-britain/race-result,11 Jul,Alain,Prost,PRO,Williams Renault,59,1:25:38.189
+1993,Germany,https://www.formula1.com/en/results/1993/races/598/germany/race-result,25 Jul,Alain,Prost,PRO,Williams Renault,45,1:18:40.885
+1993,Hungary,https://www.formula1.com/en/results/1993/races/599/hungary/race-result,15 Aug,Damon,Hill,HIL,Williams Renault,77,1:47:39.098
+1993,Belgium,https://www.formula1.com/en/results/1993/races/600/belgium/race-result,29 Aug,Damon,Hill,HIL,Williams Renault,44,1:24:32.124
+1993,Italy,https://www.formula1.com/en/results/1993/races/601/italy/race-result,12 Sep,Damon,Hill,HIL,Williams Renault,53,1:17:07.509
+1993,Portugal,https://www.formula1.com/en/results/1993/races/602/portugal/race-result,26 Sep,Michael,Schumacher,MSC,Benetton Ford,71,1:32:46.309
+1993,Japan,https://www.formula1.com/en/results/1993/races/603/japan/race-result,24 Oct,Ayrton,Senna,SEN,McLaren Ford,53,1:40:27.912
+1993,Australia,https://www.formula1.com/en/results/1993/races/604/australia/race-result,07 Nov,Ayrton,Senna,SEN,McLaren Ford,79,1:43:27.476
+1995,Brazil,https://www.formula1.com/en/results/1995/races/621/brazil/race-result,26 Mar,Michael,Schumacher,MSC,Benetton Renault,71,1:38:34.154
+1995,Argentina,https://www.formula1.com/en/results/1995/races/622/argentina/race-result,09 Apr,Damon,Hill,HIL,Williams Renault,71,1:51:39.531
+1995,San Marino,https://www.formula1.com/en/results/1995/races/623/san-marino/race-result,30 Apr,Damon,Hill,HIL,Williams Renault,63,1:41:42.552
+1995,Spain,https://www.formula1.com/en/results/1995/races/624/spain/race-result,14 May,Michael,Schumacher,MSC,Benetton Renault,65,1:34:20.507
+1995,Monaco,https://www.formula1.com/en/results/1995/races/625/monaco/race-result,28 May,Michael,Schumacher,MSC,Benetton Renault,78,1:53:11.258
+1995,Canada,https://www.formula1.com/en/results/1995/races/626/canada/race-result,11 Jun,Jean,Alesi,ALE,Ferrari,69,1:46:31.333
+1995,France,https://www.formula1.com/en/results/1995/races/627/france/race-result,02 Jul,Michael,Schumacher,MSC,Benetton Renault,72,1:38:28.429
+1995,Great Britain,https://www.formula1.com/en/results/1995/races/628/great-britain/race-result,16 Jul,Johnny,Herbert,HER,Benetton Renault,61,1:34:35.093
+1994,Brazil,https://www.formula1.com/en/results/1994/races/605/brazil/race-result,27 Mar,Michael,Schumacher,MSC,Benetton Ford,71,1:35:38.759
+1994,Pacific,https://www.formula1.com/en/results/1994/races/606/pacific/race-result,17 Apr,Michael,Schumacher,MSC,Benetton Ford,83,1:46:01.693
+1994,San Marino,https://www.formula1.com/en/results/1994/races/607/san-marino/race-result,01 May,Michael,Schumacher,MSC,Benetton Ford,58,1:28:28.642
+1994,Monaco,https://www.formula1.com/en/results/1994/races/608/monaco/race-result,15 May,Michael,Schumacher,MSC,Benetton Ford,78,1:49:55.372
+1994,Spain,https://www.formula1.com/en/results/1994/races/609/spain/race-result,29 May,Damon,Hill,HIL,Williams Renault,65,1:36:14.374
+1994,Canada,https://www.formula1.com/en/results/1994/races/610/canada/race-result,12 Jun,Michael,Schumacher,MSC,Benetton Ford,69,1:44:31.887
+1994,France,https://www.formula1.com/en/results/1994/races/611/france/race-result,03 Jul,Michael,Schumacher,MSC,Benetton Ford,72,1:38:35.704
+1994,Great Britain,https://www.formula1.com/en/results/1994/races/612/great-britain/race-result,10 Jul,Damon,Hill,HIL,Williams Renault,60,1:30:03.640
+1994,Germany,https://www.formula1.com/en/results/1994/races/613/germany/race-result,31 Jul,Gerhard,Berger,BER,Ferrari,45,1:22:37.272
+1994,Hungary,https://www.formula1.com/en/results/1994/races/614/hungary/race-result,14 Aug,Michael,Schumacher,MSC,Benetton Ford,77,1:48:00.185
+1994,Belgium,https://www.formula1.com/en/results/1994/races/615/belgium/race-result,28 Aug,Damon,Hill,HIL,Williams Renault,44,1:28:47.170
+1994,Italy,https://www.formula1.com/en/results/1994/races/616/italy/race-result,11 Sep,Damon,Hill,HIL,Williams Renault,53,1:18:02.754
+1994,Portugal,https://www.formula1.com/en/results/1994/races/617/portugal/race-result,25 Sep,Damon,Hill,HIL,Williams Renault,71,1:41:10.165
+1994,Europe,https://www.formula1.com/en/results/1994/races/618/europe/race-result,16 Oct,Michael,Schumacher,MSC,Benetton Ford,69,1:40:26.689
+1994,Japan,https://www.formula1.com/en/results/1994/races/619/japan/race-result,06 Nov,Damon,Hill,HIL,Williams Renault,50,1:55:53.532
+1994,Australia,https://www.formula1.com/en/results/1994/races/620/australia/race-result,13 Nov,Nigel,Mansell,MAN,Williams Renault,81,1:47:51.480
+1995,Germany,https://www.formula1.com/en/results/1995/races/629/germany/race-result,30 Jul,Michael,Schumacher,MSC,Benetton Renault,45,1:22:56.043
+1995,Hungary,https://www.formula1.com/en/results/1995/races/630/hungary/race-result,13 Aug,Damon,Hill,HIL,Williams Renault,77,1:46:25.721
+1995,Belgium,https://www.formula1.com/en/results/1995/races/631/belgium/race-result,27 Aug,Michael,Schumacher,MSC,Benetton Renault,44,1:36:47.875
+1995,Italy,https://www.formula1.com/en/results/1995/races/632/italy/race-result,10 Sep,Johnny,Herbert,HER,Benetton Renault,53,1:18:27.916
+1995,Portugal,https://www.formula1.com/en/results/1995/races/633/portugal/race-result,24 Sep,David,Coulthard,COU,Williams Renault,71,1:41:52.145
+1995,Europe,https://www.formula1.com/en/results/1995/races/634/europe/race-result,01 Oct,Michael,Schumacher,MSC,Benetton Renault,67,1:39:59.044
+1995,Pacific,https://www.formula1.com/en/results/1995/races/635/pacific/race-result,22 Oct,Michael,Schumacher,MSC,Benetton Renault,83,1:48:49.972
+1995,Japan,https://www.formula1.com/en/results/1995/races/636/japan/race-result,29 Oct,Michael,Schumacher,MSC,Benetton Renault,53,1:36:52.930
+1995,Australia,https://www.formula1.com/en/results/1995/races/637/australia/race-result,12 Nov,Damon,Hill,HIL,Williams Renault,81,1:49:15.946
+1991,United States,https://www.formula1.com/en/results/1991/races/559/united-states/race-result,10 Mar,Ayrton,Senna,SEN,McLaren Honda,81,2:00:47.828
+1991,Brazil,https://www.formula1.com/en/results/1991/races/560/brazil/race-result,24 Mar,Ayrton,Senna,SEN,McLaren Honda,71,1:38:28.128
+1991,San Marino,https://www.formula1.com/en/results/1991/races/561/san-marino/race-result,28 Apr,Ayrton,Senna,SEN,McLaren Honda,61,1:35:14.750
+1991,Monaco,https://www.formula1.com/en/results/1991/races/562/monaco/race-result,12 May,Ayrton,Senna,SEN,McLaren Honda,78,1:53:02.334
+1991,Canada,https://www.formula1.com/en/results/1991/races/563/canada/race-result,02 Jun,Nelson,Piquet,PIQ,Benetton Ford,69,1:38:51.490
+1991,Mexico,https://www.formula1.com/en/results/1991/races/564/mexico/race-result,16 Jun,Riccardo,Patrese,PAT,Williams Renault,67,1:29:52.205
+1991,France,https://www.formula1.com/en/results/1991/races/565/france/race-result,07 Jul,Nigel,Mansell,MAN,Williams Renault,72,1:38:00.056
+1991,Great Britain,https://www.formula1.com/en/results/1991/races/566/great-britain/race-result,14 Jul,Nigel,Mansell,MAN,Williams Renault,59,1:27:35.479
+1991,Germany,https://www.formula1.com/en/results/1991/races/567/germany/race-result,28 Jul,Nigel,Mansell,MAN,Williams Renault,45,1:19:29.661
+1991,Hungary,https://www.formula1.com/en/results/1991/races/568/hungary/race-result,11 Aug,Ayrton,Senna,SEN,McLaren Honda,77,1:49:12.796
+1991,Belgium,https://www.formula1.com/en/results/1991/races/569/belgium/race-result,25 Aug,Ayrton,Senna,SEN,McLaren Honda,44,1:27:17.669
+1991,Italy,https://www.formula1.com/en/results/1991/races/570/italy/race-result,08 Sep,Nigel,Mansell,MAN,Williams Renault,53,1:17:54.319
+1991,Portugal,https://www.formula1.com/en/results/1991/races/571/portugal/race-result,22 Sep,Riccardo,Patrese,PAT,Williams Renault,71,1:35:42.304
+1991,Spain,https://www.formula1.com/en/results/1991/races/572/spain/race-result,29 Sep,Nigel,Mansell,MAN,Williams Renault,65,1:38:41.541
+1991,Japan,https://www.formula1.com/en/results/1991/races/573/japan/race-result,20 Oct,Gerhard,Berger,BER,McLaren Honda,53,1:32:10.695
+1991,Australia,https://www.formula1.com/en/results/1991/races/574/australia/race-result,03 Nov,Ayrton,Senna,SEN,McLaren Honda,14,24:34.899
+1996,Australia,https://www.formula1.com/en/results/1996/races/638/australia/race-result,10 Mar,Damon,Hill,HIL,Williams Renault,58,1:32:50.491
+1996,Brazil,https://www.formula1.com/en/results/1996/races/639/brazil/race-result,31 Mar,Damon,Hill,HIL,Williams Renault,71,1:49:52.976
+1996,Argentina,https://www.formula1.com/en/results/1996/races/640/argentina/race-result,07 Apr,Damon,Hill,HIL,Williams Renault,72,1:54:55.322
+1996,Europe,https://www.formula1.com/en/results/1996/races/641/europe/race-result,28 Apr,Jacques,Villeneuve,VIL,Williams Renault,67,1:33:26.473
+1996,San Marino,https://www.formula1.com/en/results/1996/races/642/san-marino/race-result,05 May,Damon,Hill,HIL,Williams Renault,63,1:35:26.156
+1996,Monaco,https://www.formula1.com/en/results/1996/races/643/monaco/race-result,19 May,Olivier,Panis,PAN,Ligier Mugen Honda,75,2:00:45.629
+1996,Spain,https://www.formula1.com/en/results/1996/races/644/spain/race-result,02 Jun,Michael,Schumacher,MSC,Ferrari,65,1:59:49.307
+1996,Canada,https://www.formula1.com/en/results/1996/races/645/canada/race-result,16 Jun,Damon,Hill,HIL,Williams Renault,69,1:36:03.465
+1996,France,https://www.formula1.com/en/results/1996/races/646/france/race-result,30 Jun,Damon,Hill,HIL,Williams Renault,72,1:36:28.795
+1996,Great Britain,https://www.formula1.com/en/results/1996/races/647/great-britain/race-result,14 Jul,Jacques,Villeneuve,VIL,Williams Renault,61,1:33:00.874
+1996,Germany,https://www.formula1.com/en/results/1996/races/648/germany/race-result,28 Jul,Damon,Hill,HIL,Williams Renault,45,1:21:43.417
+1996,Hungary,https://www.formula1.com/en/results/1996/races/649/hungary/race-result,11 Aug,Jacques,Villeneuve,VIL,Williams Renault,77,1:46:21.134
+1996,Belgium,https://www.formula1.com/en/results/1996/races/650/belgium/race-result,25 Aug,Michael,Schumacher,MSC,Ferrari,44,1:28:15.125
+1996,Italy,https://www.formula1.com/en/results/1996/races/651/italy/race-result,08 Sep,Michael,Schumacher,MSC,Ferrari,53,1:17:43.632
+1996,Portugal,https://www.formula1.com/en/results/1996/races/652/portugal/race-result,22 Sep,Jacques,Villeneuve,VIL,Williams Renault,70,1:40:22.915
+1996,Japan,https://www.formula1.com/en/results/1996/races/653/japan/race-result,13 Oct,Damon,Hill,HIL,Williams Renault,52,1:32:33.791
+1998,Australia,https://www.formula1.com/en/results/1998/races/671/australia/race-result,08 Mar,Mika,Hakkinen,HAK,McLaren Mercedes,58,1:31:45.996
+1998,Brazil,https://www.formula1.com/en/results/1998/races/672/brazil/race-result,29 Mar,Mika,Hakkinen,HAK,McLaren Mercedes,72,1:37:11.747
+1998,Argentina,https://www.formula1.com/en/results/1998/races/673/argentina/race-result,12 Apr,Michael,Schumacher,MSC,Ferrari,72,1:48:36.175
+1998,San Marino,https://www.formula1.com/en/results/1998/races/674/san-marino/race-result,26 Apr,David,Coulthard,COU,McLaren Mercedes,62,1:34:24.593
+1998,Spain,https://www.formula1.com/en/results/1998/races/675/spain/race-result,10 May,Mika,Hakkinen,HAK,McLaren Mercedes,65,1:33:37.621
+1998,Monaco,https://www.formula1.com/en/results/1998/races/676/monaco/race-result,24 May,Mika,Hakkinen,HAK,McLaren Mercedes,78,1:51:23.595
+1998,Canada,https://www.formula1.com/en/results/1998/races/677/canada/race-result,07 Jun,Michael,Schumacher,MSC,Ferrari,69,1:40:57.355
+1998,France,https://www.formula1.com/en/results/1998/races/678/france/race-result,28 Jun,Michael,Schumacher,MSC,Ferrari,71,1:34:45.026
+1998,Great Britain,https://www.formula1.com/en/results/1998/races/679/great-britain/race-result,12 Jul,Michael,Schumacher,MSC,Ferrari,60,1:47:02.450
+1998,Austria,https://www.formula1.com/en/results/1998/races/680/austria/race-result,26 Jul,Mika,Hakkinen,HAK,McLaren Mercedes,71,1:30:44.086
+1998,Germany,https://www.formula1.com/en/results/1998/races/681/germany/race-result,02 Aug,Mika,Hakkinen,HAK,McLaren Mercedes,45,1:20:47.984
+1998,Hungary,https://www.formula1.com/en/results/1998/races/682/hungary/race-result,16 Aug,Michael,Schumacher,MSC,Ferrari,77,1:45:25.550
+1998,Belgium,https://www.formula1.com/en/results/1998/races/683/belgium/race-result,30 Aug,Damon,Hill,HIL,Jordan Mugen Honda,44,1:43:47.407
+1998,Italy,https://www.formula1.com/en/results/1998/races/684/italy/race-result,13 Sep,Michael,Schumacher,MSC,Ferrari,53,1:17:09.672
+1998,Luxembourg,https://www.formula1.com/en/results/1998/races/685/luxembourg/race-result,27 Sep,Mika,Hakkinen,HAK,McLaren Mercedes,67,1:32:14.789
+1998,Japan,https://www.formula1.com/en/results/1998/races/686/japan/race-result,01 Nov,Mika,Hakkinen,HAK,McLaren Mercedes,51,1:27:22.535
+1999,Australia,https://www.formula1.com/en/results/1999/races/687/australia/race-result,07 Mar,Eddie,Irvine,IRV,Ferrari,57,1:35:01.659
+1999,Brazil,https://www.formula1.com/en/results/1999/races/688/brazil/race-result,11 Apr,Mika,Hakkinen,HAK,McLaren Mercedes,72,1:36:03.785
+1999,San Marino,https://www.formula1.com/en/results/1999/races/689/san-marino/race-result,02 May,Michael,Schumacher,MSC,Ferrari,62,1:33:44.792
+1999,Monaco,https://www.formula1.com/en/results/1999/races/690/monaco/race-result,16 May,Michael,Schumacher,MSC,Ferrari,78,1:49:31.812
+1999,Spain,https://www.formula1.com/en/results/1999/races/691/spain/race-result,30 May,Mika,Hakkinen,HAK,McLaren Mercedes,65,1:34:13.665
+1999,Canada,https://www.formula1.com/en/results/1999/races/692/canada/race-result,13 Jun,Mika,Hakkinen,HAK,McLaren Mercedes,69,1:41:35.727
+1999,France,https://www.formula1.com/en/results/1999/races/693/france/race-result,27 Jun,Heinz-Harald,Frentzen,FRE,Jordan Mugen Honda,72,1:58:24.343
+1999,Great Britain,https://www.formula1.com/en/results/1999/races/694/great-britain/race-result,11 Jul,David,Coulthard,COU,McLaren Mercedes,60,1:32:30.144
+1999,Austria,https://www.formula1.com/en/results/1999/races/695/austria/race-result,25 Jul,Eddie,Irvine,IRV,Ferrari,71,1:28:12.438
+1999,Germany,https://www.formula1.com/en/results/1999/races/696/germany/race-result,01 Aug,Eddie,Irvine,IRV,Ferrari,45,1:21:58.594
+1999,Hungary,https://www.formula1.com/en/results/1999/races/697/hungary/race-result,15 Aug,Mika,Hakkinen,HAK,McLaren Mercedes,77,1:46:23.536
+1999,Belgium,https://www.formula1.com/en/results/1999/races/698/belgium/race-result,29 Aug,David,Coulthard,COU,McLaren Mercedes,44,1:25:43.057
+1999,Italy,https://www.formula1.com/en/results/1999/races/699/italy/race-result,12 Sep,Heinz-Harald,Frentzen,FRE,Jordan Mugen Honda,53,1:17:02.923
+1999,Europe,https://www.formula1.com/en/results/1999/races/700/europe/race-result,26 Sep,Johnny,Herbert,HER,Stewart Ford,66,1:41:54.314
+1999,Malaysia,https://www.formula1.com/en/results/1999/races/701/malaysia/race-result,17 Oct,Eddie,Irvine,IRV,Ferrari,56,1:36:38.494
+1999,Japan,https://www.formula1.com/en/results/1999/races/702/japan/race-result,31 Oct,Mika,Hakkinen,HAK,McLaren Mercedes,53,1:31:18.785
+1997,Australia,https://www.formula1.com/en/results/1997/races/654/australia/race-result,09 Mar,David,Coulthard,COU,McLaren Mercedes,58,1:30:28.718
+1997,Brazil,https://www.formula1.com/en/results/1997/races/655/brazil/race-result,30 Mar,Jacques,Villeneuve,VIL,Williams Renault,72,1:36:06.990
+1997,Argentina,https://www.formula1.com/en/results/1997/races/656/argentina/race-result,13 Apr,Jacques,Villeneuve,VIL,Williams Renault,72,1:52:01.715
+1997,San Marino,https://www.formula1.com/en/results/1997/races/657/san-marino/race-result,27 Apr,Heinz-Harald,Frentzen,FRE,Williams Renault,62,1:31:00.673
+1997,Monaco,https://www.formula1.com/en/results/1997/races/658/monaco/race-result,11 May,Michael,Schumacher,MSC,Ferrari,62,2:00:05.654
+1997,Spain,https://www.formula1.com/en/results/1997/races/659/spain/race-result,25 May,Jacques,Villeneuve,VIL,Williams Renault,64,1:30:35.896
+1997,Canada,https://www.formula1.com/en/results/1997/races/660/canada/race-result,15 Jun,Michael,Schumacher,MSC,Ferrari,54,1:17:40.646
+1997,France,https://www.formula1.com/en/results/1997/races/661/france/race-result,29 Jun,Michael,Schumacher,MSC,Ferrari,72,1:38:50.492
+1997,Great Britain,https://www.formula1.com/en/results/1997/races/662/great-britain/race-result,13 Jul,Jacques,Villeneuve,VIL,Williams Renault,59,1:28:01.665
+1997,Germany,https://www.formula1.com/en/results/1997/races/663/germany/race-result,27 Jul,Gerhard,Berger,BER,Benetton Renault,45,1:20:59.046
+1997,Hungary,https://www.formula1.com/en/results/1997/races/664/hungary/race-result,10 Aug,Jacques,Villeneuve,VIL,Williams Renault,77,1:45:47.149
+1997,Belgium,https://www.formula1.com/en/results/1997/races/665/belgium/race-result,24 Aug,Michael,Schumacher,MSC,Ferrari,44,1:33:46.717
+1997,Italy,https://www.formula1.com/en/results/1997/races/666/italy/race-result,07 Sep,David,Coulthard,COU,McLaren Mercedes,53,1:17:04.609
+1997,Austria,https://www.formula1.com/en/results/1997/races/667/austria/race-result,21 Sep,Jacques,Villeneuve,VIL,Williams Renault,71,1:27:35.999
+1997,Luxembourg,https://www.formula1.com/en/results/1997/races/668/luxembourg/race-result,28 Sep,Jacques,Villeneuve,VIL,Williams Renault,67,1:31:27.843
+1997,Japan,https://www.formula1.com/en/results/1997/races/669/japan/race-result,12 Oct,Michael,Schumacher,MSC,Ferrari,53,1:29:48.446
+1997,Europe,https://www.formula1.com/en/results/1997/races/670/europe/race-result,26 Oct,Mika,Hakkinen,HAK,McLaren Mercedes,69,1:38:57.771
+2000,Australia,https://www.formula1.com/en/results/2000/races/47/australia/race-result,12 Mar,Michael,Schumacher,MSC,Ferrari,58,1:34:01.987
+2000,Brazil,https://www.formula1.com/en/results/2000/races/48/brazil/race-result,26 Mar,Michael,Schumacher,MSC,Ferrari,71,1:31:35.271
+2000,San Marino,https://www.formula1.com/en/results/2000/races/49/san-marino/race-result,09 Apr,Michael,Schumacher,MSC,Ferrari,62,1:31:39.776
+2000,Great Britain,https://www.formula1.com/en/results/2000/races/50/great-britain/race-result,23 Apr,David,Coulthard,COU,McLaren Mercedes,60,1:28:50.108
+2000,Spain,https://www.formula1.com/en/results/2000/races/51/spain/race-result,07 May,Mika,Hakkinen,HAK,McLaren Mercedes,65,1:33:55.390
+2000,Europe,https://www.formula1.com/en/results/2000/races/52/europe/race-result,21 May,Michael,Schumacher,MSC,Ferrari,67,1:42:00.307
+2000,Monaco,https://www.formula1.com/en/results/2000/races/53/monaco/race-result,04 Jun,David,Coulthard,COU,McLaren Mercedes,78,1:49:28.213
+2000,Canada,https://www.formula1.com/en/results/2000/races/54/canada/race-result,18 Jun,Michael,Schumacher,MSC,Ferrari,69,1:41:12.313
+2000,France,https://www.formula1.com/en/results/2000/races/55/france/race-result,02 Jul,David,Coulthard,COU,McLaren Mercedes,72,1:38:05.538
+2000,Austria,https://www.formula1.com/en/results/2000/races/56/austria/race-result,16 Jul,Mika,Hakkinen,HAK,McLaren Mercedes,71,1:28:15.818
+2003,Australia,https://www.formula1.com/en/results/2003/races/737/australia/race-result,09 Mar,David,Coulthard,COU,McLaren Mercedes,58,1:34:42.124
+2003,Malaysia,https://www.formula1.com/en/results/2003/races/738/malaysia/race-result,23 Mar,Kimi,Räikkönen,RAI,McLaren Mercedes,56,1:32:22.195
+2003,Brazil,https://www.formula1.com/en/results/2003/races/739/brazil/race-result,06 Apr,Giancarlo,Fisichella,FIS,Jordan Ford,54,1:31:17.748
+2003,San Marino,https://www.formula1.com/en/results/2003/races/740/san-marino/race-result,20 Apr,Michael,Schumacher,MSC,Ferrari,62,1:28:12.058
+2003,Spain,https://www.formula1.com/en/results/2003/races/741/spain/race-result,04 May,Michael,Schumacher,MSC,Ferrari,65,1:33:46.933
+2003,Austria,https://www.formula1.com/en/results/2003/races/742/austria/race-result,18 May,Michael,Schumacher,MSC,Ferrari,69,1:24:04.888
+2003,Monaco,https://www.formula1.com/en/results/2003/races/743/monaco/race-result,01 Jun,Juan Pablo,Montoya,MOY,Williams BMW,78,1:42:19.010
+2003,Canada,https://www.formula1.com/en/results/2003/races/744/canada/race-result,15 Jun,Michael,Schumacher,MSC,Ferrari,70,1:31:13.591
+2003,Europe,https://www.formula1.com/en/results/2003/races/745/europe/race-result,29 Jun,Ralf,Schumacher,RSC,Williams BMW,60,1:34:43.622
+2003,France,https://www.formula1.com/en/results/2003/races/746/france/race-result,06 Jul,Ralf,Schumacher,RSC,Williams BMW,70,1:30:49.213
+2003,Great Britain,https://www.formula1.com/en/results/2003/races/747/great-britain/race-result,20 Jul,Rubens,Barrichello,BAR,Ferrari,60,1:28:37.554
+2003,Germany,https://www.formula1.com/en/results/2003/races/748/germany/race-result,03 Aug,Juan Pablo,Montoya,MOY,Williams BMW,67,1:28:48.769
+2003,Hungary,https://www.formula1.com/en/results/2003/races/749/hungary/race-result,24 Aug,Fernando,Alonso,ALO,Renault,70,1:39:01.460
+2003,Italy,https://www.formula1.com/en/results/2003/races/750/italy/race-result,14 Sep,Michael,Schumacher,MSC,Ferrari,53,1:14:19.838
+2003,United States,https://www.formula1.com/en/results/2003/races/751/united-states/race-result,28 Sep,Michael,Schumacher,MSC,Ferrari,73,1:33:35.997
+2000,Germany,https://www.formula1.com/en/results/2000/races/57/germany/race-result,30 Jul,Rubens,Barrichello,BAR,Ferrari,45,1:25:34.418
+2000,Hungary,https://www.formula1.com/en/results/2000/races/58/hungary/race-result,13 Aug,Mika,Hakkinen,HAK,McLaren Mercedes,77,1:45:33.869
+2000,Belgium,https://www.formula1.com/en/results/2000/races/59/belgium/race-result,27 Aug,Mika,Hakkinen,HAK,McLaren Mercedes,44,1:28:14.494
+2000,Italy,https://www.formula1.com/en/results/2000/races/60/italy/race-result,10 Sep,Michael,Schumacher,MSC,Ferrari,53,1:27:31.638
+2000,United States,https://www.formula1.com/en/results/2000/races/61/united-states/race-result,24 Sep,Michael,Schumacher,MSC,Ferrari,73,1:36:30.883
+2000,Japan,https://www.formula1.com/en/results/2000/races/62/japan/race-result,08 Oct,Michael,Schumacher,MSC,Ferrari,53,1:29:53.435
+2000,Malaysia,https://www.formula1.com/en/results/2000/races/63/malaysia/race-result,22 Oct,Michael,Schumacher,MSC,Ferrari,56,1:35:54.235
+2003,Japan,https://www.formula1.com/en/results/2003/races/752/japan/race-result,12 Oct,Rubens,Barrichello,BAR,Ferrari,53,1:25:11.743
+2001,Australia,https://www.formula1.com/en/results/2001/races/703/australia/race-result,04 Mar,Michael,Schumacher,MSC,Ferrari,58,1:38:26.533
+2001,Malaysia,https://www.formula1.com/en/results/2001/races/704/malaysia/race-result,18 Mar,Michael,Schumacher,MSC,Ferrari,55,1:47:34.801
+2001,Brazil,https://www.formula1.com/en/results/2001/races/705/brazil/race-result,01 Apr,David,Coulthard,COU,McLaren Mercedes,71,1:39:00.834
+2001,San Marino,https://www.formula1.com/en/results/2001/races/706/san-marino/race-result,15 Apr,Ralf,Schumacher,RSC,Williams BMW,62,1:30:44.817
+2001,Spain,https://www.formula1.com/en/results/2001/races/707/spain/race-result,29 Apr,Michael,Schumacher,MSC,Ferrari,65,1:31:03.305
+2001,Austria,https://www.formula1.com/en/results/2001/races/708/austria/race-result,13 May,David,Coulthard,COU,McLaren Mercedes,71,1:27:45.927
+2001,Monaco,https://www.formula1.com/en/results/2001/races/709/monaco/race-result,27 May,Michael,Schumacher,MSC,Ferrari,78,1:47:22.561
+2001,Canada,https://www.formula1.com/en/results/2001/races/710/canada/race-result,10 Jun,Ralf,Schumacher,RSC,Williams BMW,69,1:34:31.522
+2001,Europe,https://www.formula1.com/en/results/2001/races/711/europe/race-result,24 Jun,Michael,Schumacher,MSC,Ferrari,67,1:29:42.724
+2001,France,https://www.formula1.com/en/results/2001/races/712/france/race-result,01 Jul,Michael,Schumacher,MSC,Ferrari,72,1:33:35.636
+2001,Great Britain,https://www.formula1.com/en/results/2001/races/713/great-britain/race-result,15 Jul,Mika,Hakkinen,HAK,McLaren Mercedes,60,1:25:33.770
+2001,Germany,https://www.formula1.com/en/results/2001/races/714/germany/race-result,29 Jul,Ralf,Schumacher,RSC,Williams BMW,45,1:18:17.873
+2001,Hungary,https://www.formula1.com/en/results/2001/races/715/hungary/race-result,19 Aug,Michael,Schumacher,MSC,Ferrari,77,1:41:49.675
+2001,Belgium,https://www.formula1.com/en/results/2001/races/716/belgium/race-result,02 Sep,Michael,Schumacher,MSC,Ferrari,36,1:08:05.002
+2001,Italy,https://www.formula1.com/en/results/2001/races/717/italy/race-result,16 Sep,Juan Pablo,Montoya,MOY,Williams BMW,53,1:16:58.493
+2001,United States,https://www.formula1.com/en/results/2001/races/718/united-states/race-result,30 Sep,Mika,Hakkinen,HAK,McLaren Mercedes,73,1:32:42.840
+2001,Japan,https://www.formula1.com/en/results/2001/races/719/japan/race-result,14 Oct,Michael,Schumacher,MSC,Ferrari,53,1:27:33.298
+2002,Australia,https://www.formula1.com/en/results/2002/races/720/australia/race-result,03 Mar,Michael,Schumacher,MSC,Ferrari,58,1:35:36.792
+2002,Malaysia,https://www.formula1.com/en/results/2002/races/721/malaysia/race-result,17 Mar,Ralf,Schumacher,RSC,Williams BMW,56,1:34:12.912
+2002,Brazil,https://www.formula1.com/en/results/2002/races/722/brazil/race-result,31 Mar,Michael,Schumacher,MSC,Ferrari,71,1:31:43.663
+2002,San Marino,https://www.formula1.com/en/results/2002/races/723/san-marino/race-result,14 Apr,Michael,Schumacher,MSC,Ferrari,62,1:29:10.789
+2002,Spain,https://www.formula1.com/en/results/2002/races/724/spain/race-result,28 Apr,Michael,Schumacher,MSC,Ferrari,65,1:30:29.981
+2002,Austria,https://www.formula1.com/en/results/2002/races/725/austria/race-result,12 May,Michael,Schumacher,MSC,Ferrari,71,1:33:51.562
+2002,Monaco,https://www.formula1.com/en/results/2002/races/726/monaco/race-result,26 May,David,Coulthard,COU,McLaren Mercedes,78,1:45:39.055
+2002,Canada,https://www.formula1.com/en/results/2002/races/727/canada/race-result,09 Jun,Michael,Schumacher,MSC,Ferrari,70,1:33:36.111
+2002,Europe,https://www.formula1.com/en/results/2002/races/728/europe/race-result,23 Jun,Rubens,Barrichello,BAR,Ferrari,60,1:35:07.426
+2002,Great Britain,https://www.formula1.com/en/results/2002/races/729/great-britain/race-result,07 Jul,Michael,Schumacher,MSC,Ferrari,60,1:31:45.015
+2002,France,https://www.formula1.com/en/results/2002/races/730/france/race-result,21 Jul,Michael,Schumacher,MSC,Ferrari,72,1:32:09.837
+2002,Germany,https://www.formula1.com/en/results/2002/races/731/germany/race-result,28 Jul,Michael,Schumacher,MSC,Ferrari,67,1:27:52.078
+2002,Hungary,https://www.formula1.com/en/results/2002/races/732/hungary/race-result,18 Aug,Rubens,Barrichello,BAR,Ferrari,77,1:41:49.001
+2002,Belgium,https://www.formula1.com/en/results/2002/races/733/belgium/race-result,01 Sep,Michael,Schumacher,MSC,Ferrari,44,1:21:20.634
+2002,Italy,https://www.formula1.com/en/results/2002/races/734/italy/race-result,15 Sep,Rubens,Barrichello,BAR,Ferrari,53,1:16:19.982
+2002,United States,https://www.formula1.com/en/results/2002/races/735/united-states/race-result,29 Sep,Rubens,Barrichello,BAR,Ferrari,73,1:31:07.934
+2002,Japan,https://www.formula1.com/en/results/2002/races/736/japan/race-result,13 Oct,Michael,Schumacher,MSC,Ferrari,53,1:26:59.698
+2005,Australia,https://www.formula1.com/en/results/2005/races/771/australia/race-result,06 Mar,Giancarlo,Fisichella,FIS,Renault,57,1:24:17.336
+2005,Malaysia,https://www.formula1.com/en/results/2005/races/772/malaysia/race-result,20 Mar,Fernando,Alonso,ALO,Renault,56,1:31:33.736
+2005,Bahrain,https://www.formula1.com/en/results/2005/races/773/bahrain/race-result,03 Apr,Fernando,Alonso,ALO,Renault,57,1:29:18.531
+2005,San Marino,https://www.formula1.com/en/results/2005/races/774/san-marino/race-result,24 Apr,Fernando,Alonso,ALO,Renault,62,1:27:41.921
+2005,Spain,https://www.formula1.com/en/results/2005/races/775/spain/race-result,08 May,Kimi,Räikkönen,RAI,McLaren Mercedes,66,1:27:16.830
+2005,Monaco,https://www.formula1.com/en/results/2005/races/776/monaco/race-result,22 May,Kimi,Räikkönen,RAI,McLaren Mercedes,78,1:45:15.556
+2005,Europe,https://www.formula1.com/en/results/2005/races/777/europe/race-result,29 May,Fernando,Alonso,ALO,Renault,59,1:31:46.648
+2005,Canada,https://www.formula1.com/en/results/2005/races/778/canada/race-result,12 Jun,Kimi,Räikkönen,RAI,McLaren Mercedes,70,1:32:09.290
+2005,United States,https://www.formula1.com/en/results/2005/races/779/united-states/race-result,19 Jun,Michael,Schumacher,MSC,Ferrari,73,1:29:43.181
+2005,France,https://www.formula1.com/en/results/2005/races/780/france/race-result,03 Jul,Fernando,Alonso,ALO,Renault,70,1:31:22.233
+2005,Great Britain,https://www.formula1.com/en/results/2005/races/781/great-britain/race-result,10 Jul,Juan Pablo,Montoya,MOY,McLaren Mercedes,60,1:24:29.588
+2005,Germany,https://www.formula1.com/en/results/2005/races/782/germany/race-result,24 Jul,Fernando,Alonso,ALO,Renault,67,1:26:28.599
+2005,Hungary,https://www.formula1.com/en/results/2005/races/783/hungary/race-result,31 Jul,Kimi,Räikkönen,RAI,McLaren Mercedes,70,1:37:25.552
+2005,Turkey,https://www.formula1.com/en/results/2005/races/784/turkey/race-result,21 Aug,Kimi,Räikkönen,RAI,McLaren Mercedes,58,1:24:34.454
+2005,Italy,https://www.formula1.com/en/results/2005/races/785/italy/race-result,04 Sep,Juan Pablo,Montoya,MOY,McLaren Mercedes,53,1:14:28.659
+2005,Belgium,https://www.formula1.com/en/results/2005/races/786/belgium/race-result,11 Sep,Kimi,Räikkönen,RAI,McLaren Mercedes,44,1:30:01.295
+2005,Brazil,https://www.formula1.com/en/results/2005/races/787/brazil/race-result,25 Sep,Juan Pablo,Montoya,MOY,McLaren Mercedes,71,1:29:20.574
+2005,Japan,https://www.formula1.com/en/results/2005/races/788/japan/race-result,09 Oct,Kimi,Räikkönen,RAI,McLaren Mercedes,53,1:29:02.212
+2005,China,https://www.formula1.com/en/results/2005/races/789/china/race-result,16 Oct,Fernando,Alonso,ALO,Renault,56,1:39:53.618
+2006,Bahrain,https://www.formula1.com/en/results/2006/races/790/bahrain/race-result,12 Mar,Fernando,Alonso,ALO,Renault,57,1:29:46.205
+2006,Malaysia,https://www.formula1.com/en/results/2006/races/791/malaysia/race-result,19 Mar,Giancarlo,Fisichella,FIS,Renault,56,1:30:40.529
+2006,Australia,https://www.formula1.com/en/results/2006/races/792/australia/race-result,02 Apr,Fernando,Alonso,ALO,Renault,57,1:34:27.870
+2006,San Marino,https://www.formula1.com/en/results/2006/races/793/san-marino/race-result,23 Apr,Michael,Schumacher,MSC,Ferrari,62,1:31:06.486
+2006,Europe,https://www.formula1.com/en/results/2006/races/794/europe/race-result,07 May,Michael,Schumacher,MSC,Ferrari,60,1:35:58.765
+2006,Spain,https://www.formula1.com/en/results/2006/races/795/spain/race-result,14 May,Fernando,Alonso,ALO,Renault,66,1:26:21.759
+2006,Monaco,https://www.formula1.com/en/results/2006/races/796/monaco/race-result,28 May,Fernando,Alonso,ALO,Renault,78,1:43:43.116
+2006,Great Britain,https://www.formula1.com/en/results/2006/races/797/great-britain/race-result,11 Jun,Fernando,Alonso,ALO,Renault,60,1:25:51.927
+2006,Canada,https://www.formula1.com/en/results/2006/races/798/canada/race-result,25 Jun,Fernando,Alonso,ALO,Renault,70,1:34:37.308
+2006,United States,https://www.formula1.com/en/results/2006/races/799/united-states/race-result,02 Jul,Michael,Schumacher,MSC,Ferrari,73,1:34:35.199
+2006,France,https://www.formula1.com/en/results/2006/races/800/france/race-result,16 Jul,Michael,Schumacher,MSC,Ferrari,70,1:32:07.803
+2006,Germany,https://www.formula1.com/en/results/2006/races/801/germany/race-result,30 Jul,Michael,Schumacher,MSC,Ferrari,67,1:27:51.693
+2006,Hungary,https://www.formula1.com/en/results/2006/races/802/hungary/race-result,06 Aug,Jenson,Button,BUT,Honda,70,1:52:20.941
+2006,Turkey,https://www.formula1.com/en/results/2006/races/803/turkey/race-result,27 Aug,Felipe,Massa,MAS,Ferrari,58,1:28:51.082
+2006,Italy,https://www.formula1.com/en/results/2006/races/804/italy/race-result,10 Sep,Michael,Schumacher,MSC,Ferrari,53,1:14:51.975
+2006,China,https://www.formula1.com/en/results/2006/races/805/china/race-result,01 Oct,Michael,Schumacher,MSC,Ferrari,56,1:37:32.747
+2006,Japan,https://www.formula1.com/en/results/2006/races/806/japan/race-result,08 Oct,Fernando,Alonso,ALO,Renault,53,1:23:53.413
+2006,Brazil,https://www.formula1.com/en/results/2006/races/807/brazil/race-result,22 Oct,Felipe,Massa,MAS,Ferrari,71,1:31:53.751
+2004,Australia,https://www.formula1.com/en/results/2004/races/753/australia/race-result,07 Mar,Michael,Schumacher,MSC,Ferrari,58,1:24:15.757
+2004,Malaysia,https://www.formula1.com/en/results/2004/races/754/malaysia/race-result,21 Mar,Michael,Schumacher,MSC,Ferrari,56,1:31:07.490
+2004,Bahrain,https://www.formula1.com/en/results/2004/races/755/bahrain/race-result,04 Apr,Michael,Schumacher,MSC,Ferrari,57,1:28:34.875
+2004,San Marino,https://www.formula1.com/en/results/2004/races/756/san-marino/race-result,25 Apr,Michael,Schumacher,MSC,Ferrari,62,1:26:19.670
+2004,Spain,https://www.formula1.com/en/results/2004/races/757/spain/race-result,09 May,Michael,Schumacher,MSC,Ferrari,66,1:27:32.841
+2004,Monaco,https://www.formula1.com/en/results/2004/races/758/monaco/race-result,23 May,Jarno,Trulli,TRU,Renault,77,1:45:46.601
+2004,Europe,https://www.formula1.com/en/results/2004/races/759/europe/race-result,30 May,Michael,Schumacher,MSC,Ferrari,60,1:32:35.101
+2004,Canada,https://www.formula1.com/en/results/2004/races/760/canada/race-result,13 Jun,Michael,Schumacher,MSC,Ferrari,70,1:28:24.803
+2004,United States,https://www.formula1.com/en/results/2004/races/761/united-states/race-result,20 Jun,Michael,Schumacher,MSC,Ferrari,73,1:40:29.914
+2004,France,https://www.formula1.com/en/results/2004/races/762/france/race-result,04 Jul,Michael,Schumacher,MSC,Ferrari,70,1:30:18.133
+2004,Great Britain,https://www.formula1.com/en/results/2004/races/763/great-britain/race-result,11 Jul,Michael,Schumacher,MSC,Ferrari,60,1:24:42.700
+2004,Germany,https://www.formula1.com/en/results/2004/races/764/germany/race-result,25 Jul,Michael,Schumacher,MSC,Ferrari,66,1:23:54.848
+2004,Hungary,https://www.formula1.com/en/results/2004/races/765/hungary/race-result,15 Aug,Michael,Schumacher,MSC,Ferrari,70,1:35:26.131
+2004,Belgium,https://www.formula1.com/en/results/2004/races/766/belgium/race-result,29 Aug,Kimi,Räikkönen,RAI,McLaren Mercedes,44,1:32:35.274
+2004,Italy,https://www.formula1.com/en/results/2004/races/767/italy/race-result,12 Sep,Rubens,Barrichello,BAR,Ferrari,53,1:15:18.448
+2004,China,https://www.formula1.com/en/results/2004/races/768/china/race-result,26 Sep,Rubens,Barrichello,BAR,Ferrari,56,1:29:12.420
+2004,Japan,https://www.formula1.com/en/results/2004/races/769/japan/race-result,10 Oct,Michael,Schumacher,MSC,Ferrari,53,1:24:26.985
+2004,Brazil,https://www.formula1.com/en/results/2004/races/770/brazil/race-result,24 Oct,Juan Pablo,Montoya,MOY,Williams BMW,71,1:28:01.451
+2011,Australia,https://www.formula1.com/en/results/2011/races/28/australia/race-result,27 Mar,Sebastian,Vettel,VET,Red Bull Racing Renault,58,1:29:30.259
+2011,Malaysia,https://www.formula1.com/en/results/2011/races/29/malaysia/race-result,10 Apr,Sebastian,Vettel,VET,Red Bull Racing Renault,56,1:37:39.832
+2011,China,https://www.formula1.com/en/results/2011/races/30/china/race-result,17 Apr,Lewis,Hamilton,HAM,McLaren Mercedes,56,1:36:58.226
+2011,Turkey,https://www.formula1.com/en/results/2011/races/31/turkey/race-result,08 May,Sebastian,Vettel,VET,Red Bull Racing Renault,58,1:30:17.558
+2011,Spain,https://www.formula1.com/en/results/2011/races/32/spain/race-result,22 May,Sebastian,Vettel,VET,Red Bull Racing Renault,66,1:39:03.301
+2011,Monaco,https://www.formula1.com/en/results/2011/races/33/monaco/race-result,29 May,Sebastian,Vettel,VET,Red Bull Racing Renault,78,2:09:38.373
+2011,Canada,https://www.formula1.com/en/results/2011/races/34/canada/race-result,12 Jun,Jenson,Button,BUT,McLaren Mercedes,70,4:04:39.537
+2011,Europe,https://www.formula1.com/en/results/2011/races/35/europe/race-result,26 Jun,Sebastian,Vettel,VET,Red Bull Racing Renault,57,1:39:36.169
+2011,Great Britain,https://www.formula1.com/en/results/2011/races/36/great-britain/race-result,10 Jul,Fernando,Alonso,ALO,Ferrari,52,1:28:41.196
+2011,Germany,https://www.formula1.com/en/results/2011/races/37/germany/race-result,24 Jul,Lewis,Hamilton,HAM,McLaren Mercedes,60,1:37:30.334
+2011,Hungary,https://www.formula1.com/en/results/2011/races/38/hungary/race-result,31 Jul,Jenson,Button,BUT,McLaren Mercedes,70,1:46:42.337
+2011,Belgium,https://www.formula1.com/en/results/2011/races/39/belgium/race-result,28 Aug,Sebastian,Vettel,VET,Red Bull Racing Renault,44,1:26:44.893
+2011,Italy,https://www.formula1.com/en/results/2011/races/40/italy/race-result,11 Sep,Sebastian,Vettel,VET,Red Bull Racing Renault,53,1:20:46.172
+2011,Singapore,https://www.formula1.com/en/results/2011/races/41/singapore/race-result,25 Sep,Sebastian,Vettel,VET,Red Bull Racing Renault,61,1:59:06.757
+2011,Japan,https://www.formula1.com/en/results/2011/races/42/japan/race-result,09 Oct,Jenson,Button,BUT,McLaren Mercedes,53,1:30:53.427
+2011,South Korea,https://www.formula1.com/en/results/2011/races/43/south-korea/race-result,16 Oct,Sebastian,Vettel,VET,Red Bull Racing Renault,55,1:38:01.994
+2011,India,https://www.formula1.com/en/results/2011/races/44/india/race-result,30 Oct,Sebastian,Vettel,VET,Red Bull Racing Renault,60,1:30:35.002
+2011,Abu Dhabi,https://www.formula1.com/en/results/2011/races/45/abu-dhabi/race-result,13 Nov,Lewis,Hamilton,HAM,McLaren Mercedes,55,1:37:11.886
+2011,Brazil,https://www.formula1.com/en/results/2011/races/46/brazil/race-result,27 Nov,Mark,Webber,WEB,Red Bull Racing Renault,71,1:32:17.464
+2009,Australia,https://www.formula1.com/en/results/2009/races/843/australia/race-result,29 Mar,Jenson,Button,BUT,Brawn Mercedes,58,1:34:15.784
+2009,Malaysia,https://www.formula1.com/en/results/2009/races/844/malaysia/race-result,05 Apr,Jenson,Button,BUT,Brawn Mercedes,31,55:30.622
+2009,China,https://www.formula1.com/en/results/2009/races/845/china/race-result,19 Apr,Sebastian,Vettel,VET,RBR Renault,56,1:57:43.485
+2009,Bahrain,https://www.formula1.com/en/results/2009/races/846/bahrain/race-result,26 Apr,Jenson,Button,BUT,Brawn Mercedes,57,1:31:48.182
+2009,Spain,https://www.formula1.com/en/results/2009/races/847/spain/race-result,10 May,Jenson,Button,BUT,Brawn Mercedes,66,1:37:19.202
+2009,Monaco,https://www.formula1.com/en/results/2009/races/848/monaco/race-result,24 May,Jenson,Button,BUT,Brawn Mercedes,78,1:40:44.282
+2009,Turkey,https://www.formula1.com/en/results/2009/races/849/turkey/race-result,07 Jun,Jenson,Button,BUT,Brawn Mercedes,58,1:26:24.848
+2009,Great Britain,https://www.formula1.com/en/results/2009/races/850/great-britain/race-result,21 Jun,Sebastian,Vettel,VET,RBR Renault,60,1:22:49.328
+2009,Germany,https://www.formula1.com/en/results/2009/races/851/germany/race-result,12 Jul,Mark,Webber,WEB,RBR Renault,60,1:36:43.310
+2009,Hungary,https://www.formula1.com/en/results/2009/races/852/hungary/race-result,26 Jul,Lewis,Hamilton,HAM,McLaren Mercedes,70,1:38:23.876
+2009,Europe,https://www.formula1.com/en/results/2009/races/853/europe/race-result,23 Aug,Rubens,Barrichello,BAR,Brawn Mercedes,57,1:35:51.289
+2009,Belgium,https://www.formula1.com/en/results/2009/races/854/belgium/race-result,30 Aug,Kimi,Räikkönen,RAI,Ferrari,44,1:23:50.995
+2009,Italy,https://www.formula1.com/en/results/2009/races/855/italy/race-result,13 Sep,Rubens,Barrichello,BAR,Brawn Mercedes,53,1:16:21.706
+2009,Singapore,https://www.formula1.com/en/results/2009/races/856/singapore/race-result,27 Sep,Lewis,Hamilton,HAM,McLaren Mercedes,61,1:56:06.337
+2009,Japan,https://www.formula1.com/en/results/2009/races/857/japan/race-result,04 Oct,Sebastian,Vettel,VET,RBR Renault,53,1:28:20.443
+2009,Brazil,https://www.formula1.com/en/results/2009/races/858/brazil/race-result,18 Oct,Mark,Webber,WEB,RBR Renault,71,1:32:23.081
+2009,Abu Dhabi,https://www.formula1.com/en/results/2009/races/859/abu-dhabi/race-result,01 Nov,Sebastian,Vettel,VET,RBR Renault,55,1:34:03.414
+2008,Australia,https://www.formula1.com/en/results/2008/races/825/australia/race-result,16 Mar,Lewis,Hamilton,HAM,McLaren Mercedes,58,1:34:50.616
+2008,Malaysia,https://www.formula1.com/en/results/2008/races/826/malaysia/race-result,23 Mar,Kimi,Räikkönen,RAI,Ferrari,56,1:31:18.555
+2008,Bahrain,https://www.formula1.com/en/results/2008/races/827/bahrain/race-result,06 Apr,Felipe,Massa,MAS,Ferrari,57,1:31:06.970
+2008,Spain,https://www.formula1.com/en/results/2008/races/828/spain/race-result,27 Apr,Kimi,Räikkönen,RAI,Ferrari,66,1:38:19.051
+2008,Turkey,https://www.formula1.com/en/results/2008/races/829/turkey/race-result,11 May,Felipe,Massa,MAS,Ferrari,58,1:26:49.451
+2008,Monaco,https://www.formula1.com/en/results/2008/races/830/monaco/race-result,25 May,Lewis,Hamilton,HAM,McLaren Mercedes,76,2:00:42.742
+2008,Canada,https://www.formula1.com/en/results/2008/races/831/canada/race-result,08 Jun,Robert,Kubica,KUB,Sauber BMW,70,1:36:24.447
+2008,France,https://www.formula1.com/en/results/2008/races/832/france/race-result,22 Jun,Felipe,Massa,MAS,Ferrari,70,1:31:50.245
+2008,Great Britain,https://www.formula1.com/en/results/2008/races/833/great-britain/race-result,06 Jul,Lewis,Hamilton,HAM,McLaren Mercedes,60,1:39:09.440
+2008,Germany,https://www.formula1.com/en/results/2008/races/834/germany/race-result,20 Jul,Lewis,Hamilton,HAM,McLaren Mercedes,67,1:31:20.874
+2008,Hungary,https://www.formula1.com/en/results/2008/races/835/hungary/race-result,03 Aug,Heikki,Kovalainen,KOV,McLaren Mercedes,70,1:37:27.067
+2008,Europe,https://www.formula1.com/en/results/2008/races/836/europe/race-result,24 Aug,Felipe,Massa,MAS,Ferrari,57,1:35:32.339
+2008,Belgium,https://www.formula1.com/en/results/2008/races/837/belgium/race-result,07 Sep,Felipe,Massa,MAS,Ferrari,44,1:22:59.394
+2008,Italy,https://www.formula1.com/en/results/2008/races/838/italy/race-result,14 Sep,Sebastian,Vettel,VET,STR Ferrari,53,1:26:47.494
+2008,Singapore,https://www.formula1.com/en/results/2008/races/839/singapore/race-result,28 Sep,Fernando,Alonso,ALO,Renault,61,1:57:16.304
+2008,Japan,https://www.formula1.com/en/results/2008/races/840/japan/race-result,12 Oct,Fernando,Alonso,ALO,Renault,67,1:30:21.892
+2008,China,https://www.formula1.com/en/results/2008/races/841/china/race-result,19 Oct,Lewis,Hamilton,HAM,McLaren Mercedes,56,1:31:57.403
+2008,Brazil,https://www.formula1.com/en/results/2008/races/842/brazil/race-result,02 Nov,Felipe,Massa,MAS,Ferrari,71,1:34:11.435
+2007,Australia,https://www.formula1.com/en/results/2007/races/808/australia/race-result,18 Mar,Kimi,Räikkönen,RAI,Ferrari,58,1:25:28.770
+2007,Malaysia,https://www.formula1.com/en/results/2007/races/809/malaysia/race-result,08 Apr,Fernando,Alonso,ALO,McLaren Mercedes,56,1:32:14.930
+2007,Bahrain,https://www.formula1.com/en/results/2007/races/810/bahrain/race-result,15 Apr,Felipe,Massa,MAS,Ferrari,57,1:33:27.515
+2007,Spain,https://www.formula1.com/en/results/2007/races/811/spain/race-result,13 May,Felipe,Massa,MAS,Ferrari,65,1:31:36.230
+2007,Monaco,https://www.formula1.com/en/results/2007/races/812/monaco/race-result,27 May,Fernando,Alonso,ALO,McLaren Mercedes,78,1:40:29.329
+2007,Canada,https://www.formula1.com/en/results/2007/races/813/canada/race-result,10 Jun,Lewis,Hamilton,HAM,McLaren Mercedes,70,1:44:11.292
+2007,United States,https://www.formula1.com/en/results/2007/races/814/united-states/race-result,17 Jun,Lewis,Hamilton,HAM,McLaren Mercedes,73,1:31:09.965
+2007,France,https://www.formula1.com/en/results/2007/races/815/france/race-result,01 Jul,Kimi,Räikkönen,RAI,Ferrari,70,1:30:54.200
+2007,Great Britain,https://www.formula1.com/en/results/2007/races/816/great-britain/race-result,08 Jul,Kimi,Räikkönen,RAI,Ferrari,59,1:21:43.074
+2007,Europe,https://www.formula1.com/en/results/2007/races/817/europe/race-result,22 Jul,Fernando,Alonso,ALO,McLaren Mercedes,60,2:06:26.358
+2007,Hungary,https://www.formula1.com/en/results/2007/races/818/hungary/race-result,05 Aug,Lewis,Hamilton,HAM,McLaren Mercedes,70,1:35:52.991
+2007,Turkey,https://www.formula1.com/en/results/2007/races/819/turkey/race-result,26 Aug,Felipe,Massa,MAS,Ferrari,58,1:26:42.161
+2007,Italy,https://www.formula1.com/en/results/2007/races/820/italy/race-result,09 Sep,Fernando,Alonso,ALO,McLaren Mercedes,53,1:18:37.806
+2007,Belgium,https://www.formula1.com/en/results/2007/races/821/belgium/race-result,16 Sep,Kimi,Räikkönen,RAI,Ferrari,44,1:20:39.066
+2007,Japan,https://www.formula1.com/en/results/2007/races/822/japan/race-result,30 Sep,Lewis,Hamilton,HAM,McLaren Mercedes,67,2:00:34.579
+2007,China,https://www.formula1.com/en/results/2007/races/823/china/race-result,07 Oct,Kimi,Räikkönen,RAI,Ferrari,56,1:37:58.395
+2007,Brazil,https://www.formula1.com/en/results/2007/races/824/brazil/race-result,21 Oct,Kimi,Räikkönen,RAI,Ferrari,71,1:28:15.270
+2014,Australia,https://www.formula1.com/en/results/2014/races/898/australia/race-result,16 Mar,Nico,Rosberg,ROS,Mercedes,57,1:32:58.710
+2014,Malaysia,https://www.formula1.com/en/results/2014/races/899/malaysia/race-result,30 Mar,Lewis,Hamilton,HAM,Mercedes,56,1:40:25.974
+2014,Bahrain,https://www.formula1.com/en/results/2014/races/900/bahrain/race-result,06 Apr,Lewis,Hamilton,HAM,Mercedes,57,1:39:42.743
+2014,China,https://www.formula1.com/en/results/2014/races/901/china/race-result,20 Apr,Lewis,Hamilton,HAM,Mercedes,54,1:33:28.338
+2014,Spain,https://www.formula1.com/en/results/2014/races/902/spain/race-result,11 May,Lewis,Hamilton,HAM,Mercedes,66,1:41:05.155
+2014,Monaco,https://www.formula1.com/en/results/2014/races/903/monaco/race-result,25 May,Nico,Rosberg,ROS,Mercedes,78,1:49:27.661
+2014,Canada,https://www.formula1.com/en/results/2014/races/904/canada/race-result,08 Jun,Daniel,Ricciardo,RIC,Red Bull Racing Renault,70,1:39:12.830
+2014,Austria,https://www.formula1.com/en/results/2014/races/905/austria/race-result,22 Jun,Nico,Rosberg,ROS,Mercedes,71,1:27:54.976
+2014,Great Britain,https://www.formula1.com/en/results/2014/races/906/great-britain/race-result,06 Jul,Lewis,Hamilton,HAM,Mercedes,52,2:26:52.094
+2014,Germany,https://www.formula1.com/en/results/2014/races/907/germany/race-result,20 Jul,Nico,Rosberg,ROS,Mercedes,67,1:33:42.914
+2014,Hungary,https://www.formula1.com/en/results/2014/races/908/hungary/race-result,27 Jul,Daniel,Ricciardo,RIC,Red Bull Racing Renault,70,1:53:05.058
+2014,Belgium,https://www.formula1.com/en/results/2014/races/909/belgium/race-result,24 Aug,Daniel,Ricciardo,RIC,Red Bull Racing Renault,44,1:24:36.556
+2014,Italy,https://www.formula1.com/en/results/2014/races/910/italy/race-result,07 Sep,Lewis,Hamilton,HAM,Mercedes,53,1:19:10.236
+2014,Singapore,https://www.formula1.com/en/results/2014/races/911/singapore/race-result,21 Sep,Lewis,Hamilton,HAM,Mercedes,60,2:00:04.795
+2014,Japan,https://www.formula1.com/en/results/2014/races/912/japan/race-result,05 Oct,Lewis,Hamilton,HAM,Mercedes,44,1:51:43.021
+2014,Russia,https://www.formula1.com/en/results/2014/races/913/russia/race-result,21 Oct,Lewis,Hamilton,HAM,Mercedes,53,1:31:50.744
+2014,United States,https://www.formula1.com/en/results/2014/races/914/united-states/race-result,02 Nov,Lewis,Hamilton,HAM,Mercedes,56,1:40:04.785
+2014,Brazil,https://www.formula1.com/en/results/2014/races/915/brazil/race-result,09 Nov,Nico,Rosberg,ROS,Mercedes,71,1:30:02.555
+2014,Abu Dhabi,https://www.formula1.com/en/results/2014/races/916/abu-dhabi/race-result,23 Nov,Lewis,Hamilton,HAM,Mercedes,55,1:39:02.619
+2010,Bahrain,https://www.formula1.com/en/results/2010/races/860/bahrain/race-result,14 Mar,Fernando,Alonso,ALO,Ferrari,49,1:39:20.396
+2010,Australia,https://www.formula1.com/en/results/2010/races/861/australia/race-result,28 Mar,Jenson,Button,BUT,McLaren Mercedes,58,1:33:36.531
+2010,Malaysia,https://www.formula1.com/en/results/2010/races/862/malaysia/race-result,04 Apr,Sebastian,Vettel,VET,RBR Renault,56,1:33:48.412
+2010,China,https://www.formula1.com/en/results/2010/races/863/china/race-result,18 Apr,Jenson,Button,BUT,McLaren Mercedes,56,1:46:42.163
+2010,Spain,https://www.formula1.com/en/results/2010/races/864/spain/race-result,09 May,Mark,Webber,WEB,RBR Renault,66,1:35:44.101
+2010,Monaco,https://www.formula1.com/en/results/2010/races/865/monaco/race-result,16 May,Mark,Webber,WEB,RBR Renault,78,1:50:13.355
+2010,Turkey,https://www.formula1.com/en/results/2010/races/866/turkey/race-result,30 May,Lewis,Hamilton,HAM,McLaren Mercedes,58,1:28:47.620
+2010,Canada,https://www.formula1.com/en/results/2010/races/867/canada/race-result,13 Jun,Lewis,Hamilton,HAM,McLaren Mercedes,70,1:33:53.456
+2010,Europe,https://www.formula1.com/en/results/2010/races/868/europe/race-result,27 Jun,Sebastian,Vettel,VET,RBR Renault,57,1:40:29.571
+2010,Great Britain,https://www.formula1.com/en/results/2010/races/869/great-britain/race-result,11 Jul,Mark,Webber,WEB,RBR Renault,52,1:24:38.200
+2010,Germany,https://www.formula1.com/en/results/2010/races/870/germany/race-result,25 Jul,Fernando,Alonso,ALO,Ferrari,67,1:27:38.864
+2010,Hungary,https://www.formula1.com/en/results/2010/races/871/hungary/race-result,01 Aug,Mark,Webber,WEB,RBR Renault,70,1:41:05.571
+2010,Belgium,https://www.formula1.com/en/results/2010/races/872/belgium/race-result,29 Aug,Lewis,Hamilton,HAM,McLaren Mercedes,44,1:29:04.268
+2010,Italy,https://www.formula1.com/en/results/2010/races/873/italy/race-result,12 Sep,Fernando,Alonso,ALO,Ferrari,53,1:16:24.572
+2010,Singapore,https://www.formula1.com/en/results/2010/races/874/singapore/race-result,26 Sep,Fernando,Alonso,ALO,Ferrari,61,1:57:53.579
+2010,Japan,https://www.formula1.com/en/results/2010/races/875/japan/race-result,10 Oct,Sebastian,Vettel,VET,RBR Renault,53,1:30:27.323
+2010,South Korea,https://www.formula1.com/en/results/2010/races/876/south-korea/race-result,24 Oct,Fernando,Alonso,ALO,Ferrari,55,2:48:20.810
+2010,Brazil,https://www.formula1.com/en/results/2010/races/877/brazil/race-result,07 Nov,Sebastian,Vettel,VET,RBR Renault,71,1:33:11.803
+2010,Abu Dhabi,https://www.formula1.com/en/results/2010/races/878/abu-dhabi/race-result,14 Nov,Sebastian,Vettel,VET,RBR Renault,55,1:39:36.837
+2015,Australia,https://www.formula1.com/en/results/2015/races/917/australia/race-result,15 Mar,Lewis,Hamilton,HAM,Mercedes,58,1:31:54.067
+2015,Malaysia,https://www.formula1.com/en/results/2015/races/918/malaysia/race-result,29 Mar,Sebastian,Vettel,VET,Ferrari,56,1:41:05.793
+2015,China,https://www.formula1.com/en/results/2015/races/919/china/race-result,12 Apr,Lewis,Hamilton,HAM,Mercedes,56,1:39:42.008
+2015,Bahrain,https://www.formula1.com/en/results/2015/races/920/bahrain/race-result,19 Apr,Lewis,Hamilton,HAM,Mercedes,57,1:35:05.809
+2015,Spain,https://www.formula1.com/en/results/2015/races/921/spain/race-result,10 May,Nico,Rosberg,ROS,Mercedes,66,1:41:12.555
+2015,Monaco,https://www.formula1.com/en/results/2015/races/922/monaco/race-result,24 May,Nico,Rosberg,ROS,Mercedes,78,1:49:18.420
+2015,Canada,https://www.formula1.com/en/results/2015/races/923/canada/race-result,07 Jun,Lewis,Hamilton,HAM,Mercedes,70,1:31:53.145
+2015,Austria,https://www.formula1.com/en/results/2015/races/924/austria/race-result,21 Jun,Nico,Rosberg,ROS,Mercedes,71,1:30:16.930
+2012,Australia,https://www.formula1.com/en/results/2012/races/10/australia/race-result,18 Mar,Jenson,Button,BUT,McLaren Mercedes,58,1:34:09.565
+2012,Malaysia,https://www.formula1.com/en/results/2012/races/11/malaysia/race-result,25 Mar,Fernando,Alonso,ALO,Ferrari,56,2:44:51.812
+2012,China,https://www.formula1.com/en/results/2012/races/12/china/race-result,15 Apr,Nico,Rosberg,ROS,Mercedes,56,1:36:26.929
+2012,Bahrain,https://www.formula1.com/en/results/2012/races/13/bahrain/race-result,22 Apr,Sebastian,Vettel,VET,Red Bull Racing Renault,57,1:35:10.990
+2012,Spain,https://www.formula1.com/en/results/2012/races/14/spain/race-result,13 May,Pastor,Maldonado,MAL,Williams Renault,66,1:39:09.145
+2012,Monaco,https://www.formula1.com/en/results/2012/races/15/monaco/race-result,27 May,Mark,Webber,WEB,Red Bull Racing Renault,78,1:46:06.557
+2012,Canada,https://www.formula1.com/en/results/2012/races/16/canada/race-result,10 Jun,Lewis,Hamilton,HAM,McLaren Mercedes,70,1:32:29.586
+2012,Europe,https://www.formula1.com/en/results/2012/races/17/europe/race-result,24 Jun,Fernando,Alonso,ALO,Ferrari,57,1:44:16.649
+2012,Great Britain,https://www.formula1.com/en/results/2012/races/4/great-britain/race-result,08 Jul,Mark,Webber,WEB,Red Bull Racing Renault,52,1:25:11.288
+2012,Germany,https://www.formula1.com/en/results/2012/races/18/germany/race-result,22 Jul,Fernando,Alonso,ALO,Ferrari,67,1:31:05.862
+2012,Hungary,https://www.formula1.com/en/results/2012/races/1/hungary/race-result,29 Jul,Lewis,Hamilton,HAM,McLaren Mercedes,69,1:41:05.503
+2012,Belgium,https://www.formula1.com/en/results/2012/races/19/belgium/race-result,02 Sep,Jenson,Button,BUT,McLaren Mercedes,44,1:29:08.530
+2012,Italy,https://www.formula1.com/en/results/2012/races/20/italy/race-result,09 Sep,Lewis,Hamilton,HAM,McLaren Mercedes,53,1:19:41.221
+2012,Singapore,https://www.formula1.com/en/results/2012/races/21/singapore/race-result,23 Sep,Sebastian,Vettel,VET,Red Bull Racing Renault,59,2:00:26.144
+2012,Japan,https://www.formula1.com/en/results/2012/races/22/japan/race-result,07 Oct,Sebastian,Vettel,VET,Red Bull Racing Renault,53,1:28:56.242
+2012,South Korea,https://www.formula1.com/en/results/2012/races/23/south-korea/race-result,14 Oct,Sebastian,Vettel,VET,Red Bull Racing Renault,55,1:36:28.651
+2012,India,https://www.formula1.com/en/results/2012/races/24/india/race-result,28 Oct,Sebastian,Vettel,VET,Red Bull Racing Renault,60,1:31:10.744
+2012,Abu Dhabi,https://www.formula1.com/en/results/2012/races/25/abu-dhabi/race-result,04 Nov,Kimi,Räikkönen,RAI,Lotus Renault,55,1:45:58.667
+2012,United States,https://www.formula1.com/en/results/2012/races/26/united-states/race-result,18 Nov,Lewis,Hamilton,HAM,McLaren Mercedes,56,1:35:55.269
+2012,Brazil,https://www.formula1.com/en/results/2012/races/27/brazil/race-result,25 Nov,Jenson,Button,BUT,McLaren Mercedes,71,1:45:22.656
+2015,Great Britain,https://www.formula1.com/en/results/2015/races/925/great-britain/race-result,05 Jul,Lewis,Hamilton,HAM,Mercedes,52,1:31:27.729
+2015,Hungary,https://www.formula1.com/en/results/2015/races/927/hungary/race-result,26 Jul,Sebastian,Vettel,VET,Ferrari,69,1:46:09.985
+2015,Belgium,https://www.formula1.com/en/results/2015/races/928/belgium/race-result,23 Aug,Lewis,Hamilton,HAM,Mercedes,43,1:23:40.387
+2015,Italy,https://www.formula1.com/en/results/2015/races/929/italy/race-result,06 Sep,Lewis,Hamilton,HAM,Mercedes,53,1:18:00.688
+2015,Singapore,https://www.formula1.com/en/results/2015/races/930/singapore/race-result,20 Sep,Sebastian,Vettel,VET,Ferrari,61,2:01:22.118
+2015,Japan,https://www.formula1.com/en/results/2015/races/931/japan/race-result,27 Sep,Lewis,Hamilton,HAM,Mercedes,53,1:28:06.508
+2015,Russia,https://www.formula1.com/en/results/2015/races/932/russia/race-result,11 Oct,Lewis,Hamilton,HAM,Mercedes,53,1:37:11.024
+2015,United States,https://www.formula1.com/en/results/2015/races/933/united-states/race-result,25 Oct,Lewis,Hamilton,HAM,Mercedes,56,1:50:52.703
+2015,Mexico,https://www.formula1.com/en/results/2015/races/934/mexico/race-result,01 Nov,Nico,Rosberg,ROS,Mercedes,71,1:42:35.038
+2015,Brazil,https://www.formula1.com/en/results/2015/races/935/brazil/race-result,15 Nov,Nico,Rosberg,ROS,Mercedes,71,1:31:09.090
+2015,Abu Dhabi,https://www.formula1.com/en/results/2015/races/936/abu-dhabi/race-result,29 Nov,Nico,Rosberg,ROS,Mercedes,55,1:38:30.175
+2020,Austria,https://www.formula1.com/en/results/2020/races/1045/austria/race-result,05 Jul,Valtteri,Bottas,BOT,Mercedes,71,1:30:55.739
+2020,Styria,https://www.formula1.com/en/results/2020/races/1046/styria/race-result,12 Jul,Lewis,Hamilton,HAM,Mercedes,71,1:22:50.683
+2020,Hungary,https://www.formula1.com/en/results/2020/races/1047/hungary/race-result,19 Jul,Lewis,Hamilton,HAM,Mercedes,70,1:36:12.473
+2020,Great Britain,https://www.formula1.com/en/results/2020/races/1048/great-britain/race-result,02 Aug,Lewis,Hamilton,HAM,Mercedes,52,1:28:01.283
+2020,70th Anniversary,https://www.formula1.com/en/results/2020/races/1049/70th-anniversary/race-result,09 Aug,Max,Verstappen,VER,Red Bull Racing Honda,52,1:19:41.993
+2020,Spain,https://www.formula1.com/en/results/2020/races/1050/spain/race-result,16 Aug,Lewis,Hamilton,HAM,Mercedes,66,1:31:45.279
+2020,Belgium,https://www.formula1.com/en/results/2020/races/1051/belgium/race-result,30 Aug,Lewis,Hamilton,HAM,Mercedes,44,1:24:08.761
+2020,Italy,https://www.formula1.com/en/results/2020/races/1052/italy/race-result,06 Sep,Pierre,Gasly,GAS,AlphaTauri Honda,53,1:47:06.056
+2020,Tuscany,https://www.formula1.com/en/results/2020/races/1053/tuscany/race-result,13 Sep,Lewis,Hamilton,HAM,Mercedes,59,2:19:35.060
+2020,Russia,https://www.formula1.com/en/results/2020/races/1054/russia/race-result,27 Sep,Valtteri,Bottas,BOT,Mercedes,53,1:34:00.364
+2020,Eifel,https://www.formula1.com/en/results/2020/races/1055/eifel/race-result,11 Oct,Lewis,Hamilton,HAM,Mercedes,60,1:35:49.641
+2020,Portugal,https://www.formula1.com/en/results/2020/races/1056/portugal/race-result,25 Oct,Lewis,Hamilton,HAM,Mercedes,66,1:29:56.828
+2020,Emilia-Romagna,https://www.formula1.com/en/results/2020/races/1057/emilia-romagna/race-result,01 Nov,Lewis,Hamilton,HAM,Mercedes,63,1:28:32.430
+2020,Turkey,https://www.formula1.com/en/results/2020/races/1058/turkey/race-result,15 Nov,Lewis,Hamilton,HAM,Mercedes,58,1:42:19.313
+2020,Bahrain,https://www.formula1.com/en/results/2020/races/1059/bahrain/race-result,29 Nov,Lewis,Hamilton,HAM,Mercedes,57,2:59:47.515
+2020,Sakhir,https://www.formula1.com/en/results/2020/races/1060/sakhir/race-result,06 Dec,Sergio,Perez,PER,Racing Point BWT Mercedes,87,1:31:15.114
+2020,Abu Dhabi,https://www.formula1.com/en/results/2020/races/1061/abu-dhabi/race-result,13 Dec,Max,Verstappen,VER,Red Bull Racing Honda,55,1:36:28.645
+2013,Australia,https://www.formula1.com/en/results/2013/races/879/australia/race-result,17 Mar,Kimi,Räikkönen,RAI,Lotus Renault,58,1:30:03.225
+2013,Malaysia,https://www.formula1.com/en/results/2013/races/880/malaysia/race-result,24 Mar,Sebastian,Vettel,VET,Red Bull Racing Renault,56,1:38:56.681
+2013,China,https://www.formula1.com/en/results/2013/races/881/china/race-result,14 Apr,Fernando,Alonso,ALO,Ferrari,56,1:36:26.945
+2013,Bahrain,https://www.formula1.com/en/results/2013/races/882/bahrain/race-result,21 Apr,Sebastian,Vettel,VET,Red Bull Racing Renault,57,1:36:00.498
+2013,Spain,https://www.formula1.com/en/results/2013/races/883/spain/race-result,12 May,Fernando,Alonso,ALO,Ferrari,66,1:39:16.596
+2013,Monaco,https://www.formula1.com/en/results/2013/races/884/monaco/race-result,26 May,Nico,Rosberg,ROS,Mercedes,78,2:17:52.056
+2013,Canada,https://www.formula1.com/en/results/2013/races/885/canada/race-result,09 Jun,Sebastian,Vettel,VET,Red Bull Racing Renault,70,1:32:09.143
+2013,Great Britain,https://www.formula1.com/en/results/2013/races/886/great-britain/race-result,30 Jun,Nico,Rosberg,ROS,Mercedes,52,1:32:59.456
+2013,Germany,https://www.formula1.com/en/results/2013/races/887/germany/race-result,07 Jul,Sebastian,Vettel,VET,Red Bull Racing Renault,60,1:41:14.711
+2013,Hungary,https://www.formula1.com/en/results/2013/races/888/hungary/race-result,28 Jul,Lewis,Hamilton,HAM,Mercedes,70,1:42:29.445
+2013,Belgium,https://www.formula1.com/en/results/2013/races/889/belgium/race-result,25 Aug,Sebastian,Vettel,VET,Red Bull Racing Renault,44,1:23:42.196
+2013,Italy,https://www.formula1.com/en/results/2013/races/890/italy/race-result,08 Sep,Sebastian,Vettel,VET,Red Bull Racing Renault,53,1:18:33.352
+2013,Singapore,https://www.formula1.com/en/results/2013/races/891/singapore/race-result,22 Sep,Sebastian,Vettel,VET,Red Bull Racing Renault,61,1:59:13.132
+2013,South Korea,https://www.formula1.com/en/results/2013/races/892/south-korea/race-result,06 Oct,Sebastian,Vettel,VET,Red Bull Racing Renault,55,1:43:13.701
+2013,Japan,https://www.formula1.com/en/results/2013/races/893/japan/race-result,13 Oct,Sebastian,Vettel,VET,Red Bull Racing Renault,53,1:26:49.301
+2013,India,https://www.formula1.com/en/results/2013/races/894/india/race-result,27 Oct,Sebastian,Vettel,VET,Red Bull Racing Renault,60,1:31:12.187
+2013,Abu Dhabi,https://www.formula1.com/en/results/2013/races/895/abu-dhabi/race-result,03 Nov,Sebastian,Vettel,VET,Red Bull Racing Renault,55,1:38:06.106
+2013,United States,https://www.formula1.com/en/results/2013/races/896/united-states/race-result,17 Nov,Sebastian,Vettel,VET,Red Bull Racing Renault,56,1:39:17.148
+2013,Brazil,https://www.formula1.com/en/results/2013/races/897/brazil/race-result,24 Nov,Sebastian,Vettel,VET,Red Bull Racing Renault,71,1:32:36.300
+2018,Australia,https://www.formula1.com/en/results/2018/races/979/australia/race-result,25 Mar,Sebastian,Vettel,VET,Ferrari,58,1:29:33.283
+2018,Bahrain,https://www.formula1.com/en/results/2018/races/980/bahrain/race-result,08 Apr,Sebastian,Vettel,VET,Ferrari,57,1:32:01.940
+2018,China,https://www.formula1.com/en/results/2018/races/981/china/race-result,15 Apr,Daniel,Ricciardo,RIC,Red Bull Racing TAG Heuer,56,1:35:36.380
+2018,Azerbaijan,https://www.formula1.com/en/results/2018/races/982/azerbaijan/race-result,29 Apr,Lewis,Hamilton,HAM,Mercedes,51,1:43:44.291
+2018,Spain,https://www.formula1.com/en/results/2018/races/983/spain/race-result,13 May,Lewis,Hamilton,HAM,Mercedes,66,1:35:29.972
+2018,Monaco,https://www.formula1.com/en/results/2018/races/984/monaco/race-result,27 May,Daniel,Ricciardo,RIC,Red Bull Racing TAG Heuer,78,1:42:54.807
+2018,Canada,https://www.formula1.com/en/results/2018/races/985/canada/race-result,10 Jun,Sebastian,Vettel,VET,Ferrari,68,1:28:31.377
+2018,France,https://www.formula1.com/en/results/2018/races/986/france/race-result,24 Jun,Lewis,Hamilton,HAM,Mercedes,53,1:30:11.385
+2018,Austria,https://www.formula1.com/en/results/2018/races/987/austria/race-result,01 Jul,Max,Verstappen,VER,Red Bull Racing TAG Heuer,71,1:21:56.024
+2018,Great Britain,https://www.formula1.com/en/results/2018/races/988/great-britain/race-result,08 Jul,Sebastian,Vettel,VET,Ferrari,52,1:27:29.784
+2018,Germany,https://www.formula1.com/en/results/2018/races/989/germany/race-result,22 Jul,Lewis,Hamilton,HAM,Mercedes,67,1:32:29.845
+2018,Hungary,https://www.formula1.com/en/results/2018/races/990/hungary/race-result,29 Jul,Lewis,Hamilton,HAM,Mercedes,70,1:37:16.427
+2018,Belgium,https://www.formula1.com/en/results/2018/races/991/belgium/race-result,26 Aug,Sebastian,Vettel,VET,Ferrari,44,1:23:34.476
+2018,Italy,https://www.formula1.com/en/results/2018/races/992/italy/race-result,02 Sep,Lewis,Hamilton,HAM,Mercedes,53,1:16:54.484
+2018,Singapore,https://www.formula1.com/en/results/2018/races/993/singapore/race-result,16 Sep,Lewis,Hamilton,HAM,Mercedes,61,1:51:11.611
+2018,Russia,https://www.formula1.com/en/results/2018/races/994/russia/race-result,30 Sep,Lewis,Hamilton,HAM,Mercedes,53,1:27:25.181
+2018,Japan,https://www.formula1.com/en/results/2018/races/995/japan/race-result,07 Oct,Lewis,Hamilton,HAM,Mercedes,53,1:27:17.062
+2018,United States,https://www.formula1.com/en/results/2018/races/996/united-states/race-result,21 Oct,Kimi,Räikkönen,RAI,Ferrari,56,1:34:18.643
+2018,Mexico,https://www.formula1.com/en/results/2018/races/997/mexico/race-result,28 Oct,Max,Verstappen,VER,Red Bull Racing TAG Heuer,71,1:38:28.851
+2018,Brazil,https://www.formula1.com/en/results/2018/races/998/brazil/race-result,11 Nov,Lewis,Hamilton,HAM,Mercedes,71,1:27:09.066
+2018,Abu Dhabi,https://www.formula1.com/en/results/2018/races/999/abu-dhabi/race-result,25 Nov,Lewis,Hamilton,HAM,Mercedes,55,1:39:40.382
+2019,Australia,https://www.formula1.com/en/results/2019/races/1000/australia/race-result,17 Mar,Valtteri,Bottas,BOT,Mercedes,58,1:25:27.325
+2019,Bahrain,https://www.formula1.com/en/results/2019/races/1001/bahrain/race-result,31 Mar,Lewis,Hamilton,HAM,Mercedes,57,1:34:21.295
+2019,China,https://www.formula1.com/en/results/2019/races/1002/china/race-result,14 Apr,Lewis,Hamilton,HAM,Mercedes,56,1:32:06.350
+2019,Azerbaijan,https://www.formula1.com/en/results/2019/races/1003/azerbaijan/race-result,28 Apr,Valtteri,Bottas,BOT,Mercedes,51,1:31:52.942
+2019,Spain,https://www.formula1.com/en/results/2019/races/1004/spain/race-result,12 May,Lewis,Hamilton,HAM,Mercedes,66,1:35:50.443
+2019,Monaco,https://www.formula1.com/en/results/2019/races/1005/monaco/race-result,26 May,Lewis,Hamilton,HAM,Mercedes,78,1:43:28.437
+2019,Canada,https://www.formula1.com/en/results/2019/races/1006/canada/race-result,09 Jun,Lewis,Hamilton,HAM,Mercedes,70,1:29:07.084
+2019,France,https://www.formula1.com/en/results/2019/races/1007/france/race-result,23 Jun,Lewis,Hamilton,HAM,Mercedes,53,1:24:31.198
+2019,Austria,https://www.formula1.com/en/results/2019/races/1008/austria/race-result,30 Jun,Max,Verstappen,VER,Red Bull Racing Honda,71,1:22:01.822
+2019,Great Britain,https://www.formula1.com/en/results/2019/races/1009/great-britain/race-result,14 Jul,Lewis,Hamilton,HAM,Mercedes,52,1:21:08.452
+2019,Germany,https://www.formula1.com/en/results/2019/races/1010/germany/race-result,28 Jul,Max,Verstappen,VER,Red Bull Racing Honda,64,1:44:31.275
+2019,Hungary,https://www.formula1.com/en/results/2019/races/1011/hungary/race-result,04 Aug,Lewis,Hamilton,HAM,Mercedes,70,1:35:03.796
+2019,Belgium,https://www.formula1.com/en/results/2019/races/1012/belgium/race-result,01 Sep,Charles,Leclerc,LEC,Ferrari,44,1:23:45.710
+2019,Italy,https://www.formula1.com/en/results/2019/races/1013/italy/race-result,08 Sep,Charles,Leclerc,LEC,Ferrari,53,1:15:26.665
+2019,Singapore,https://www.formula1.com/en/results/2019/races/1014/singapore/race-result,22 Sep,Sebastian,Vettel,VET,Ferrari,61,1:58:33.667
+2019,Russia,https://www.formula1.com/en/results/2019/races/1015/russia/race-result,29 Sep,Lewis,Hamilton,HAM,Mercedes,53,1:33:38.992
+2019,Japan,https://www.formula1.com/en/results/2019/races/1016/japan/race-result,13 Oct,Valtteri,Bottas,BOT,Mercedes,52,1:21:46.755
+2019,Mexico,https://www.formula1.com/en/results/2019/races/1017/mexico/race-result,27 Oct,Lewis,Hamilton,HAM,Mercedes,71,1:36:48.904
+2019,United States,https://www.formula1.com/en/results/2019/races/1018/united-states/race-result,03 Nov,Valtteri,Bottas,BOT,Mercedes,56,1:33:55.653
+2019,Brazil,https://www.formula1.com/en/results/2019/races/1019/brazil/race-result,17 Nov,Max,Verstappen,VER,Red Bull Racing Honda,71,1:33:14.678
+2019,Abu Dhabi,https://www.formula1.com/en/results/2019/races/1020/abu-dhabi/race-result,01 Dec,Lewis,Hamilton,HAM,Mercedes,55,1:34:05.715
+2022,Bahrain,https://www.formula1.com/en/results/2022/races/1124/bahrain/race-result,20 Mar,Charles,Leclerc,LEC,Ferrari,57,1:37:33.584
+2022,Saudi Arabia,https://www.formula1.com/en/results/2022/races/1125/saudi-arabia/race-result,27 Mar,Max,Verstappen,VER,Red Bull Racing RBPT,50,1:24:19.293
+2022,Australia,https://www.formula1.com/en/results/2022/races/1108/australia/race-result,10 Apr,Charles,Leclerc,LEC,Ferrari,58,1:27:46.548
+2022,Emilia-Romagna,https://www.formula1.com/en/results/2022/races/1109/emilia-romagna/race-result,24 Apr,Max,Verstappen,VER,Red Bull Racing RBPT,63,1:32:07.986
+2022,Miami,https://www.formula1.com/en/results/2022/races/1110/miami/race-result,08 May,Max,Verstappen,VER,Red Bull Racing RBPT,57,1:34:24.258
+2022,Spain,https://www.formula1.com/en/results/2022/races/1111/spain/race-result,22 May,Max,Verstappen,VER,Red Bull Racing RBPT,66,1:37:20.475
+2022,Monaco,https://www.formula1.com/en/results/2022/races/1112/monaco/race-result,29 May,Sergio,Perez,PER,Red Bull Racing RBPT,64,1:56:30.265
+2022,Azerbaijan,https://www.formula1.com/en/results/2022/races/1126/azerbaijan/race-result,12 Jun,Max,Verstappen,VER,Red Bull Racing RBPT,51,1:34:05.941
+2022,Canada,https://www.formula1.com/en/results/2022/races/1113/canada/race-result,19 Jun,Max,Verstappen,VER,Red Bull Racing RBPT,70,1:36:21.757
+2022,Great Britain,https://www.formula1.com/en/results/2022/races/1114/great-britain/race-result,03 Jul,Carlos,Sainz,SAI,Ferrari,52,2:17:50.311
+2022,Austria,https://www.formula1.com/en/results/2022/races/1115/austria/race-result,10 Jul,Charles,Leclerc,LEC,Ferrari,71,1:24:24.312
+2022,France,https://www.formula1.com/en/results/2022/races/1116/france/race-result,24 Jul,Max,Verstappen,VER,Red Bull Racing RBPT,53,1:30:02.112
+2022,Hungary,https://www.formula1.com/en/results/2022/races/1117/hungary/race-result,31 Jul,Max,Verstappen,VER,Red Bull Racing RBPT,70,1:39:35.912
+2022,Belgium,https://www.formula1.com/en/results/2022/races/1118/belgium/race-result,28 Aug,Max,Verstappen,VER,Red Bull Racing RBPT,44,1:25:52.894
+2022,Netherlands,https://www.formula1.com/en/results/2022/races/1119/netherlands/race-result,04 Sep,Max,Verstappen,VER,Red Bull Racing RBPT,72,1:36:42.773
+2022,Italy,https://www.formula1.com/en/results/2022/races/1120/italy/race-result,11 Sep,Max,Verstappen,VER,Red Bull Racing RBPT,53,1:20:27.511
+2022,Singapore,https://www.formula1.com/en/results/2022/races/1133/singapore/race-result,02 Oct,Sergio,Perez,PER,Red Bull Racing RBPT,59,2:02:20.238
+2022,Japan,https://www.formula1.com/en/results/2022/races/1134/japan/race-result,09 Oct,Max,Verstappen,VER,Red Bull Racing RBPT,28,3:01:44.004
+2022,United States,https://www.formula1.com/en/results/2022/races/1135/united-states/race-result,23 Oct,Max,Verstappen,VER,Red Bull Racing RBPT,56,1:42:11.687
+2022,Mexico,https://www.formula1.com/en/results/2022/races/1136/mexico/race-result,30 Oct,Max,Verstappen,VER,Red Bull Racing RBPT,71,1:38:36.729
+2022,Brazil,https://www.formula1.com/en/results/2022/races/1137/brazil/race-result,13 Nov,George,Russell,RUS,Mercedes,71,1:38:34.044
+2022,Abu Dhabi,https://www.formula1.com/en/results/2022/races/1138/abu-dhabi/race-result,20 Nov,Max,Verstappen,VER,Red Bull Racing RBPT,58,1:27:45.914
+2017,Australia,https://www.formula1.com/en/results/2017/races/959/australia/race-result,26 Mar,Sebastian,Vettel,VET,Ferrari,57,1:24:11.672
+2017,China,https://www.formula1.com/en/results/2017/races/960/china/race-result,09 Apr,Lewis,Hamilton,HAM,Mercedes,56,1:37:36.158
+2017,Bahrain,https://www.formula1.com/en/results/2017/races/961/bahrain/race-result,16 Apr,Sebastian,Vettel,VET,Ferrari,57,1:33:53.374
+2017,Russia,https://www.formula1.com/en/results/2017/races/962/russia/race-result,30 Apr,Valtteri,Bottas,BOT,Mercedes,52,1:28:08.743
+2017,Spain,https://www.formula1.com/en/results/2017/races/963/spain/race-result,14 May,Lewis,Hamilton,HAM,Mercedes,66,1:35:56.497
+2017,Monaco,https://www.formula1.com/en/results/2017/races/964/monaco/race-result,28 May,Sebastian,Vettel,VET,Ferrari,78,1:44:44.340
+2017,Canada,https://www.formula1.com/en/results/2017/races/965/canada/race-result,11 Jun,Lewis,Hamilton,HAM,Mercedes,70,1:33:05.154
+2017,Azerbaijan,https://www.formula1.com/en/results/2017/races/966/azerbaijan/race-result,25 Jun,Daniel,Ricciardo,RIC,Red Bull Racing TAG Heuer,51,2:03:55.573
+2017,Austria,https://www.formula1.com/en/results/2017/races/967/austria/race-result,09 Jul,Valtteri,Bottas,BOT,Mercedes,71,1:21:48.523
+2017,Great Britain,https://www.formula1.com/en/results/2017/races/968/great-britain/race-result,16 Jul,Lewis,Hamilton,HAM,Mercedes,51,1:21:27.430
+2017,Hungary,https://www.formula1.com/en/results/2017/races/969/hungary/race-result,30 Jul,Sebastian,Vettel,VET,Ferrari,70,1:39:46.713
+2017,Belgium,https://www.formula1.com/en/results/2017/races/970/belgium/race-result,27 Aug,Lewis,Hamilton,HAM,Mercedes,44,1:24:42.820
+2017,Italy,https://www.formula1.com/en/results/2017/races/971/italy/race-result,03 Sep,Lewis,Hamilton,HAM,Mercedes,53,1:15:32.312
+2017,Singapore,https://www.formula1.com/en/results/2017/races/972/singapore/race-result,17 Sep,Lewis,Hamilton,HAM,Mercedes,58,2:03:23.544
+2017,Malaysia,https://www.formula1.com/en/results/2017/races/973/malaysia/race-result,01 Oct,Max,Verstappen,VER,Red Bull Racing TAG Heuer,56,1:30:01.290
+2017,Japan,https://www.formula1.com/en/results/2017/races/974/japan/race-result,08 Oct,Lewis,Hamilton,HAM,Mercedes,53,1:27:31.194
+2017,United States,https://www.formula1.com/en/results/2017/races/975/united-states/race-result,22 Oct,Lewis,Hamilton,HAM,Mercedes,56,1:33:50.991
+2017,Mexico,https://www.formula1.com/en/results/2017/races/976/mexico/race-result,29 Oct,Max,Verstappen,VER,Red Bull Racing TAG Heuer,71,1:36:26.552
+2017,Brazil,https://www.formula1.com/en/results/2017/races/977/brazil/race-result,12 Nov,Sebastian,Vettel,VET,Ferrari,71,1:31:26.262
+2017,Abu Dhabi,https://www.formula1.com/en/results/2017/races/978/abu-dhabi/race-result,26 Nov,Valtteri,Bottas,BOT,Mercedes,55,1:34:14.062
+2025,Australia,https://www.formula1.com/en/results/2025/races/1254/australia/race-result,16 Mar,Lando,Norris,NOR,McLaren,57,1:42:06.304
+2025,China,https://www.formula1.com/en/results/2025/races/1255/china/race-result,23 Mar,Oscar,Piastri,PIA,McLaren,56,1:30:55.026
+2025,Japan,https://www.formula1.com/en/results/2025/races/1256/japan/race-result,06 Apr,Max,Verstappen,VER,Red Bull Racing,53,1:22:06.983
+2025,Bahrain,https://www.formula1.com/en/results/2025/races/1257/bahrain/race-result,13 Apr,Oscar,Piastri,PIA,McLaren,57,1:35:39.435
+2025,Saudi Arabia,https://www.formula1.com/en/results/2025/races/1258/saudi-arabia/race-result,20 Apr,Oscar,Piastri,PIA,McLaren,50,1:21:06.758
+2025,Miami,https://www.formula1.com/en/results/2025/races/1259/miami/race-result,04 May,Oscar,Piastri,PIA,McLaren,57,1:28:51.587
+2025,Emilia-Romagna,https://www.formula1.com/en/results/2025/races/1260/emilia-romagna/race-result,18 May,Max,Verstappen,VER,Red Bull Racing,63,1:31:33.199
+2025,Monaco,https://www.formula1.com/en/results/2025/races/1261/monaco/race-result,25 May,Lando,Norris,NOR,McLaren,78,1:40:33.843
+2025,Spain,https://www.formula1.com/en/results/2025/races/1262/spain/race-result,01 Jun,Oscar,Piastri,PIA,McLaren,66,1:32:57.375
+2025,Canada,https://www.formula1.com/en/results/2025/races/1263/canada/race-result,15 Jun,George,Russell,RUS,Mercedes,70,1:31:52.688
+2025,Austria,https://www.formula1.com/en/results/2025/races/1264/austria/race-result,29 Jun,Lando,Norris,NOR,McLaren,70,1:23:47.693
+2025,Great Britain,https://www.formula1.com/en/results/2025/races/1277/great-britain/race-result,06 Jul,Lando,Norris,NOR,McLaren,52,1:37:15.735
+2025,Belgium,https://www.formula1.com/en/results/2025/races/1265/belgium/race-result,27 Jul,Oscar,Piastri,PIA,McLaren,44,1:25:22.601
+2025,Hungary,https://www.formula1.com/en/results/2025/races/1266/hungary/race-result,03 Aug,Lando,Norris,NOR,McLaren,70,1:35:21.231
+2025,Netherlands,https://www.formula1.com/en/results/2025/races/1267/netherlands/race-result,31 Aug,Oscar,Piastri,PIA,McLaren,72,1:38:29.849
+2025,Italy,https://www.formula1.com/en/results/2025/races/1268/italy/race-result,07 Sep,Max,Verstappen,VER,Red Bull Racing,53,1:13:24.325
+2025,Azerbaijan,https://www.formula1.com/en/results/2025/races/1269/azerbaijan/race-result,21 Sep,Max,Verstappen,VER,Red Bull Racing,51,1:33:26.408
+2025,Singapore,https://www.formula1.com/en/results/2025/races/1270/singapore/race-result,05 Oct,George,Russell,RUS,Mercedes,62,1:40:22.367
+2025,United States,https://www.formula1.com/en/results/2025/races/1271/united-states/race-result,19 Oct,Max,Verstappen,VER,Red Bull Racing,56,1:34:00.161
+2025,Mexico,https://www.formula1.com/en/results/2025/races/1272/mexico/race-result,26 Oct,Lando,Norris,NOR,McLaren,71,1:37:58.574
+2025,Brazil,https://www.formula1.com/en/results/2025/races/1273/brazil/race-result,09 Nov,Lando,Norris,NOR,McLaren,71,1:32:01.596
+2025,Las Vegas,https://www.formula1.com/en/results/2025/races/1274/las-vegas/race-result,22 Nov,Max,Verstappen,VER,Red Bull Racing,50,1:21:08.429
+2025,Qatar,https://www.formula1.com/en/results/2025/races/1275/qatar/race-result,30 Nov,Max,Verstappen,VER,Red Bull Racing,57,1:24:38.241
+2025,Abu Dhabi,https://www.formula1.com/en/results/2025/races/1276/abu-dhabi/race-result,07 Dec,Max,Verstappen,VER,Red Bull Racing,58,1:26:07.469
+2021,Bahrain,https://www.formula1.com/en/results/2021/races/1064/bahrain/race-result,28 Mar,Lewis,Hamilton,HAM,Mercedes,56,1:32:03.897
+2021,Emilia-Romagna,https://www.formula1.com/en/results/2021/races/1065/emilia-romagna/race-result,18 Apr,Max,Verstappen,VER,Red Bull Racing Honda,63,2:02:34.598
+2021,Portugal,https://www.formula1.com/en/results/2021/races/1066/portugal/race-result,02 May,Lewis,Hamilton,HAM,Mercedes,66,1:34:31.421
+2021,Spain,https://www.formula1.com/en/results/2021/races/1086/spain/race-result,09 May,Lewis,Hamilton,HAM,Mercedes,66,1:33:07.680
+2021,Monaco,https://www.formula1.com/en/results/2021/races/1067/monaco/race-result,23 May,Max,Verstappen,VER,Red Bull Racing Honda,78,1:38:56.820
+2021,Azerbaijan,https://www.formula1.com/en/results/2021/races/1068/azerbaijan/race-result,06 Jun,Sergio,Perez,PER,Red Bull Racing Honda,51,2:13:36.410
+2021,France,https://www.formula1.com/en/results/2021/races/1070/france/race-result,20 Jun,Max,Verstappen,VER,Red Bull Racing Honda,53,1:27:25.770
+2021,Styria,https://www.formula1.com/en/results/2021/races/1092/styria/race-result,27 Jun,Max,Verstappen,VER,Red Bull Racing Honda,71,1:22:18.925
+2021,Austria,https://www.formula1.com/en/results/2021/races/1071/austria/race-result,04 Jul,Max,Verstappen,VER,Red Bull Racing Honda,71,1:23:54.543
+2021,Great Britain,https://www.formula1.com/en/results/2021/races/1072/great-britain/race-result,18 Jul,Lewis,Hamilton,HAM,Mercedes,52,1:58:23.284
+2021,Hungary,https://www.formula1.com/en/results/2021/races/1073/hungary/race-result,01 Aug,Esteban,Ocon,OCO,Alpine Renault,70,2:04:43.199
+2021,Belgium,https://www.formula1.com/en/results/2021/races/1074/belgium/race-result,29 Aug,Max,Verstappen,VER,Red Bull Racing Honda,1,3:27.071
+2021,Netherlands,https://www.formula1.com/en/results/2021/races/1075/netherlands/race-result,05 Sep,Max,Verstappen,VER,Red Bull Racing Honda,72,1:30:05.395
+2021,Italy,https://www.formula1.com/en/results/2021/races/1076/italy/race-result,12 Sep,Daniel,Ricciardo,RIC,McLaren Mercedes,53,1:21:54.365
+2021,Russia,https://www.formula1.com/en/results/2021/races/1077/russia/race-result,26 Sep,Lewis,Hamilton,HAM,Mercedes,53,1:30:41.001
+2021,Turkey,https://www.formula1.com/en/results/2021/races/1078/turkey/race-result,10 Oct,Valtteri,Bottas,BOT,Mercedes,58,1:31:04.103
+2021,United States,https://www.formula1.com/en/results/2021/races/1102/united-states/race-result,24 Oct,Max,Verstappen,VER,Red Bull Racing Honda,56,1:34:36.552
+2021,Mexico,https://www.formula1.com/en/results/2021/races/1103/mexico/race-result,07 Nov,Max,Verstappen,VER,Red Bull Racing Honda,71,1:38:39.086
+2021,Brazil,https://www.formula1.com/en/results/2021/races/1104/brazil/race-result,14 Nov,Lewis,Hamilton,HAM,Mercedes,71,1:32:22.851
+2021,Qatar,https://www.formula1.com/en/results/2021/races/1105/qatar/race-result,21 Nov,Lewis,Hamilton,HAM,Mercedes,57,1:24:28.471
+2021,Saudi Arabia,https://www.formula1.com/en/results/2021/races/1106/saudi-arabia/race-result,05 Dec,Lewis,Hamilton,HAM,Mercedes,50,2:06:15.118
+2021,Abu Dhabi,https://www.formula1.com/en/results/2021/races/1107/abu-dhabi/race-result,12 Dec,Max,Verstappen,VER,Red Bull Racing Honda,58,1:30:17.345
+2016,Australia,https://www.formula1.com/en/results/2016/races/938/australia/race-result,20 Mar,Nico,Rosberg,ROS,Mercedes,57,1:48:15.565
+2016,Bahrain,https://www.formula1.com/en/results/2016/races/939/bahrain/race-result,03 Apr,Nico,Rosberg,ROS,Mercedes,57,1:33:34.696
+2016,China,https://www.formula1.com/en/results/2016/races/940/china/race-result,17 Apr,Nico,Rosberg,ROS,Mercedes,56,1:38:53.891
+2016,Russia,https://www.formula1.com/en/results/2016/races/941/russia/race-result,01 May,Nico,Rosberg,ROS,Mercedes,53,1:32:41.997
+2016,Spain,https://www.formula1.com/en/results/2016/races/942/spain/race-result,15 May,Max,Verstappen,VER,Red Bull Racing TAG Heuer,66,1:41:40.017
+2016,Monaco,https://www.formula1.com/en/results/2016/races/943/monaco/race-result,29 May,Lewis,Hamilton,HAM,Mercedes,78,1:59:29.133
+2016,Canada,https://www.formula1.com/en/results/2016/races/944/canada/race-result,12 Jun,Lewis,Hamilton,HAM,Mercedes,70,1:31:05.296
+2016,Europe,https://www.formula1.com/en/results/2016/races/958/europe/race-result,19 Jun,Nico,Rosberg,ROS,Mercedes,51,1:32:52.366
+2016,Austria,https://www.formula1.com/en/results/2016/races/945/austria/race-result,03 Jul,Lewis,Hamilton,HAM,Mercedes,71,1:27:38.107
+2016,Great Britain,https://www.formula1.com/en/results/2016/races/946/great-britain/race-result,10 Jul,Lewis,Hamilton,HAM,Mercedes,52,1:34:55.831
+2016,Hungary,https://www.formula1.com/en/results/2016/races/947/hungary/race-result,24 Jul,Lewis,Hamilton,HAM,Mercedes,70,1:40:30.115
+2016,Germany,https://www.formula1.com/en/results/2016/races/948/germany/race-result,31 Jul,Lewis,Hamilton,HAM,Mercedes,67,1:30:44.200
+2016,Belgium,https://www.formula1.com/en/results/2016/races/949/belgium/race-result,28 Aug,Nico,Rosberg,ROS,Mercedes,44,1:44:51.058
+2016,Italy,https://www.formula1.com/en/results/2016/races/950/italy/race-result,04 Sep,Nico,Rosberg,ROS,Mercedes,53,1:17:28.089
+2016,Singapore,https://www.formula1.com/en/results/2016/races/951/singapore/race-result,18 Sep,Nico,Rosberg,ROS,Mercedes,61,1:55:48.950
+2016,Malaysia,https://www.formula1.com/en/results/2016/races/952/malaysia/race-result,02 Oct,Daniel,Ricciardo,RIC,Red Bull Racing TAG Heuer,56,1:37:12.776
+2016,Japan,https://www.formula1.com/en/results/2016/races/953/japan/race-result,09 Oct,Nico,Rosberg,ROS,Mercedes,53,1:26:43.333
+2016,United States,https://www.formula1.com/en/results/2016/races/954/united-states/race-result,23 Oct,Lewis,Hamilton,HAM,Mercedes,56,1:38:12.618
+2016,Mexico,https://www.formula1.com/en/results/2016/races/955/mexico/race-result,30 Oct,Lewis,Hamilton,HAM,Mercedes,71,1:40:31.402
+2016,Brazil,https://www.formula1.com/en/results/2016/races/956/brazil/race-result,13 Nov,Lewis,Hamilton,HAM,Mercedes,71,3:01:01.335
+2016,Abu Dhabi,https://www.formula1.com/en/results/2016/races/957/abu-dhabi/race-result,27 Nov,Lewis,Hamilton,HAM,Mercedes,55,1:38:04.013
+2023,Bahrain,https://www.formula1.com/en/results/2023/races/1141/bahrain/race-result,05 Mar,Max,Verstappen,VER,Red Bull Racing Honda RBPT,57,1:33:56.736
+2023,Saudi Arabia,https://www.formula1.com/en/results/2023/races/1142/saudi-arabia/race-result,19 Mar,Sergio,Perez,PER,Red Bull Racing Honda RBPT,50,1:21:14.894
+2023,Australia,https://www.formula1.com/en/results/2023/races/1143/australia/race-result,02 Apr,Max,Verstappen,VER,Red Bull Racing Honda RBPT,58,2:32:38.371
+2023,Azerbaijan,https://www.formula1.com/en/results/2023/races/1207/azerbaijan/race-result,30 Apr,Sergio,Perez,PER,Red Bull Racing Honda RBPT,51,1:32:42.436
+2023,Miami,https://www.formula1.com/en/results/2023/races/1208/miami/race-result,07 May,Max,Verstappen,VER,Red Bull Racing Honda RBPT,57,1:27:38.241
+2023,Monaco,https://www.formula1.com/en/results/2023/races/1210/monaco/race-result,28 May,Max,Verstappen,VER,Red Bull Racing Honda RBPT,78,1:48:51.980
+2023,Spain,https://www.formula1.com/en/results/2023/races/1211/spain/race-result,04 Jun,Max,Verstappen,VER,Red Bull Racing Honda RBPT,66,1:27:57.940
+2023,Canada,https://www.formula1.com/en/results/2023/races/1212/canada/race-result,18 Jun,Max,Verstappen,VER,Red Bull Racing Honda RBPT,70,1:33:58.348
+2023,Austria,https://www.formula1.com/en/results/2023/races/1213/austria/race-result,02 Jul,Max,Verstappen,VER,Red Bull Racing Honda RBPT,71,1:25:33.607
+2023,Great Britain,https://www.formula1.com/en/results/2023/races/1214/great-britain/race-result,09 Jul,Max,Verstappen,VER,Red Bull Racing Honda RBPT,52,1:25:16.938
+2023,Hungary,https://www.formula1.com/en/results/2023/races/1215/hungary/race-result,23 Jul,Max,Verstappen,VER,Red Bull Racing Honda RBPT,70,1:38:08.634
+2023,Belgium,https://www.formula1.com/en/results/2023/races/1216/belgium/race-result,30 Jul,Max,Verstappen,VER,Red Bull Racing Honda RBPT,44,1:22:30.450
+2023,Netherlands,https://www.formula1.com/en/results/2023/races/1217/netherlands/race-result,27 Aug,Max,Verstappen,VER,Red Bull Racing Honda RBPT,72,2:24:04.411
+2023,Italy,https://www.formula1.com/en/results/2023/races/1218/italy/race-result,03 Sep,Max,Verstappen,VER,Red Bull Racing Honda RBPT,51,1:13:41.143
+2023,Singapore,https://www.formula1.com/en/results/2023/races/1219/singapore/race-result,17 Sep,Carlos,Sainz,SAI,Ferrari,62,1:46:37.418
+2023,Japan,https://www.formula1.com/en/results/2023/races/1220/japan/race-result,24 Sep,Max,Verstappen,VER,Red Bull Racing Honda RBPT,53,1:30:58.421
+2023,Qatar,https://www.formula1.com/en/results/2023/races/1221/qatar/race-result,08 Oct,Max,Verstappen,VER,Red Bull Racing Honda RBPT,57,1:27:39.168
+2023,United States,https://www.formula1.com/en/results/2023/races/1222/united-states/race-result,22 Oct,Max,Verstappen,VER,Red Bull Racing Honda RBPT,56,1:35:21.362
+2023,Mexico,https://www.formula1.com/en/results/2023/races/1223/mexico/race-result,29 Oct,Max,Verstappen,VER,Red Bull Racing Honda RBPT,71,2:02:30.814
+2023,Brazil,https://www.formula1.com/en/results/2023/races/1224/brazil/race-result,05 Nov,Max,Verstappen,VER,Red Bull Racing Honda RBPT,71,1:56:48.894
+2023,Las Vegas,https://www.formula1.com/en/results/2023/races/1225/las-vegas/race-result,18 Nov,Max,Verstappen,VER,Red Bull Racing Honda RBPT,50,1:29:08.289
+2023,Abu Dhabi,https://www.formula1.com/en/results/2023/races/1226/abu-dhabi/race-result,26 Nov,Max,Verstappen,VER,Red Bull Racing Honda RBPT,58,1:27:02.624
+2024,Bahrain,https://www.formula1.com/en/results/2024/races/1229/bahrain/race-result,02 Mar,Max,Verstappen,VER,Red Bull Racing Honda RBPT,57,1:31:44.742
+2024,Saudi Arabia,https://www.formula1.com/en/results/2024/races/1230/saudi-arabia/race-result,09 Mar,Max,Verstappen,VER,Red Bull Racing Honda RBPT,50,1:20:43.273
+2024,Australia,https://www.formula1.com/en/results/2024/races/1231/australia/race-result,24 Mar,Carlos,Sainz,SAI,Ferrari,58,1:20:26.843
+2024,Japan,https://www.formula1.com/en/results/2024/races/1232/japan/race-result,07 Apr,Max,Verstappen,VER,Red Bull Racing Honda RBPT,53,1:54:23.566
+2024,China,https://www.formula1.com/en/results/2024/races/1233/china/race-result,21 Apr,Max,Verstappen,VER,Red Bull Racing Honda RBPT,56,1:40:52.554
+2024,Miami,https://www.formula1.com/en/results/2024/races/1234/miami/race-result,05 May,Lando,Norris,NOR,McLaren Mercedes,57,1:30:49.876
+2024,Emilia-Romagna,https://www.formula1.com/en/results/2024/races/1235/emilia-romagna/race-result,19 May,Max,Verstappen,VER,Red Bull Racing Honda RBPT,63,1:25:25.252
+2024,Monaco,https://www.formula1.com/en/results/2024/races/1236/monaco/race-result,26 May,Charles,Leclerc,LEC,Ferrari,78,2:23:15.554
+2024,Canada,https://www.formula1.com/en/results/2024/races/1237/canada/race-result,09 Jun,Max,Verstappen,VER,Red Bull Racing Honda RBPT,70,1:45:47.927
+2024,Spain,https://www.formula1.com/en/results/2024/races/1238/spain/race-result,23 Jun,Max,Verstappen,VER,Red Bull Racing Honda RBPT,66,1:28:20.227
+2024,Austria,https://www.formula1.com/en/results/2024/races/1239/austria/race-result,30 Jun,George,Russell,RUS,Mercedes,71,1:24:22.798
+2024,Great Britain,https://www.formula1.com/en/results/2024/races/1240/great-britain/race-result,07 Jul,Lewis,Hamilton,HAM,Mercedes,52,1:22:27.059
+2024,Hungary,https://www.formula1.com/en/results/2024/races/1241/hungary/race-result,21 Jul,Oscar,Piastri,PIA,McLaren Mercedes,70,1:38:01.989
+2024,Belgium,https://www.formula1.com/en/results/2024/races/1242/belgium/race-result,28 Jul,Lewis,Hamilton,HAM,Mercedes,44,1:19:57.566
+2024,Netherlands,https://www.formula1.com/en/results/2024/races/1243/netherlands/race-result,25 Aug,Lando,Norris,NOR,McLaren Mercedes,72,1:30:45.519
+2024,Italy,https://www.formula1.com/en/results/2024/races/1244/italy/race-result,01 Sep,Charles,Leclerc,LEC,Ferrari,53,1:14:40.727
+2024,Azerbaijan,https://www.formula1.com/en/results/2024/races/1245/azerbaijan/race-result,15 Sep,Oscar,Piastri,PIA,McLaren Mercedes,51,1:32:58.007
+2024,Singapore,https://www.formula1.com/en/results/2024/races/1246/singapore/race-result,22 Sep,Lando,Norris,NOR,McLaren Mercedes,62,1:40:52.571
+2024,United States,https://www.formula1.com/en/results/2024/races/1247/united-states/race-result,20 Oct,Charles,Leclerc,LEC,Ferrari,56,1:35:09.639
+2024,Mexico,https://www.formula1.com/en/results/2024/races/1248/mexico/race-result,27 Oct,Carlos,Sainz,SAI,Ferrari,71,1:40:55.800
+2024,Brazil,https://www.formula1.com/en/results/2024/races/1249/brazil/race-result,03 Nov,Max,Verstappen,VER,Red Bull Racing Honda RBPT,69,2:06:54.430
+2024,Las Vegas,https://www.formula1.com/en/results/2024/races/1250/las-vegas/race-result,23 Nov,George,Russell,RUS,Mercedes,50,1:22:05.969
+2024,Qatar,https://www.formula1.com/en/results/2024/races/1251/qatar/race-result,01 Dec,Max,Verstappen,VER,Red Bull Racing Honda RBPT,57,1:31:05.323
+2024,Abu Dhabi,https://www.formula1.com/en/results/2024/races/1252/abu-dhabi/race-result,08 Dec,Lando,Norris,NOR,McLaren Mercedes,58,1:26:33.291
