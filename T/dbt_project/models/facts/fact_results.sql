@@ -7,7 +7,7 @@ select
     r.driver_short_name as short_name,
     r.team,
     r.pos as position,
-    r.pts as points
+    (r.pts::float) as points
 from {{ ref('stg_results') }} as r
 join {{ ref('dim_races') }} as rc
     on r.url = rc.race_url
